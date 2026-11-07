@@ -1,34 +1,40 @@
-# LiveSportArena · Mappe 3D di sci alpino
+# 3DSkiTracks
 
-Un atlante interattivo di **LiveSportArena** per esplorare 23 piste di Coppa del Mondo attraverso 34 diorami. Dall’Hundschopf di Wengen alle gobbe della Saslong, ogni mappa segue la pista dalla partenza al traguardo e permette di selezionare i passaggi lungo il percorso.
+**3DSkiTracks è il componente di LiveSportArena dedicato alle piste della Coppa del Mondo di sci alpino.** Raccoglie 34 diorami interattivi per 23 piste di discesa libera, super-G, gigante e slalom. Puoi seguire una gara curva per curva, individuare un salto di cui hai sentito parlare in telecronaca o guardare dall’alto il tratto che precede l’arrivo.
 
-## Esplorare le piste
+![Il diorama del Lauberhorn a Wengen, con i punti selezionabili lungo la discesa e la scheda tecnica della pista](docs/images/wengen-lauberhorn-dh.png)
 
-Apri `index.html` nel browser e scegli una pista. Puoi filtrare per discesa libera (DH), super-G (SG), slalom gigante (GS) o slalom speciale (SL). Le pagine funzionano anche offline.
+*Wengen, Svizzera · Discesa libera maschile sul Lauberhorn.*
 
-- Trascina per ruotare il diorama e usa la rotella o il gesto a pizzico per regolare lo zoom.
-- Seleziona un punto sulla pista per leggerne la scheda. Usa le frecce sinistra e destra per passare da una sezione all’altra.
-- Passa alla vista dall’alto per seguire le curve o apri il profilo per osservare i cambi di pendenza.
+## Lungo il Lauberhorn
 
-Le geometrie sono illustrative e si basano su sei archetipi di terreno. Per i criteri di ricostruzione e la provenienza dei dati, consulta [Limiti e fonti](LIMITI_E_FONTI.md).
+A Wengen la discesa misura **4.480 metri**, con **1.028 metri di dislivello**. Per ritrovare l’Hundschopf lungo quei quattro chilometri, apri **Percorso** e seleziona il salto. La scheda racconta il passaggio e la mappa ne mostra la posizione lungo la discesa. Con le frecce della tastiera puoi seguire i punti successivi fino al traguardo.
 
-## Pubblicare su GitHub Pages
+La vista **Dall’alto** aiuta a leggere la successione delle curve. Il **Profilo** mostra come cambia la pendenza lungo il diorama. Per esplorare il terreno da vicino, trascina la mappa per ruotarla e usa la rotella o il gesto a pizzico per avvicinarti.
 
-1. Crea un repository dedicato e carica il **contenuto** della cartella del progetto sul ramo `main`. Il file `index.html`, la cartella `maps/` e il file nascosto `.nojekyll` devono trovarsi alla radice.
-2. Nel repository apri **Settings → Pages**. In **Build and deployment**, scegli **Deploy from a branch**.
-3. Seleziona **main** e **/(root)**, quindi premi **Save**.
-4. Al termine della pubblicazione, apri il sito dal collegamento mostrato in **Settings → Pages**.
+## Sotto le luci di Campiglio
 
-GitHub Pages serve direttamente le pagine HTML già presenti nel repository. [Guida di GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+Sul Canalone Miramonti la scala cambia. Lo slalom di Madonna di Campiglio concentra **180 metri di dislivello in 470 metri di pista**. Attivando **Gara serale**, i riflettori disegnano nel bosco la linea che scende verso le tribune.
 
-## Aggiornare una mappa
+![Il Canalone Miramonti in modalità serale, con la pista illuminata nel bosco fino alle tribune del traguardo](docs/images/madonna-di-campiglio-canalone-miramonti-sl.png)
 
-Le schede delle piste e dei loro passaggi si trovano in `data/research/`. Il file `data/course-configs.json` associa ogni variante al suo archetipo e agli elementi del percorso. La cartella `src/` contiene il motore grafico, i comandi e il modello HTML condiviso.
+*Madonna di Campiglio, Italia · Slalom maschile sul Canalone Miramonti.*
 
-Dopo aver modificato dati o sorgenti, rigenera le pagine dalla radice del progetto con Python 3.8 o successivo:
+## Esplorare l’atlante
+
+Dalla pagina iniziale puoi scegliere una località oppure filtrare per specialità. Per visitare l’atlante offline, scarica il progetto e apri `index.html` nel browser.
+
+I diorami si basano su sei archetipi di terreno. Le geometrie sono illustrative (non rilievi GPS). I criteri di ricostruzione e le fonti dei dati sono raccolti in [Limiti e fonti](LIMITI_E_FONTI.md).
+
+<details>
+<summary><strong>Aggiornare le mappe e pubblicare su GitHub Pages</strong></summary>
+
+Le schede delle piste si trovano in `data/research/`. Le configurazioni dei diorami sono in `data/course-configs.json` e l’interfaccia condivisa in `src/`. Dopo una modifica, rigenera le pagine dalla radice del progetto con Python 3.8 o successivo.
 
 ```sh
 python3 build.py
 ```
 
-Lo script usa la libreria standard di Python e aggiorna `index.html` e le 34 pagine in `maps/`. Per pubblicare le modifiche, includi anche queste pagine nel commit su `main`.
+Includi nel commit anche `index.html` e le pagine generate in `maps/`. Per la prima pubblicazione, apri **Settings → Pages**, scegli **Deploy from a branch**, seleziona il ramo che contiene il sito e la cartella **/(root)**, quindi premi **Save**. Mantieni `.nojekyll` alla radice. GitHub mostrerà l’indirizzo pubblico nella stessa schermata.
+
+</details>
