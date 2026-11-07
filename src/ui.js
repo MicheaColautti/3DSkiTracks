@@ -238,7 +238,7 @@
     };
     $('nightBtn').onclick = () => {
       R.night = !R.night; app.classList.toggle('night', R.night);
-      $('nightBtn').setAttribute('aria-pressed', String(R.night)); dirty = true;
+      $('nightBtn').setAttribute('aria-checked', String(R.night)); dirty = true;
     };
 
     // ---------------- input: ruota, zoom (rotella/pizzico), sposta (tasto destro, Maiusc, due dita)
@@ -320,7 +320,7 @@
     const hp = new URLSearchParams(location.hash.slice(1));
     if (hp.get('view') === 'top') $('viewTop').click();
     if (hp.get('labels') === '1') $('labelsToggle').click();
-    if (hp.get('night') === '1' && course.model.night) $('nightBtn').click();
+    if (course.model.night && hp.get('night') !== '0') $('nightBtn').click();
     if (hp.get('poi')) { select(clamp(parseInt(hp.get('poi'), 10) - 1 || 0, 0, poi.length - 1)); Object.assign(cam, { az: cam.goal.az, tilt: cam.goal.tilt, dist: cam.goal.dist, t: cam.goal.t.slice() }); }
     if (hp.get('panel') === 'list') $('listBtn').click();
     if (hp.get('panel') === 'profile') $('profileBtn').click();

@@ -14,7 +14,7 @@ La vista **Dall’alto** aiuta a leggere la successione delle curve. Il **Profil
 
 ## Sotto le luci di Campiglio
 
-Sul Canalone Miramonti la scala cambia. Lo slalom di Madonna di Campiglio concentra **180 metri di dislivello in 470 metri di pista**. Attivando **Gara serale**, i riflettori disegnano nel bosco la linea che scende verso le tribune.
+Sul Canalone Miramonti la scala cambia. Lo slalom di Madonna di Campiglio concentra **180 metri di dislivello in 470 metri di pista**. La mappa si apre in notturna, con i riflettori che disegnano nel bosco la linea verso le tribune. Il selettore **Giorno/Notte** permette di passare alla luce del giorno.
 
 ![Il Canalone Miramonti in modalità serale, con la pista illuminata nel bosco fino alle tribune del traguardo](docs/images/madonna-di-campiglio-canalone-miramonti-sl.png)
 

@@ -34,6 +34,10 @@ button{font:inherit;color:inherit}
 .segmented button{border:0;background:none;padding:0 13px;height:32px;border-radius:10px;font-size:13px;font-weight:600;cursor:pointer;color:var(--muted)}
 .segmented button.active{background:#fff;color:var(--ink);box-shadow:0 1px 4px rgba(23,49,77,.14)}
 .chip{display:inline-flex;align-items:center;gap:7px;height:38px;padding:0 14px;border-radius:13px;font-size:13px;font-weight:600;cursor:pointer;border:1px solid rgba(255,255,255,.75)}
+.lighting{display:inline-flex;align-items:center;height:38px;padding:3px;border-radius:13px;cursor:pointer}
+.lighting span{padding:5px 8px;border-radius:9px;font-size:13px;font-weight:600;color:var(--muted)}
+.lighting[aria-checked=false] span:first-child,.lighting[aria-checked=true] span:last-child{background:var(--ink);color:#fff}
+@media(max-width:480px){.toolbar:has(.lighting:not(.hidden)){gap:3px}.toolbar:has(.lighting:not(.hidden)) .segmented button,.toolbar:has(.lighting:not(.hidden)) .chip,.toolbar:has(.lighting:not(.hidden)) .switch{padding-inline:5px}.lighting span{padding-inline:4px}}
 .chip svg{width:16px;height:16px}
 .chip[aria-pressed=true],.chip[aria-expanded=true]{background:var(--ink);color:#fff;border-color:var(--ink)}
 .switch{display:inline-flex;align-items:center;gap:9px;height:38px;padding:0 10px 0 14px;border-radius:13px;font-size:13px;font-weight:600;cursor:pointer}
