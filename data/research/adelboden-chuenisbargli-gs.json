@@ -1,0 +1,354 @@
+{
+  "id": "adelboden-chuenisbargli-gs",
+  "course": "Chuenisbärgli",
+  "location": "Adelboden (BE), Svizzera",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 1730,
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1310,
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 1290,
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 420,
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "60%",
+      "where": "Zielhang (il sito parla anche di 'Kanonenrohr' come punto più ripido e di '50° Zielhang' – vedi open_questions)",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "30% (min 10%)",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Porte GS",
+        "value": "50–55",
+        "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+        "confidence": "official"
+      },
+      {
+        "label": "Dati alternativi (Wikipedia)",
+        "value": "arrivo 1294 m, dislivello 436 m, lunghezza 1430 m, max 31° (60%), media 16.7° (30%)",
+        "source": "https://en.wikipedia.org/wiki/Chuenisb%C3%A4rgli",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Durata manche",
+        "value": "circa 1 minuto",
+        "source": "https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+        "confidence": "media"
+      },
+      {
+        "label": "Slalom (stesso Zielhang)",
+        "value": "start 1513 m, arrivo 1302 m, 622 m, 211 m dislivello, max 50%",
+        "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+        "confidence": "official"
+      },
+      {
+        "label": "Edizione 2027",
+        "value": "71ª edizione; GS sabato 9.1.2027, SL domenica 10.1.2027",
+        "source": "https://www.plattformj.ch/artikel/247583/ ; https://www.alps2alps.com/blog/adelboden-ski-world-cup-2027-the-ultimate-giant-slalom-spectator-geneva-transfer-guide",
+        "confidence": "media"
+      },
+      {
+        "label": "Odermatt",
+        "value": "5 vittorie consecutive in GS al Chuenisbärgli (fino a gennaio 2026)",
+        "source": "https://www.plattformj.ch/artikel/247583/",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1730,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza a 1730 m; il tracciato precipita subito nel muro iniziale.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Kanonenrohr",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.06
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Canna di cannone': muro ripido subito dopo il via, ghiacciato e in ombra; il sito ufficiale lo indica come punto più ripido del tracciato. Trovare subito il ritmo è decisivo.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Schnittenmedli",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.25
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ingresso nella difficile parte centrale: il pendio si addolcisce ma il fondo mosso rende difficile ripetere la stessa curva di porta in porta.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Wintertal",
+      "kind": "other",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio in contropendenza che scende verso destra, con cambi di terreno dovuti a una strada e sentieri sepolti dalla neve; zona dove in primavera la neve resta più a lungo. Da qui alla Chäla 5–6 porte per prendere velocità.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Chäla",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.62
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto piatto: chi non arriva con abbastanza velocità perde tempo. Zona spettatori con videowall, tendone e ristoro.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Giisbrunni",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio di frenata/transizione che immette nello spettacolare Zielhang ripido.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Zielhang",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.86
+      },
+      "details": {
+        "gradient": "max 60% (ufficiale); il sito lo chiama '50° Zielhang'",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Muro finale ripido e ghiacciato, presentato dagli organizzatori come 'il più ripido Zielhang della Coppa del Mondo': le ultime circa otto porte sono la parte più impegnativa della gara.",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Ziel / Zielarena",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 1290,
+        "alt_m": 1310,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Arena d'arrivo ai piedi del muro finale, trasformata dal pubblico in un 'Hexenkessel' (calderone).",
+      "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Riesenslalom (1730 m)",
+    "description_it": "Partenza del gigante a 1730 m sul Chuenisbärgli; subito dopo il via il muro del Kanonenrohr, in ombra e ghiacciato.",
+    "source": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke ; https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984"
+  },
+  "finish_area": {
+    "name": "Zielarena Chuenisbärgli (Boden)",
+    "type": "stadium",
+    "description_it": "Arena d'arrivo ai piedi del ripidissimo Zielhang, con tribune riservate, fan zone in piedi a ridosso delle reti, maxischermi e tende VIP; il pubblico la trasforma in un 'Hexenkessel'. Per il 2027 la tribuna cresce di 600 posti a capienza complessiva invariata ('Qualität vor Quantität').",
+    "grandstands": "Tribuna d'arrivo (+600 posti nel 2027; totale non pubblicato)",
+    "capacity": "oltre 35'000 spettatori nel weekend (fonte non ufficiale)",
+    "night_race": false,
+    "notable": [
+      "Soprannome 'Hexenkessel' (nau.ch)",
+      "Fan zone e area Chäla con videowall e tendone",
+      "Odermatt 5 GS consecutivi vinti fino al 2026"
+    ],
+    "source": "https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984 ; https://www.plattformj.ch/artikel/247583/ ; https://www.alps2alps.com/blog/adelboden-ski-world-cup-2027-the-ultimate-giant-slalom-spectator-geneva-transfer-guide"
+  },
+  "environment": {
+    "forest": "Non documentato nelle fonti consultate (pista tra pascoli e bosco sopra Adelboden – da verificare con ortofoto).",
+    "above_treeline": "No: tracciato tra 1730 e 1310 m.",
+    "rocks": "Non documentate.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "Wintertal",
+        "description_it": "La pista attraversa una strada e sentieri coperti dalla neve, che creano cambi di terreno."
+      }
+    ],
+    "landmarks": [
+      "Paese di Adelboden",
+      "Zona Chäla (videowall, tendone)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Start 1730 m."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "renamed",
+      "note": "Nome reale: Kanonenrohr."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "renamed",
+      "note": "Corrisponde allo Schnittenmedli (ingresso parte centrale, fondo mosso)."
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "renamed",
+      "note": "Corrisponde al Wintertal (contropendenza a destra, strada sepolta)."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "Nessuna compressione nominata; eliminare o fondere con Wintertal."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "not_found",
+      "note": "Nessun 'curvone' documentato."
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "renamed",
+      "note": "Chäla (tratto piatto)."
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "renamed",
+      "note": "Prima viene il Giisbrunni (transizione), poi lo Zielhang (muro finale) – sono due elementi."
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "renamed",
+      "note": "Zielhang (ultime ~8 porte)."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "Zielarena 1310 m. Metriche archivio da correggere: lunghezza 1290 m (non 1.5 km), dislivello 420 m."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.weltcup-adelboden.ch/de/Info/Rennen/Rennstrecke",
+      "title": "Weltcup Adelboden – Rennstrecke",
+      "type": "official"
+    },
+    {
+      "url": "https://www.nau.ch/sport/wintersport/das-sind-die-herausforderungen-am-chuenisbargli-65637984",
+      "title": "nau.ch – Das sind die Herausforderungen am «Chuenisbärgli»",
+      "type": "media"
+    },
+    {
+      "url": "https://www.plattformj.ch/artikel/247583/",
+      "title": "plattformj – Ski Weltcup Adelboden 2027 (14.10.2026)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chuenisb%C3%A4rgli",
+      "title": "Wikipedia – Chuenisbärgli",
+      "type": "other"
+    },
+    {
+      "url": "https://www.alps2alps.com/blog/adelboden-ski-world-cup-2027-the-ultimate-giant-slalom-spectator-geneva-transfer-guide",
+      "title": "alps2alps – Adelboden Ski World Cup 2027 guide",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Distanze/altitudini delle singole sezioni non pubblicate: tutti gli s_approx sono stime.",
+    "Incoerenza sul sito ufficiale: 'Kanonenrohr = steilste Stelle' vs '50° Zielhang = steilster Zielhang im Weltcup'; i dati numerici danno max 60% (~31°). '50°' è probabilmente marketing o errore.",
+    "Grafia: Chäla/Chälä e Giisbrunni/Giisbruni (ufficiale vs nau.ch).",
+    "Dati divergenti: arrivo 1310 (ufficiale) vs 1294 (Wikipedia) vs 1290 (nau); lunghezza 1290 vs 1430 m.",
+    "Capienza ufficiale dell'arena e della tribuna non pubblicata (35'000 solo da guida turistica).",
+    "Direzione delle curve principali non documentata (GS: tracciato varia ogni anno)."
+  ]
+}

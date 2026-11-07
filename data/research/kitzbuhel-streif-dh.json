@@ -1,0 +1,585 @@
+{
+  "id": "kitzbuhel-streif-dh",
+  "course": "Streif",
+  "location": "Kitzbühel, Tirolo (AUT)",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 1665,
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 805,
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 3315,
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ (ufficiale attuale: 3.315 m; Wikipedia de/en e Austria-Forum riportano 3.312 m)",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 860,
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "85 %",
+      "where": "Steilhang secondo il sito ufficiale; Wikipedia de/en e Austria-Forum attribuiscono l'85 % (40,4°) alla Mausefalle e danno 72 % al Steilhang (en.wiki) - CONFLITTO",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "27 %",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "2 %",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Omologazione FIS",
+        "value": "14579/09/22",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità Mausefalle/Steilhang",
+        "value": "110–120 km/h",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità Hausberg-Querfahrt",
+        "value": "100–110 km/h",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità Zielsprung",
+        "value": "fino a 150 km/h",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità massima registrata",
+        "value": "153 km/h (Michael Walchhofer, 2006, Zielschuss)",
+        "source": "https://en.wikipedia.org/wiki/Streif",
+        "confidence": "media"
+      },
+      {
+        "label": "Record della pista",
+        "value": "1:51.58 (Fritz Strobl, 1997)",
+        "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Super-G (infobox)",
+        "value": "partenza 1.345 m, arrivo 805 m, dislivello 540 m, lunghezza 2.150 m (partenze SG variabili negli anni: Streifalm, Alte Schneise, Seidlalm-Speicherteich, sopra la Mausefalle)",
+        "source": "https://en.wikipedia.org/wiki/Streif ; https://de.wikipedia.org/wiki/Streif",
+        "confidence": "media"
+      },
+      {
+        "label": "Modifiche recenti",
+        "value": "2016 partenza abbassata verso la Mausefalle per vento/visibilità; 2022 partenza abbassata di 45 m (vento); 2010 Zielsprung addolcito; 2014 variante via Ganslern per poca neve; 2026 gara su pista integrale (vince G. Franzoni 1:52.31)",
+        "source": "https://en.wikipedia.org/wiki/Streif ; https://de.wikipedia.org/wiki/Streif",
+        "confidence": "media"
+      },
+      {
+        "label": "Spettatori",
+        "value": "40.000–50.000 tra Zielhang e stadio d'arrivo",
+        "source": "https://de.wikipedia.org/wiki/Streif",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Starthaus",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1665,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Casetta di partenza a 1.665 m sull'Hahnenkamm; descritta dagli organizzatori come la partenza più silenziosa del circuito, con un'atmosfera unica prima del tuffo nello Starthang.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Starthang (Startschuss)",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": null,
+        "s_approx": 0.03
+      },
+      "details": {
+        "gradient": "51 %",
+        "jump_length_m": null,
+        "speed_kmh": 100
+      },
+      "description_it": "Pendio di partenza di 160 m al 51 %: gli atleti toccano i 100 km/h in pochi secondi e arrivano alla Mausefalle dopo 8,5 s.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Mausefalle",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": 160,
+        "alt_m": null,
+        "s_approx": 0.06
+      },
+      "details": {
+        "gradient": "85 % secondo de/en Wikipedia e Austria-Forum (conflitto con sito ufficiale)",
+        "jump_length_m": 80,
+        "speed_kmh": "110–120"
+      },
+      "description_it": "Primo e più lungo salto della Streif (fino a 80 m storicamente, oggi 50–60 m) su un pendio ripidissimo seguito da compressione a circa 3 g; il simbolo della pista.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://austria-forum.org/af/Heimatlexikon/Die_Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Kompression (Mausefalle-Kompression)",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.09
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Compressione dopo l'atterraggio della Mausefalle con forti forze centrifughe, prima del Karussell.",
+      "source": "https://austria-forum.org/af/Heimatlexikon/Die_Streif",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Karussell",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva di 180° verso destra seguita da una sinistra (S-curve) prima dell'ingresso nello Steilhang: secondo l'organizzatore decide spesso vittoria o sconfitta; forze fino a 3,1 g.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Steilhang",
+      "kind": "wall/steep",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.17
+      },
+      "details": {
+        "gradient": "85 % (ufficiale) / 72 % (en.wiki)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Muro più ripido e tecnico della pista (85 % secondo il sito ufficiale): lunga curva a destra su fondo ghiacciato con spigoli perfetti; l'uscita (Steilhangausfahrt) è un punto chiave per la velocità successiva.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif ; https://de.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Brückenschuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.24
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Lungo tratto relativamente piatto dove bisogna 'saper scivolare': sci veloci e posizione aerodinamica fanno la differenza.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Gleitstück / Gschöss",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.32
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto di scorrimento di circa 20 secondi che prosegue nel Gschöss e porta, con un piccolo salto, nell'Alte Schneise.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Alte Schneise",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Vecchio corridoio nel bosco percorso in diagonale e in leggera pendenza laterale, introdotto da un piccolo salto; porta al salto della Seidlalm.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://austria-forum.org/af/Heimatlexikon/Die_Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Seidlalmsprung",
+      "kind": "jump",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto in uso dal 1994 che segna la metà della pista: affrontato a uovo senza visuale, con rotazione a destra in volo verso la curva della Seidlalm.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 11,
+      "name": "Seidlalmkurve",
+      "kind": "S-turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.54
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Lunga curva attorno alla baita Seidlalm, prima a destra e poi a sinistra (de.wiki la descrive come lunga curva a sinistra).",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Lärchenschuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.62
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Dopo una curva di quasi 90° si scorre tra i larici: puro scorrimento verso l'Oberhausberg.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 13,
+      "name": "Oberhausberg",
+      "kind": "S-turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva a destra e leggera contropendenza, poi una 'S' impegnativa con porte tecniche su tratto più piatto verso la Hausbergkante.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 14,
+      "name": "Hausbergkante",
+      "kind": "jump",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.78
+      },
+      "details": {
+        "gradient": "70 % (en.wiki)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto sul ciglio dell'Hausberg con atterraggio in compressione e svolta a sinistra; da qui si vede per la prima volta il traguardo.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 15,
+      "name": "Hausberg-Querfahrt (Traverse)",
+      "kind": "traverse",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.84
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "100–110"
+      },
+      "description_it": "Diagonale su pendio laterale ghiacciato e ondulato, da tenere sulla linea ideale a 100–110 km/h; termina con una curva a destra. Punto di molte cadute celebri.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://de.wikipedia.org/wiki/Streif ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 16,
+      "name": "Zielschuss (Zielschusskante und -kompression)",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.92
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "140–153"
+      },
+      "description_it": "Rettilineo finale a uovo con compressione che schiaccia l'atleta prima del salto; velocità oltre 140–150 km/h (record 153 km/h).",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://austria-forum.org/af/Heimatlexikon/Die_Streif ; https://en.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 17,
+      "name": "Zielsprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.96
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": 80,
+        "speed_kmh": "150"
+      },
+      "description_it": "Ultimo salto, affrontato fino a 150 km/h e ammorbidito nel 2010, che lancia sul Zielhang davanti al pubblico.",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://en.wikipedia.org/wiki/Streif ; https://de.wikipedia.org/wiki/Streif",
+      "confidence": "official"
+    },
+    {
+      "order": 18,
+      "name": "Rasmusleitn (Zielhang)",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 805,
+        "s_approx": 0.99
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio d'arrivo finale (Rasmusleitn) sotto lo Zielsprung, circondato dagli spettatori; poi frenata nello stadio d'arrivo.",
+      "source": "https://austria-forum.org/af/Heimatlexikon/Die_Streif ; https://en.wikipedia.org/wiki/Streif ; https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Starthaus Streif (Hahnenkamm, 1.665 m)",
+    "description_it": "Casetta di partenza sull'Hahnenkamm, raggiunta dalla stazione a monte dell'Hahnenkammbahn (percorso Streif-Live). Partenza ripida (51 %) che lancia direttamente verso la Mausefalle. Dal 2016 la partenza è stata più volte abbassata per vento/nebbia.",
+    "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/ ; https://www.kitzbuehel.com/touren/pdf/streif-live ; https://en.wikipedia.org/wiki/Streif"
+  },
+  "finish_area": {
+    "name": "Zielgelände Streif / Rasmusleitn",
+    "type": "stadium",
+    "description_it": "Arrivo a 805 m vicino al centro di Kitzbühel, ai piedi della Rasmusleitn; nello Zielgelände si trova il Rasmushof e accanto il pendio Ganslern (sede dello slalom). 40.000–50.000 spettatori tra Zielhang e stadio.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Zielsprung sopra la Rasmusleitn",
+      "Rasmushof nello Zielgelände",
+      "Ganslern (pendio dello slalom) adiacente",
+      "Hahnenkammbahn Talstation in città"
+    ],
+    "source": "https://de.wikipedia.org/wiki/Streif ; https://www.kitzbuehel.com/touren/pdf/streif-live ; https://austria-forum.org/af/Heimatlexikon/Die_Streif"
+  },
+  "environment": {
+    "forest": "Tracciato in gran parte nel bosco (Alte Schneise è un corridoio/taglio nel bosco; Lärchenschuss tra i larici).",
+    "above_treeline": "No: la partenza a 1.665 m è sostanzialmente al limite/sotto il limite del bosco (non documentato con precisione).",
+    "rocks": "Nessuna parete rocciosa documentata nelle fonti consultate.",
+    "glacier": false,
+    "crossings": [],
+    "landmarks": [
+      "Seidlalm (baita)",
+      "Speicherteich Seidlalmsee",
+      "Ganslernalm",
+      "Hahnenkammbahn (stazione a monte presso la partenza)",
+      "Kitz Panorama (piattaforma panoramica)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "renamed",
+      "note": "Nome reale: Starthaus (1.665 m). Manca lo Starthang (160 m, 51 %)."
+    },
+    {
+      "archive_name": "Mausefalle",
+      "status": "confirmed",
+      "note": "Corretta come primo salto. Fonti: fino a 80 m, 110–120 km/h."
+    },
+    {
+      "archive_name": "Steilhang",
+      "status": "wrong_order",
+      "note": "Lo Steilhang viene DOPO il Karussell (Mausefalle → Kompression → Karussell → Steilhang)."
+    },
+    {
+      "archive_name": "Karussell",
+      "status": "wrong_order",
+      "note": "Va prima dello Steilhang; è una curva a 180° a destra + sinistra, non un 'cambio di ritmo'."
+    },
+    {
+      "archive_name": "Brückenschuss",
+      "status": "confirmed",
+      "note": "Posizione corretta dopo lo Steilhang. Manca Gleitstück/Gschöss tra Brückenschuss e Alte Schneise."
+    },
+    {
+      "archive_name": "Alte Schneise",
+      "status": "confirmed",
+      "note": "Ordine corretto; è un traverso in diagonale introdotto da un piccolo salto."
+    },
+    {
+      "archive_name": "Seidlalmsprung",
+      "status": "confirmed",
+      "note": "Segna la metà della pista (s≈0,5). Manca la Seidlalmkurve successiva."
+    },
+    {
+      "archive_name": "Lärchenschuss",
+      "status": "confirmed",
+      "note": "Ordine corretto."
+    },
+    {
+      "archive_name": "Oberhausberg",
+      "status": "confirmed",
+      "note": "Ordine corretto."
+    },
+    {
+      "archive_name": "Hausbergkante",
+      "status": "confirmed",
+      "note": "Corretto, ma NON è l'ultimo momento tecnico: seguono Hausberg-Querfahrt (Traverse), Zielschuss e Zielsprung, mancanti nell'archivio (eccetto Zielschuss)."
+    },
+    {
+      "archive_name": "Zielschuss",
+      "status": "confirmed",
+      "note": "Corretto; aggiungere Zielsprung e Rasmusleitn dopo."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "Zielgelände/Rasmusleitn, 805 m, vicino al centro di Kitzbühel."
+    },
+    {
+      "archive_name": "metrics.length 3’312 m",
+      "status": "confirmed",
+      "note": "Sito ufficiale attuale riporta 3.315 m (omologazione 14579/09/22); 3.312 m è il dato storico/Wikipedia."
+    },
+    {
+      "archive_name": "metrics.focus 85% Mausefalle",
+      "status": "renamed",
+      "note": "Il sito ufficiale attribuisce l'85 % allo Steilhang; Wikipedia alla Mausefalle. Conflitto da segnalare."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "title": "HKR Kitzbühel – Die Streif Abfahrt",
+      "type": "official"
+    },
+    {
+      "url": "https://www.kitzbuehel.com/touren/pdf/streif-live",
+      "title": "Kitzbühel Tourismus – Streif Live (percorso)",
+      "type": "official"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Streif",
+      "title": "Wikipedia (de) – Streif",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Streif",
+      "title": "Wikipedia (en) – Streif",
+      "type": "other"
+    },
+    {
+      "url": "https://austria-forum.org/af/Heimatlexikon/Die_Streif",
+      "title": "Austria-Forum – Die Streif",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Pendenza 85 %: sul sito ufficiale è dello Steilhang, su Wikipedia/Austria-Forum della Mausefalle. Da verificare con il profilo FIS di omologazione.",
+    "Distanze/quote delle singole sezioni non pubblicate: le s_approx sono stime (solo Starthang 160 m e Seidlalmsprung ≈ metà sono documentati).",
+    "Incroci con strade, ponti, gallerie o impianti non documentati nelle fonti consultate (il nome Brückenschuss suggerisce un ponte storico ma non è confermato).",
+    "Capienza delle tribune dello stadio d'arrivo non trovata.",
+    "Direzione esatta della Seidlalmkurve: il sito ufficiale dice destra e poi sinistra, de.wiki dice lunga curva a sinistra."
+  ]
+}

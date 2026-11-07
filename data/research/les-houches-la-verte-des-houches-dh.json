@@ -1,0 +1,473 @@
+{
+  "id": "les-houches-la-verte-des-houches-dh",
+  "course": "La Verte des Houches (Kandahar)",
+  "location": "Les Houches / Chamonix",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 1871,
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1001,
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 3343,
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 870,
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": "non pubblicata per la DH (il 45% è dello SL)",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Velocità media",
+        "value": "circa 100 km/h",
+        "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità massima",
+        "value": "circa 140 km/h",
+        "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Tempo vincitore",
+        "value": "circa 2 minuti",
+        "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Salti parte alta",
+        "value": "due salti da 60 m intervallati dal virage du Rocher Blanc",
+        "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Slalom (stessa pista)",
+        "value": "1169→985 m, 624 m, 184 m, max 45%, media 31%",
+        "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Calendario 2026/27",
+        "value": "solo SL uomini 30.01.2027; nessuna DH in calendario",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Départ – sommet du Prarion",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1871,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza a 1871 m in cima al Prarion.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf ; https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "La Cassure",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.08
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": "60 (uncertain)",
+        "speed_kmh": null
+      },
+      "description_it": "Dopo una cresta verso il Col de Voza la pista precipita sul versante nord-est sopra Les Houches con un salto (probabilmente uno dei due da 60 m); qui c'è il maxischermo.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf ; https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Virage du Rocher Blanc",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.14
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva tra i due salti da 60 m della parte alta, definita una delle più tecniche del circuito.",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Saut (secondo salto da 60 m, nome non trovato)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.19
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": 60,
+        "speed_kmh": null
+      },
+      "description_it": "Secondo salto da 60 m della parte alta; nome non trovato (generico).",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Forêt du Nant Jorland",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": 130
+      },
+      "description_it": "Ingresso nel bosco di abeti lungo il torrente Nant Jorland: curve veloci e sopraelevate, luce che cambia a oltre 130 km/h.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 6,
+      "name": "Le Goulet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto spettacolare nella strettoia del bosco, citato come passaggio tecnico chiave.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf ; https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "media"
+    },
+    {
+      "order": 7,
+      "name": "Esses à Pessi",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.52
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Esse il cui ingresso condiziona tutta la parte bassa della gara.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 8,
+      "name": "Plat de la FIS",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto piano di scorrimento dove si guadagna o perde velocità.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 9,
+      "name": "Schuss Battendier",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.67
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Schuss in posizione aerodinamica dopo il Plat de la FIS.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 10,
+      "name": "La Rupe",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Prima delle gobbe della parte bassa ondulata, faticose a fine gara.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 11,
+      "name": "Covagnet",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.82
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Gobbe/ondulazioni della parte bassa: poco tecniche ma insidiose per la stanchezza.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 12,
+      "name": "Saut de la Route",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.88
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto sopra/presso una strada nella parte bassa; un errore qui costa il podio.",
+      "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "confidence": "media"
+    },
+    {
+      "order": 13,
+      "name": "Schuss final",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.95
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Schuss finale sempre spettacolare; gli ultimi ~200 m sono in comune con lo slalom.",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 14,
+      "name": "Arrivée",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 3343,
+        "alt_m": 1001,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 1001 m, condiviso con lo slalom, visibile dalle tribune.",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste ; https://chamonixworldcup.com/fr/la-course/la-piste",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Sommet du Prarion",
+    "description_it": "Partenza a 1871 m in cima al Prarion, su una cresta che guarda verso il Col de Voza e il massiccio del Monte Bianco.",
+    "source": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf ; https://chamonixworldcup.com/en/the-course/the-piste"
+  },
+  "finish_area": {
+    "name": "Arrivée de la Verte (Les Houches)",
+    "type": "slope_base",
+    "description_it": "Arrivo a circa 1000 m sopra il paese di Les Houches, comune a discesa e slalom (ultimi ~200 m condivisi); la parte bassa della Verte è in gran parte visibile dalle tribune.",
+    "grandstands": true,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Arrivo condiviso DH/SL",
+      "Maxischermo alla Cassure"
+    ],
+    "source": "https://chamonixworldcup.com/fr/la-course/la-piste"
+  },
+  "environment": {
+    "forest": "Ampio tratto nel bosco di abeti lungo il Nant Jorland (parte centrale); parte bassa ondulata.",
+    "above_treeline": "Solo la zona di partenza/cresta del Prarion è aperta (uncertain).",
+    "rocks": "Rocher Blanc (curva omonima); per il resto non documentate.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "Parte bassa (Saut de la Route)",
+        "description_it": "Il nome 'saut de la route' indica un salto in corrispondenza di una strada (inferenza)."
+      },
+      {
+        "kind": "rail",
+        "where": "Col de Voza (vicino alla partenza)",
+        "description_it": "Il Tramway du Mont-Blanc passa dal Col de Voza vicino alla cresta iniziale: NON verificato in questa ricerca (uncertain)."
+      }
+    ],
+    "landmarks": [
+      "Monte Bianco (uncertain, sullo sfondo)",
+      "Prarion",
+      "Col de Voza",
+      "Nant Jorland"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Primo salto",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Schuss centrale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Passaggio tecnico",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Zona di scorrimento",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Salto finale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Curve finali",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "POI generico di template (identico a Garmisch); sostituire con le sezioni reali."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "title": "The piste – Chamonix World Cup",
+      "type": "official"
+    },
+    {
+      "url": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "title": "La piste – Coupe du Monde Chamonix",
+      "type": "official"
+    },
+    {
+      "url": "https://a-fond.typepad.fr/alpeo/files/alpeo_3_kandahar_piste_verte.pdf",
+      "title": "Alpeo n°3 – Kandahar, piste Verte",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Plan Sec, Hôtel, Saut du Grand Mur, Chute Bernard: non trovati in nessuna fonte.",
+    "Ordine Cassure/Rocher Blanc: la fonte ufficiale cita 'due salti da 60 m intervallati dal Rocher Blanc'; l'identificazione Cassure = primo salto è un'inferenza.",
+    "Posizioni s_approx stimate; nessun dato di pendenza per sezione.",
+    "Nel 2026/27 non c'è DH a Les Houches (solo SL 30.01.2027): da considerare per l'uso della mappa.",
+    "Non letto: chamonix.net 'Kandahar: investimento di quasi 10 milioni di euro' (possibili lavori recenti)."
+  ]
+}

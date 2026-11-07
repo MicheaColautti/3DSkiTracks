@@ -1,0 +1,5077 @@
+{
+  "variants": [
+    {
+      "id": "kitzbuhel-streif-dh",
+      "course": "Streif",
+      "location": "Kitzbühel",
+      "country": "Austria",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Streif Downhill",
+      "source": "https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Starthaus",
+          "desc": "La partenza introduce subito una discesa estrema."
+        },
+        {
+          "name": "Mausefalle",
+          "type": "Salto",
+          "desc": "Uno dei salti più famosi e ripidi dell’intero sci alpino."
+        },
+        {
+          "name": "Steilhang",
+          "type": "Pendenza",
+          "desc": "Forte pendenza laterale e controllo delicatissimo degli spigoli."
+        },
+        {
+          "name": "Karussell",
+          "type": "Passaggio",
+          "desc": "Cambio di ritmo su terreno pieno e veloce."
+        },
+        {
+          "name": "Brückenschuss",
+          "type": "Schuss",
+          "desc": "Linea diretta ad altissima velocità."
+        },
+        {
+          "name": "Alte Schneise",
+          "type": "Passaggio tecnico",
+          "desc": "Sezione irregolare e piena di movimento."
+        },
+        {
+          "name": "Seidlalmsprung",
+          "type": "Salto",
+          "desc": "Salto storico della parte centrale."
+        },
+        {
+          "name": "Lärchenschuss",
+          "type": "Scorrimento",
+          "desc": "Fase di puro scorrimento dove ogni km/h conta."
+        },
+        {
+          "name": "Oberhausberg",
+          "type": "Curva",
+          "desc": "Ingresso in zona sempre decisiva per il risultato."
+        },
+        {
+          "name": "Hausbergkante",
+          "type": "Salto",
+          "desc": "Ultimo grande momento tecnico prima del traguardo."
+        },
+        {
+          "name": "Zielschuss",
+          "type": "Tratto finale",
+          "desc": "Ultimo scorrimento lanciato verso l’arrivo."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish area",
+          "desc": "Chiusura della classica di Kitzbühel."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -10,
+          -679
+        ],
+        [
+          -92,
+          -528
+        ],
+        [
+          -51,
+          -377
+        ],
+        [
+          25,
+          -226
+        ],
+        [
+          107,
+          -75
+        ],
+        [
+          153,
+          75
+        ],
+        [
+          61,
+          226
+        ],
+        [
+          -15,
+          377
+        ],
+        [
+          -117,
+          528
+        ],
+        [
+          -97,
+          679
+        ],
+        [
+          10,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          6,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 58,
+            "height": 54
+          },
+          {
+            "idx": 8,
+            "sep": 50,
+            "height": 42
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 102
+          },
+          {
+            "idx": 9,
+            "alt": 74
+          }
+        ],
+        "crowds": [
+          8,
+          10
+        ],
+        "windSigns": [
+          1,
+          6,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.78,
+        "width": 0.98,
+        "rough": 1.12,
+        "shoulder": 1.08
+      },
+      "metrics": {
+        "length": "3’312 m",
+        "vertical": "860 m",
+        "focus": "85% Mausefalle"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://hahnenkamm.com/rennstrecken/die-streif-abfahrt/"
+    },
+    {
+      "id": "wengen-lauberhorn-dh",
+      "course": "Lauberhorn",
+      "location": "Wengen",
+      "country": "Svizzera",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Lauberhorn Downhill",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Lauberhornschulter",
+          "desc": "La discesa comincia sulla spalla del Lauberhorn."
+        },
+        {
+          "name": "Russisprung",
+          "type": "Salto",
+          "desc": "Salto leggendario reso celebre anche dal lavoro di Bernhard Russi."
+        },
+        {
+          "name": "Traversenschuss",
+          "type": "Tratto veloce",
+          "desc": "Accelerazione impressionante con terreno vivo e tante ondulazioni."
+        },
+        {
+          "name": "Hundschopf",
+          "type": "Salto · 41°",
+          "desc": "Passaggio simbolo della pista: strettoia tra rocce e salto nel punto più ripido."
+        },
+        {
+          "name": "Minschkante",
+          "type": "Salto e curva",
+          "desc": "Dosso tecnico che obbliga a una linea molto precisa."
+        },
+        {
+          "name": "Canadian Corner",
+          "type": "Curva",
+          "desc": "Curva celebre dedicata agli atleti canadesi."
+        },
+        {
+          "name": "Alpweg / Kernen-S",
+          "type": "Sequenza a S",
+          "desc": "Strettoia e doppio cambio di direzione fra i più famosi del circuito."
+        },
+        {
+          "name": "Wasserstation",
+          "type": "Sottopasso",
+          "desc": "Passaggio sotto la ferrovia, uno dei punti più scenografici della discesa."
+        },
+        {
+          "name": "Langentrejen",
+          "type": "Scorrimento",
+          "desc": "Zona dove conta tenere velocità e pulizia di linea."
+        },
+        {
+          "name": "Hanneggschuss",
+          "type": "Alta velocità",
+          "desc": "Lungo tratto rapidissimo con forte compressione finale."
+        },
+        {
+          "name": "Seilersboden",
+          "type": "Raccordo",
+          "desc": "Breve respiro prima del finale."
+        },
+        {
+          "name": "Silberhornsprung",
+          "type": "Salto",
+          "desc": "Salto televisivamente iconico con grande carico visivo."
+        },
+        {
+          "name": "Österreicherloch",
+          "type": "Storico",
+          "desc": "Passaggio dal nome carico di memoria e tradizione."
+        },
+        {
+          "name": "Ziel-S",
+          "type": "Curve finali",
+          "desc": "Ultime tre curve strette e ghiacciate prima del traguardo."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Innerwengen",
+          "desc": "Finish a quota 1’287 m."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -1060
+        ],
+        [
+          -36,
+          -909
+        ],
+        [
+          -114,
+          -757
+        ],
+        [
+          -83,
+          -606
+        ],
+        [
+          10,
+          -454
+        ],
+        [
+          114,
+          -303
+        ],
+        [
+          140,
+          -151
+        ],
+        [
+          42,
+          0
+        ],
+        [
+          -62,
+          151
+        ],
+        [
+          -94,
+          303
+        ],
+        [
+          -68,
+          454
+        ],
+        [
+          21,
+          606
+        ],
+        [
+          130,
+          757
+        ],
+        [
+          36,
+          909
+        ],
+        [
+          73,
+          1060
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          4,
+          11
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 66,
+            "height": 68
+          }
+        ],
+        "bridge": [
+          7
+        ],
+        "airborne": [
+          {
+            "idx": 3,
+            "alt": 92
+          },
+          {
+            "idx": 11,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          6,
+          13
+        ],
+        "windSigns": [
+          1,
+          3,
+          4,
+          11
+        ],
+        "remove_extra_rocks": true
+      },
+      "terrain": {
+        "steepness": 1.62,
+        "width": 1.0,
+        "rough": 1.08,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4’480 m",
+        "vertical": "1’028 m",
+        "focus": "41° Hundschopf"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Altitudini ufficiali: partenza 2’315 m, arrivo 1’287 m. Fonte ufficiale Lauberhorn."
+    },
+    {
+      "id": "bormio-stelvio-dh",
+      "course": "Stelvio",
+      "location": "Bormio",
+      "country": "Italia",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Stelvio Discesa libera",
+      "source": "https://www.bormioski.eu/pista-stelvio/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://www.bormioski.eu/pista-stelvio/"
+    },
+    {
+      "id": "val-gardena-saslong-dh",
+      "course": "Saslong",
+      "location": "Val Gardena",
+      "country": "Italia",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Saslong Downhill",
+      "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+      "poi": [
+        {
+          "name": "Partenza Ciampinoi",
+          "type": "Start",
+          "desc": "Partenza in quota sul Ciampinoi."
+        },
+        {
+          "name": "Spinel",
+          "type": "Pendenza",
+          "desc": "Il tratto iniziale più ripido della Saslong."
+        },
+        {
+          "name": "Saut dl Moro",
+          "type": "Salto",
+          "desc": "Primo grande salto della discesa."
+        },
+        {
+          "name": "Sochers Walls",
+          "type": "Pendenza",
+          "desc": "Muro veloce che porta nel cuore della pista."
+        },
+        {
+          "name": "Camel Humps",
+          "type": "Salti",
+          "desc": "La sezione simbolo: tre gobbe da affrontare in pieno assetto."
+        },
+        {
+          "name": "Ciaslat",
+          "type": "Dossi e curve",
+          "desc": "Ondulazioni continue e traiettoria decisiva per la gara."
+        },
+        {
+          "name": "Nucia Turn",
+          "type": "Curva",
+          "desc": "Curva sinistra ripida e impegnativa."
+        },
+        {
+          "name": "Tunnel Jump",
+          "type": "Salto",
+          "desc": "Ultimo salto con tunnel sottostante."
+        },
+        {
+          "name": "Arrivo Ruacia",
+          "type": "Finish",
+          "desc": "Chiusura nel classico parterre di Val Gardena."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -622
+        ],
+        [
+          -135,
+          -415
+        ],
+        [
+          -78,
+          -208
+        ],
+        [
+          26,
+          0
+        ],
+        [
+          120,
+          208
+        ],
+        [
+          161,
+          415
+        ],
+        [
+          83,
+          622
+        ],
+        [
+          -31,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2,
+          4,
+          7
+        ],
+        "narrows": [
+          {
+            "idx": 5,
+            "sep": 56,
+            "height": 44
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 88
+          },
+          {
+            "idx": 7,
+            "alt": 62
+          }
+        ],
+        "crowds": [
+          5
+        ],
+        "windSigns": [
+          2,
+          4,
+          7
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.48,
+        "width": 1.0,
+        "rough": 1.08,
+        "shoulder": 0.98
+      },
+      "metrics": {
+        "length": "3’446 m",
+        "vertical": "839 m",
+        "focus": "Camel Humps"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/"
+    },
+    {
+      "id": "alta-badia-gran-risa-gs",
+      "course": "Gran Risa",
+      "location": "Alta Badia",
+      "country": "Italia",
+      "gender": "M",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Gran Risa Giant Slalom",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza del gigante su una pista subito molto selettiva."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Primo tratto molto ripido che imposta tutto il gigante."
+        },
+        {
+          "name": "Curvone alto",
+          "type": "Curva",
+          "desc": "Linea alta e pulita per non perdere ritmo."
+        },
+        {
+          "name": "Gobbe centrali",
+          "type": "Ritmo",
+          "desc": "Micro-ondulazioni che rompono la continuità."
+        },
+        {
+          "name": "Sezione cieca",
+          "type": "Cambio pendenza",
+          "desc": "Lettura del terreno fondamentale."
+        },
+        {
+          "name": "Tratto tecnico",
+          "type": "Ritmo",
+          "desc": "Gates vicine e lavoro in rapido susseguirsi."
+        },
+        {
+          "name": "Piatto corto",
+          "type": "Scorrimento",
+          "desc": "Transizione breve prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Parte conclusiva in forte pendenza."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Chiude uno dei giganti più tecnici del circuito."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -63,
+          -622
+        ],
+        [
+          -123,
+          -415
+        ],
+        [
+          -47,
+          -208
+        ],
+        [
+          47,
+          0
+        ],
+        [
+          111,
+          208
+        ],
+        [
+          43,
+          415
+        ],
+        [
+          -43,
+          622
+        ],
+        [
+          -107,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          3
+        ],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 44,
+            "height": 38
+          },
+          {
+            "idx": 7,
+            "sep": 48,
+            "height": 40
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          7
+        ],
+        "windSigns": [
+          3
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.26,
+        "width": 0.76,
+        "rough": 0.86,
+        "shoulder": 0.9
+      },
+      "metrics": {
+        "length": "1’255 m",
+        "vertical": "448 m",
+        "focus": "Muro Gran Risa"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope"
+    },
+    {
+      "id": "kronplatz-erta-gs",
+      "course": "Erta",
+      "location": "Kronplatz",
+      "country": "Italia",
+      "gender": "W",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Erta Slalom gigante",
+      "source": "https://alplanevents.it/en/piste",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://alplanevents.it/en/piste"
+    },
+    {
+      "id": "cortina-d-ampezzo-olympia-delle-tofane-dh",
+      "course": "Olympia delle Tofane",
+      "location": "Cortina d'Ampezzo",
+      "country": "Italia",
+      "gender": "W",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Olympia delle Tofane Discesa libera",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://www.cortinaskiworldcup.com/la-pista/"
+    },
+    {
+      "id": "cortina-d-ampezzo-olympia-delle-tofane-sg",
+      "course": "Olympia delle Tofane",
+      "location": "Cortina d'Ampezzo",
+      "country": "Italia",
+      "gender": "W",
+      "discipline": "SG",
+      "disciplineLabel": "Super-G",
+      "subtitle": "Olympia delle Tofane Super-G",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Avvio del super-G, con primo tratto immediatamente da leggere bene."
+        },
+        {
+          "name": "Ingresso veloce",
+          "type": "Pendenza",
+          "desc": "Fase iniziale molto rapida."
+        },
+        {
+          "name": "Curva lunga",
+          "type": "Curva",
+          "desc": "Curvone che imposta il resto della manche."
+        },
+        {
+          "name": "Cambio di pendenza",
+          "type": "Passaggio",
+          "desc": "Piccolo dosso e successiva compressione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Sezione da far correre."
+        },
+        {
+          "name": "Porta chiave",
+          "type": "Passaggio",
+          "desc": "Linea molto importante per arrivare bene al finale."
+        },
+        {
+          "name": "Salto",
+          "type": "Salto",
+          "desc": "Elementi di terreno che spezzano il ritmo del super-G."
+        },
+        {
+          "name": "Finale",
+          "type": "Curve finali",
+          "desc": "Ultime curve ad alta velocità."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Conclusione del super-G."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -39,
+          -622
+        ],
+        [
+          -88,
+          -415
+        ],
+        [
+          -39,
+          -208
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          88,
+          208
+        ],
+        [
+          112,
+          415
+        ],
+        [
+          54,
+          622
+        ],
+        [
+          -10,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2,
+          7
+        ],
+        "narrows": [
+          {
+            "idx": 5,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 2,
+            "alt": 68
+          },
+          {
+            "idx": 7,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          7
+        ],
+        "windSigns": [
+          2,
+          7
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.35,
+        "width": 0.94,
+        "rough": 0.86,
+        "shoulder": 0.92
+      },
+      "metrics": {
+        "length": "3 km circa",
+        "vertical": "—",
+        "focus": "Speed tecnico"
+      },
+      "styleLabel": "Speed tecnico",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità super-g e sulle informazioni raccolte. Fonte di riferimento: https://www.cortinaskiworldcup.com/la-pista/"
+    },
+    {
+      "id": "solden-rettenbach-gs",
+      "course": "Rettenbach",
+      "location": "Sölden",
+      "country": "Austria",
+      "gender": "ALL",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Rettenbach Slalom gigante",
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste"
+    },
+    {
+      "id": "adelboden-chuenisbargli-gs",
+      "course": "Chuenisbärgli",
+      "location": "Adelboden",
+      "country": "Svizzera",
+      "gender": "M",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Chuenisbärgli Slalom gigante",
+      "source": "https://medias4.fis-ski.com/pdf/2026/AL/0022/2026AL0022.pdf",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://medias4.fis-ski.com/pdf/2026/AL/0022/2026AL0022.pdf"
+    },
+    {
+      "id": "levi-levi-black-sl",
+      "course": "Levi Black",
+      "location": "Levi",
+      "country": "Finlandia",
+      "gender": "ALL",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Levi Black Slalom",
+      "source": "https://www.levi.fi/en/ski/slopes-and-lifts/west-slopes/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.02,
+        "width": 0.62,
+        "rough": 0.62,
+        "shoulder": 0.8
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.levi.fi/en/ski/slopes-and-lifts/west-slopes/"
+    },
+    {
+      "id": "gurgl-kirchenkar-sl",
+      "course": "Kirchenkar",
+      "location": "Gurgl",
+      "country": "Austria",
+      "gender": "ALL",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Kirchenkar Slalom",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.02,
+        "width": 0.62,
+        "rough": 0.62,
+        "shoulder": 0.8
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf"
+    },
+    {
+      "id": "schladming-planai-sl",
+      "course": "Planai",
+      "location": "Schladming",
+      "country": "Austria",
+      "gender": "M",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Planai Night Slalom",
+      "source": "https://www.schladming-dachstein.at/de/schladming-dachstein-entdecken/winterberge/planai",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Start sotto i riflettori della classica serale di Schladming."
+        },
+        {
+          "name": "Muro alto",
+          "type": "Pendenza",
+          "desc": "Ingresso deciso e senza tregua."
+        },
+        {
+          "name": "Ritmo centrale",
+          "type": "Ritmo",
+          "desc": "Tracciato fitto e senza tempo morto."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Serve centralità e cambi rapidissimi."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione secco e aggressivo."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Ritmo serrato in piena accelerazione."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Brevissimo tratto per rilanciare."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Il classico finale Planai davanti al muro di pubblico."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Stadium",
+          "desc": "Finish in uno dei traguardi più iconici del circuito."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -60,
+          -622
+        ],
+        [
+          40,
+          -415
+        ],
+        [
+          -53,
+          -208
+        ],
+        [
+          43,
+          0
+        ],
+        [
+          -40,
+          208
+        ],
+        [
+          50,
+          415
+        ],
+        [
+          -33,
+          622
+        ],
+        [
+          40,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 4,
+            "sep": 34,
+            "height": 28
+          },
+          {
+            "idx": 7,
+            "sep": 36,
+            "height": 30
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          7
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.08,
+        "width": 0.64,
+        "rough": 0.72,
+        "shoulder": 0.82
+      },
+      "metrics": {
+        "length": "—",
+        "vertical": "—",
+        "focus": "Final wall"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.schladming-dachstein.at/de/schladming-dachstein-entdecken/winterberge/planai"
+    },
+    {
+      "id": "schladming-planai-gs",
+      "course": "Planai",
+      "location": "Schladming",
+      "country": "Austria",
+      "gender": "M",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Planai Slalom gigante",
+      "source": "https://www.schladming-dachstein.at/de/schladming-dachstein-entdecken/winterberge/planai",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.schladming-dachstein.at/de/schladming-dachstein-entdecken/winterberge/planai"
+    },
+    {
+      "id": "crans-montana-mont-lachaux-dh",
+      "course": "Mont Lachaux",
+      "location": "Crans-Montana",
+      "country": "Svizzera",
+      "gender": "W",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Mont Lachaux Discesa libera",
+      "source": "https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/"
+    },
+    {
+      "id": "crans-montana-mont-lachaux-sg",
+      "course": "Mont Lachaux",
+      "location": "Crans-Montana",
+      "country": "Svizzera",
+      "gender": "W",
+      "discipline": "SG",
+      "disciplineLabel": "Super-G",
+      "subtitle": "Mont Lachaux Super-G",
+      "source": "https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Avvio del super-G, con primo tratto immediatamente da leggere bene."
+        },
+        {
+          "name": "Ingresso veloce",
+          "type": "Pendenza",
+          "desc": "Fase iniziale molto rapida."
+        },
+        {
+          "name": "Curva lunga",
+          "type": "Curva",
+          "desc": "Curvone che imposta il resto della manche."
+        },
+        {
+          "name": "Cambio di pendenza",
+          "type": "Passaggio",
+          "desc": "Piccolo dosso e successiva compressione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Sezione da far correre."
+        },
+        {
+          "name": "Porta chiave",
+          "type": "Passaggio",
+          "desc": "Linea molto importante per arrivare bene al finale."
+        },
+        {
+          "name": "Salto",
+          "type": "Salto",
+          "desc": "Elementi di terreno che spezzano il ritmo del super-G."
+        },
+        {
+          "name": "Finale",
+          "type": "Curve finali",
+          "desc": "Ultime curve ad alta velocità."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Conclusione del super-G."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -39,
+          -622
+        ],
+        [
+          -88,
+          -415
+        ],
+        [
+          -39,
+          -208
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          88,
+          208
+        ],
+        [
+          112,
+          415
+        ],
+        [
+          54,
+          622
+        ],
+        [
+          -10,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2,
+          7
+        ],
+        "narrows": [
+          {
+            "idx": 5,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 2,
+            "alt": 68
+          },
+          {
+            "idx": 7,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          7
+        ],
+        "windSigns": [
+          2,
+          7
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.35,
+        "width": 0.94,
+        "rough": 0.86,
+        "shoulder": 0.92
+      },
+      "metrics": {
+        "length": "3 km circa",
+        "vertical": "—",
+        "focus": "Speed tecnico"
+      },
+      "styleLabel": "Speed tecnico",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità super-g e sulle informazioni raccolte. Fonte di riferimento: https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/"
+    },
+    {
+      "id": "beaver-creek-birds-of-prey-dh",
+      "course": "Birds of Prey",
+      "location": "Beaver Creek",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Birds of Prey Downhill",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Start molto alto e aggressivo nel Colorado."
+        },
+        {
+          "name": "Golden Eagle",
+          "type": "Pendenza",
+          "desc": "Primo muro ripidissimo, simbolo della pista."
+        },
+        {
+          "name": "Harrier Jump",
+          "type": "Salto",
+          "desc": "Salto importante nella prima parte."
+        },
+        {
+          "name": "Talon turn",
+          "type": "Curva",
+          "desc": "Curvone veloce su terreno mosso."
+        },
+        {
+          "name": "Screech Owl",
+          "type": "Passaggio",
+          "desc": "Compressioni e cambi di ritmo."
+        },
+        {
+          "name": "Red Tail",
+          "type": "Scorrimento",
+          "desc": "Fase di grande scorrimento e linee ampie."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Chiusura della classica di Beaver Creek."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -64,
+          -553
+        ],
+        [
+          -138,
+          -277
+        ],
+        [
+          -80,
+          0
+        ],
+        [
+          27,
+          277
+        ],
+        [
+          122,
+          553
+        ],
+        [
+          164,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2
+        ],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 56,
+            "height": 44
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 2,
+            "alt": 78
+          }
+        ],
+        "crowds": [
+          5
+        ],
+        "windSigns": [
+          2
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.66,
+        "width": 1.02,
+        "rough": 1.02,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "—",
+        "vertical": "—",
+        "focus": "Golden Eagle"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://bcworldcup.com/fis-alpine-ski-racing-101/"
+    },
+    {
+      "id": "beaver-creek-birds-of-prey-sg",
+      "course": "Birds of Prey",
+      "location": "Beaver Creek",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "SG",
+      "disciplineLabel": "Super-G",
+      "subtitle": "Birds of Prey Super-G",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Avvio del super-G, con primo tratto immediatamente da leggere bene."
+        },
+        {
+          "name": "Ingresso veloce",
+          "type": "Pendenza",
+          "desc": "Fase iniziale molto rapida."
+        },
+        {
+          "name": "Curva lunga",
+          "type": "Curva",
+          "desc": "Curvone che imposta il resto della manche."
+        },
+        {
+          "name": "Cambio di pendenza",
+          "type": "Passaggio",
+          "desc": "Piccolo dosso e successiva compressione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Sezione da far correre."
+        },
+        {
+          "name": "Porta chiave",
+          "type": "Passaggio",
+          "desc": "Linea molto importante per arrivare bene al finale."
+        },
+        {
+          "name": "Salto",
+          "type": "Salto",
+          "desc": "Elementi di terreno che spezzano il ritmo del super-G."
+        },
+        {
+          "name": "Finale",
+          "type": "Curve finali",
+          "desc": "Ultime curve ad alta velocità."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Conclusione del super-G."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -39,
+          -622
+        ],
+        [
+          -88,
+          -415
+        ],
+        [
+          -39,
+          -208
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          88,
+          208
+        ],
+        [
+          112,
+          415
+        ],
+        [
+          54,
+          622
+        ],
+        [
+          -10,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2,
+          7
+        ],
+        "narrows": [
+          {
+            "idx": 5,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 2,
+            "alt": 68
+          },
+          {
+            "idx": 7,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          7
+        ],
+        "windSigns": [
+          2,
+          7
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.35,
+        "width": 0.94,
+        "rough": 0.86,
+        "shoulder": 0.92
+      },
+      "metrics": {
+        "length": "3 km circa",
+        "vertical": "—",
+        "focus": "Speed tecnico"
+      },
+      "styleLabel": "Speed tecnico",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità super-g e sulle informazioni raccolte. Fonte di riferimento: https://bcworldcup.com/fis-alpine-ski-racing-101/"
+    },
+    {
+      "id": "beaver-creek-birds-of-prey-gs",
+      "course": "Birds of Prey",
+      "location": "Beaver Creek",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Birds of Prey Slalom gigante",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://bcworldcup.com/fis-alpine-ski-racing-101/"
+    },
+    {
+      "id": "garmisch-partenkirchen-kandahar-dh",
+      "course": "Kandahar",
+      "location": "Garmisch-Partenkirchen",
+      "country": "Germania",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Kandahar Discesa libera",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt"
+    },
+    {
+      "id": "madonna-di-campiglio-canalone-miramonti-sl",
+      "course": "Canalone Miramonti",
+      "location": "Madonna di Campiglio",
+      "country": "Italia",
+      "gender": "M",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Canalone Miramonti Slalom",
+      "source": "https://www.3trecampiglio.it/en/experience-3tre/buy-your-ticket",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Lo slalom in notturna scatta su un pendio subito severo."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione molto ripida e stretta."
+        },
+        {
+          "name": "Hairpin alta",
+          "type": "Curva",
+          "desc": "Cambio di direzione netto da eseguire con tempismo."
+        },
+        {
+          "name": "Verticale",
+          "type": "Ritmo",
+          "desc": "Serie veloce di porte nel cuore del tracciato."
+        },
+        {
+          "name": "Canalone",
+          "type": "Passaggio",
+          "desc": "Sezione iconica incassata, con pochissimo margine."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che carica gli sci e rompe il ritmo."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Nuovo cambio di pendenza verso il traguardo."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Stadium",
+          "desc": "Conclusione nel catino di Madonna di Campiglio."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -56,
+          -593
+        ],
+        [
+          37,
+          -356
+        ],
+        [
+          -50,
+          -119
+        ],
+        [
+          41,
+          119
+        ],
+        [
+          -37,
+          356
+        ],
+        [
+          47,
+          593
+        ],
+        [
+          -31,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 32,
+            "height": 32
+          },
+          {
+            "idx": 4,
+            "sep": 30,
+            "height": 38
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          6
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.12,
+        "width": 0.6,
+        "rough": 0.76,
+        "shoulder": 0.84
+      },
+      "metrics": {
+        "length": "—",
+        "vertical": "—",
+        "focus": "Stretto e ripido"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.3trecampiglio.it/en/experience-3tre/buy-your-ticket"
+    },
+    {
+      "id": "val-d-isere-face-de-bellevarde-gs",
+      "course": "Face de Bellevarde",
+      "location": "Val d'Isère",
+      "country": "Francia",
+      "gender": "M",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Face de Bellevarde Giant Slalom",
+      "source": "https://www.worldcup-valdisere.com/les-pistes/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.22,
+        "width": 0.78,
+        "rough": 0.82,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.worldcup-valdisere.com/les-pistes/"
+    },
+    {
+      "id": "val-d-isere-face-de-bellevarde-sl",
+      "course": "Face de Bellevarde",
+      "location": "Val d'Isère",
+      "country": "Francia",
+      "gender": "M",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Face de Bellevarde Slalom",
+      "source": "https://www.worldcup-valdisere.com/les-pistes/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.08,
+        "width": 0.62,
+        "rough": 0.7,
+        "shoulder": 0.82
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.worldcup-valdisere.com/les-pistes/"
+    },
+    {
+      "id": "jasna-lukova-koliesko-gs",
+      "course": "Luková – Koliesko",
+      "location": "Jasná",
+      "country": "Slovacchia",
+      "gender": "W",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Luková – Koliesko Slalom gigante",
+      "source": "https://www.worldcupjasna.sk/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.worldcupjasna.sk/"
+    },
+    {
+      "id": "kranjska-gora-podkoren-sl",
+      "course": "Podkoren",
+      "location": "Kranjska Gora",
+      "country": "Slovenia",
+      "gender": "ALL",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Podkoren Slalom",
+      "source": "https://kranjska-gora.si/en/activities/through-stan-to-podkoren",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.02,
+        "width": 0.62,
+        "rough": 0.62,
+        "shoulder": 0.8
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://kranjska-gora.si/en/activities/through-stan-to-podkoren"
+    },
+    {
+      "id": "kranjska-gora-podkoren-gs",
+      "course": "Podkoren",
+      "location": "Kranjska Gora",
+      "country": "Slovenia",
+      "gender": "ALL",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Podkoren Slalom gigante",
+      "source": "https://kranjska-gora.si/en/activities/through-stan-to-podkoren",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://kranjska-gora.si/en/activities/through-stan-to-podkoren"
+    },
+    {
+      "id": "flachau-hermann-maier-weltcupstrecke-sl",
+      "course": "Hermann Maier Weltcupstrecke",
+      "location": "Flachau",
+      "country": "Austria",
+      "gender": "W",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Hermann Maier Weltcupstrecke Slalom",
+      "source": "https://www.flachau.com/de/anlagen.html",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.02,
+        "width": 0.62,
+        "rough": 0.62,
+        "shoulder": 0.8
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.flachau.com/de/anlagen.html"
+    },
+    {
+      "id": "les-houches-la-verte-des-houches-dh",
+      "course": "La Verte des Houches",
+      "location": "Les Houches",
+      "country": "Francia",
+      "gender": "M",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "La Verte des Houches Discesa libera",
+      "source": "https://chamonixworldcup.com/en/the-course/the-piste",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://chamonixworldcup.com/en/the-course/the-piste"
+    },
+    {
+      "id": "sun-valley-bald-mountain-greyhawk-dh",
+      "course": "Bald Mountain – Greyhawk",
+      "location": "Sun Valley",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "DH",
+      "disciplineLabel": "Discesa libera",
+      "subtitle": "Bald Mountain – Greyhawk Discesa libera",
+      "source": "https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "La pista parte in quota, con impostazione subito da velocità pura."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Sezione ripida per trovare subito il giusto assetto."
+        },
+        {
+          "name": "Primo salto",
+          "type": "Salto",
+          "desc": "Dosso veloce che richiede precisione e coraggio."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Cambio di direzione da fare senza perdere scorrimento."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Terreno vivo con carico importante sugli sci."
+        },
+        {
+          "name": "Schuss centrale",
+          "type": "Alta velocità",
+          "desc": "Fase di piena velocità dove conta restare compatti."
+        },
+        {
+          "name": "Passaggio tecnico",
+          "type": "Sequenza",
+          "desc": "Tratto più lavorato, con traiettoria molto importante."
+        },
+        {
+          "name": "Zona di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Qui la velocità va conservata senza attrito."
+        },
+        {
+          "name": "Salto finale",
+          "type": "Salto",
+          "desc": "Ultimo dosso importante verso il finale."
+        },
+        {
+          "name": "Curve finali",
+          "type": "Finale",
+          "desc": "Ultime curve in cui serve precisione nonostante la fatica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo della specialità regina."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -62,
+          -664
+        ],
+        [
+          -135,
+          -498
+        ],
+        [
+          -78,
+          -332
+        ],
+        [
+          26,
+          -166
+        ],
+        [
+          120,
+          0
+        ],
+        [
+          161,
+          166
+        ],
+        [
+          83,
+          332
+        ],
+        [
+          -31,
+          498
+        ],
+        [
+          -104,
+          664
+        ],
+        [
+          -73,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "narrows": [
+          {
+            "idx": 3,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 1,
+            "alt": 68
+          },
+          {
+            "idx": 3,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          9
+        ],
+        "windSigns": [
+          1,
+          3,
+          5,
+          9
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.55,
+        "width": 1.0,
+        "rough": 1.0,
+        "shoulder": 1.0
+      },
+      "metrics": {
+        "length": "4 km circa",
+        "vertical": "—",
+        "focus": "Speed classic"
+      },
+      "styleLabel": "Speed classic",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità discesa libera e sulle informazioni raccolte. Fonte di riferimento: https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/"
+    },
+    {
+      "id": "sun-valley-bald-mountain-greyhawk-sg",
+      "course": "Bald Mountain – Greyhawk",
+      "location": "Sun Valley",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "SG",
+      "disciplineLabel": "Super-G",
+      "subtitle": "Bald Mountain – Greyhawk Super-G",
+      "source": "https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Avvio del super-G, con primo tratto immediatamente da leggere bene."
+        },
+        {
+          "name": "Ingresso veloce",
+          "type": "Pendenza",
+          "desc": "Fase iniziale molto rapida."
+        },
+        {
+          "name": "Curva lunga",
+          "type": "Curva",
+          "desc": "Curvone che imposta il resto della manche."
+        },
+        {
+          "name": "Cambio di pendenza",
+          "type": "Passaggio",
+          "desc": "Piccolo dosso e successiva compressione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Sezione da far correre."
+        },
+        {
+          "name": "Porta chiave",
+          "type": "Passaggio",
+          "desc": "Linea molto importante per arrivare bene al finale."
+        },
+        {
+          "name": "Salto",
+          "type": "Salto",
+          "desc": "Elementi di terreno che spezzano il ritmo del super-G."
+        },
+        {
+          "name": "Finale",
+          "type": "Curve finali",
+          "desc": "Ultime curve ad alta velocità."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Conclusione del super-G."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -39,
+          -622
+        ],
+        [
+          -88,
+          -415
+        ],
+        [
+          -39,
+          -208
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          88,
+          208
+        ],
+        [
+          112,
+          415
+        ],
+        [
+          54,
+          622
+        ],
+        [
+          -10,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          2,
+          7
+        ],
+        "narrows": [
+          {
+            "idx": 5,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 2,
+            "alt": 68
+          },
+          {
+            "idx": 7,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          7
+        ],
+        "windSigns": [
+          2,
+          7
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.35,
+        "width": 0.94,
+        "rough": 0.86,
+        "shoulder": 0.92
+      },
+      "metrics": {
+        "length": "3 km circa",
+        "vertical": "—",
+        "focus": "Speed tecnico"
+      },
+      "styleLabel": "Speed tecnico",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità super-g e sulle informazioni raccolte. Fonte di riferimento: https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/"
+    },
+    {
+      "id": "sun-valley-bald-mountain-greyhawk-gs",
+      "course": "Bald Mountain – Greyhawk",
+      "location": "Sun Valley",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Bald Mountain – Greyhawk Slalom gigante",
+      "source": "https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.15,
+        "width": 0.78,
+        "rough": 0.74,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/"
+    },
+    {
+      "id": "sun-valley-bald-mountain-greyhawk-sl",
+      "course": "Bald Mountain – Greyhawk",
+      "location": "Sun Valley",
+      "country": "USA",
+      "gender": "ALL",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Bald Mountain – Greyhawk Slalom",
+      "source": "https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.02,
+        "width": 0.62,
+        "rough": 0.62,
+        "shoulder": 0.8
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://www.sunvalley.com/events/audi-fis-ski-world-cup/grandstand-seating/"
+    },
+    {
+      "id": "killington-superstar-gs",
+      "course": "Superstar",
+      "location": "Killington",
+      "country": "USA",
+      "gender": "W",
+      "discipline": "GS",
+      "disciplineLabel": "Slalom gigante",
+      "subtitle": "Superstar Giant Slalom",
+      "source": "https://killington.com/the-killington-cup?category=Experiences",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Il gigante comincia su una pendenza subito significativa."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Prima zona ripida e selettiva."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Prime porte da interpretare con fluidità."
+        },
+        {
+          "name": "Cambio pendenza",
+          "type": "Passaggio",
+          "desc": "Transizione che rompe il ritmo."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona dove il terreno lavora molto sugli sci."
+        },
+        {
+          "name": "Curvone",
+          "type": "Curva",
+          "desc": "Ampio cambio di direzione."
+        },
+        {
+          "name": "Tratto di scorrimento",
+          "type": "Scorrimento",
+          "desc": "Breve tratto da far correre."
+        },
+        {
+          "name": "Muro tecnico",
+          "type": "Pendenza",
+          "desc": "Nuovo tratto ripido nel finale."
+        },
+        {
+          "name": "Ritmo finale",
+          "type": "Ritmo",
+          "desc": "Ultime porte dove si decide la classifica."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Traguardo del gigante."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -65,
+          -646
+        ],
+        [
+          -126,
+          -461
+        ],
+        [
+          -49,
+          -277
+        ],
+        [
+          49,
+          -92
+        ],
+        [
+          114,
+          92
+        ],
+        [
+          45,
+          277
+        ],
+        [
+          -45,
+          461
+        ],
+        [
+          -110,
+          646
+        ],
+        [
+          -32,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [
+          4
+        ],
+        "narrows": [
+          {
+            "idx": 2,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [
+          {
+            "idx": 4,
+            "alt": 68
+          }
+        ],
+        "crowds": [
+          8
+        ],
+        "windSigns": [
+          4
+        ],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.19,
+        "width": 0.78,
+        "rough": 0.78,
+        "shoulder": 0.86
+      },
+      "metrics": {
+        "length": "1.5 km circa",
+        "vertical": "—",
+        "focus": "Tecnico ritmato"
+      },
+      "styleLabel": "Tecnico ritmato",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom gigante e sulle informazioni raccolte. Fonte di riferimento: https://killington.com/the-killington-cup?category=Experiences"
+    },
+    {
+      "id": "killington-superstar-sl",
+      "course": "Superstar",
+      "location": "Killington",
+      "country": "USA",
+      "gender": "W",
+      "discipline": "SL",
+      "disciplineLabel": "Slalom",
+      "subtitle": "Superstar Slalom",
+      "source": "https://killington.com/the-killington-cup?category=Experiences",
+      "poi": [
+        {
+          "name": "Partenza",
+          "type": "Start",
+          "desc": "Partenza dello slalom."
+        },
+        {
+          "name": "Muro iniziale",
+          "type": "Pendenza",
+          "desc": "Ingresso ripido che impone subito ritmo."
+        },
+        {
+          "name": "Ritmo alto",
+          "type": "Ritmo",
+          "desc": "Serie di porte ravvicinate."
+        },
+        {
+          "name": "Hairpin",
+          "type": "Curva",
+          "desc": "Cambio di direzione molto secco."
+        },
+        {
+          "name": "Verticale",
+          "type": "Sequenza",
+          "desc": "Porte veloci in successione."
+        },
+        {
+          "name": "Compressione",
+          "type": "Passaggio",
+          "desc": "Zona che mette pressione sugli sci."
+        },
+        {
+          "name": "Ritmo medio",
+          "type": "Ritmo",
+          "desc": "Nuova fase di lavoro rapido."
+        },
+        {
+          "name": "Piatto",
+          "type": "Scorrimento",
+          "desc": "Piccolo rilancio prima del finale."
+        },
+        {
+          "name": "Muro finale",
+          "type": "Pendenza",
+          "desc": "Ultimo tratto ripido."
+        },
+        {
+          "name": "Arrivo",
+          "type": "Finish",
+          "desc": "Finish dello slalom."
+        }
+      ],
+      "basePoints": [
+        [
+          0,
+          -830
+        ],
+        [
+          -58,
+          -646
+        ],
+        [
+          39,
+          -461
+        ],
+        [
+          -52,
+          -277
+        ],
+        [
+          42,
+          -92
+        ],
+        [
+          -39,
+          92
+        ],
+        [
+          48,
+          277
+        ],
+        [
+          -32,
+          461
+        ],
+        [
+          39,
+          646
+        ],
+        [
+          -19,
+          830
+        ]
+      ],
+      "scene": {
+        "jumps": [],
+        "narrows": [
+          {
+            "idx": 1,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 4,
+            "sep": 52,
+            "height": 36
+          },
+          {
+            "idx": 8,
+            "sep": 52,
+            "height": 36
+          }
+        ],
+        "bridge": [],
+        "airborne": [],
+        "crowds": [
+          8
+        ],
+        "windSigns": [],
+        "remove_extra_rocks": false
+      },
+      "terrain": {
+        "steepness": 1.06,
+        "width": 0.62,
+        "rough": 0.7,
+        "shoulder": 0.82
+      },
+      "metrics": {
+        "length": "650 m circa",
+        "vertical": "—",
+        "focus": "Stretto e nervoso"
+      },
+      "styleLabel": "Stretto e nervoso",
+      "profile_note": "Mappa 3D illustrativa basata sulla specialità slalom e sulle informazioni raccolte. Fonte di riferimento: https://killington.com/the-killington-cup?category=Experiences"
+    }
+  ]
+}

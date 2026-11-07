@@ -1,0 +1,553 @@
+{
+  "id": "garmisch-partenkirchen-kandahar-dh",
+  "course": "Kandahar 2",
+  "location": "Garmisch-Partenkirchen",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 1690,
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 770,
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 3330,
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 920,
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "92%",
+      "where": "Freier Fall (Zielhang, tratto finale)",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Variante",
+        "value": "Kandahar 2 (tracciato maschile, aperto 2009); Kandahar 5b = 3330 m, 5a (donne) = 2920 m",
+        "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Velocità dopo S-Kurve",
+        "value": "fino a 100 km/h",
+        "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Pendenza max seconda nel circuito",
+        "value": "92% (42,6°)",
+        "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Tempo gara indicativo",
+        "value": "circa 1:40 min",
+        "source": "https://www.skiweltcup-garmisch.com/en/",
+        "confidence": "official"
+      },
+      {
+        "label": "Gara 2025/26",
+        "value": "DH uomini 28.02.2026; SG 01.03.2026 annullato (nebbia)",
+        "source": "https://www.skiweltcup-garmisch.com/en/",
+        "confidence": "official"
+      },
+      {
+        "label": "Gara 2026/27",
+        "value": "DH uomini 20.02.2027 (Kandahar 2, 92%)",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "media"
+      },
+      {
+        "label": "Incoerenza fonte",
+        "value": "zugspitze.de riporta anche '7 km Pistenlänge / 1800 hm' nel riquadro panoramico, incoerente con 3330 m / 920 m",
+        "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+        "confidence": "uncertain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Starthang",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1690,
+        "s_approx": 0.02
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio di partenza sotto il Kreuzjoch: lancio immediato verso la S-Kurve.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "S-Kurve",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.07
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": 100
+      },
+      "description_it": "Doppia curva ad S dopo la quale gli atleti toccano già circa 100 km/h.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Tröglhang",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.14
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio storico con salto sullo spigolo ('Kante am Trögelhang'); fino al 2008 era il tratto più ripido della pista, punto ad alto rischio di cadute.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Olympia-Kurve",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.21
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva da cui parte il tracciato nuovo della Kandahar 2 (2009), separandosi dal vecchio percorso.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Panorama-Sprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.27
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto panoramico con vista sulla valle di Garmisch; presente sia sul tracciato maschile che femminile.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 6,
+      "name": "Schußanger",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.34
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto di schuss/scorrimento sul prato ('Anger') dove conta la posizione aerodinamica.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Himmelreich",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.41
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio citato tra i tratti caratteristici dal gestore; sul tracciato femminile è un salto e partenza del super-G.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Alte Quelle",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.48
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio intermedio ('vecchia sorgente'); nessun dettaglio tecnico pubblicato.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 9,
+      "name": "Bödele",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.55
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto intermedio comune a entrambe le Kandahar prima della separazione Eishang/Waldeck; nessun dettaglio tecnico pubblicato.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 10,
+      "name": "Eishang",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.63
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio ghiacciato e ombroso, uno dei 'markante Abschnitte'; la Kandahar 1 femminile lo aggira dal 2009.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course) ; https://zugspitze.de/Downloads/Tourentipps/EN/2024_Kandahar-Hike_EN.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 11,
+      "name": "Seilbahnsprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": "40-60",
+        "speed_kmh": null
+      },
+      "description_it": "Salto della funivia (detto anche Seilbahnstadelsprung) con voli fino a 60 m; qui cadde Erik Guay.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course) ; https://web.de/magazine/sport/wintersport/ski-alpin/kandahar-abfahrt-2018-garmisch-gefaehrlich-strecke-32769858",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Kramersprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.76
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": "20-40",
+        "speed_kmh": null
+      },
+      "description_it": "Salto di 20-40 m, smussato dopo le gravi cadute del 2017 (Steve Nyman); Peter Fill lo definì 'semplicemente troppo brutale'.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course) ; https://web.de/magazine/sport/wintersport/ski-alpin/kandahar-abfahrt-2018-garmisch-gefaehrlich-strecke-32769858",
+      "confidence": "media"
+    },
+    {
+      "order": 13,
+      "name": "Padöls",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.81
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio prima del muro finale; nessun dettaglio tecnico pubblicato.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 14,
+      "name": "Auf der Mauer",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.85
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Breve tratto pianeggiante sul ciglio del muro: ultimo respiro prima del Freier Fall.",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "media"
+    },
+    {
+      "order": 15,
+      "name": "Freier Fall",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": "92%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Il 'Zielhang': 92% di pendenza, il tratto più ripido della Coppa del Mondo; nel 2017 Valentin Giraud Moine vi perse il controllo finendo nelle reti d'arrivo.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course) ; https://web.de/magazine/sport/wintersport/ski-alpin/kandahar-abfahrt-2018-garmisch-gefaehrlich-strecke-32769858",
+      "confidence": "official"
+    },
+    {
+      "order": 16,
+      "name": "Tauberschuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.96
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": 20,
+        "speed_kmh": null
+      },
+      "description_it": "Schuss finale (Tauber-Schuss) verso il traguardo, comune a Kandahar 1 e 2; poco prima dell'arrivo un ultimo salto di circa 20 m.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 17,
+      "name": "Ziel (Talstation Kreuzeckbahn)",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 770,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Arrivo a 770 m presso la stazione a valle della Kreuzeckbahn.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Kandahar 2 (Bergstation Kandahar-Express, sotto il Kreuzjoch)",
+    "description_it": "Partenza a 1690 m alla stazione a monte della seggiovia Kandahar-Express, nei pressi del Kreuzjoch e della Tröglhütte, nel comprensorio Garmisch-Classic.",
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://zugspitze.de/Downloads/Tourentipps/EN/2024_Kandahar-Hike_EN.pdf"
+  },
+  "finish_area": {
+    "name": "Zielbereich Kandahar (Talstation Kreuzeckbahn)",
+    "type": "slope_base",
+    "description_it": "Traguardo a 770 m alla base del Freier Fall, presso la stazione a valle della Kreuzeckbahn; vicino c'è il locale 'Kandahar 2', punto d'incontro di atleti e sciatori.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Freier Fall (92%) come Zielhang direttamente sopra l'arrivo",
+      "Talstation Kreuzeckbahn"
+    ],
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt ; https://zugspitze.de/Downloads/Tourentipps/EN/2024_Kandahar-Hike_EN.pdf ; https://web.de/magazine/sport/wintersport/ski-alpin/kandahar-abfahrt-2018-garmisch-gefaehrlich-strecke-32769858"
+  },
+  "environment": {
+    "forest": "Bosco alternato a radure lungo tutto il tracciato (fonte: itinerario Kandahar-Hike); pista in gran parte sotto il limite del bosco.",
+    "above_treeline": "Solo la zona di partenza (Kreuzjoch, 1690 m) è aperta; non sopra il limite del bosco in senso alpino (uncertain).",
+    "rocks": "Nessuna parete rocciosa sul tracciato documentata; massiccio dell'Alpspitze/Zugspitze sullo sfondo (uncertain).",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Eishang / Kandahar-Express",
+        "description_it": "La seggiovia Kandahar-Express risale accanto alla pista dalla zona dell'Eishang fino alla partenza."
+      },
+      {
+        "kind": "lift",
+        "where": "Arrivo",
+        "description_it": "Funivia Kreuzeckbahn: stazione a valle all'arrivo; il Seilbahnsprung prende nome da una funivia/fienile (uncertain)."
+      },
+      {
+        "kind": "rail",
+        "where": "Fondovalle vicino all'arrivo",
+        "description_it": "La ferrovia a cremagliera della Zugspitze (Bayerische Zugspitzbahn) ha una fermata presso Kreuzeck-/Alpspitzbahn vicino all'arrivo: NON verificato in questa ricerca (uncertain)."
+      }
+    ],
+    "landmarks": [
+      "Kreuzjoch",
+      "Kreuzeck",
+      "Alpspitze (uncertain)",
+      "Zugspitze (uncertain, sullo sfondo)",
+      "Tröglhütte"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Primo salto",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Schuss centrale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Passaggio tecnico",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Zona di scorrimento",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Salto finale",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Curve finali",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "POI generico di template (identico a Les Houches); nessun nome reale."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "title": "Kandahar-Abfahrt (Bayerische Zugspitzbahn)",
+      "type": "official"
+    },
+    {
+      "url": "https://zugspitze.de/Downloads/Tourentipps/EN/2024_Kandahar-Hike_EN.pdf",
+      "title": "Kandahar Hike (Bayerische Zugspitzbahn PDF)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.skiweltcup-garmisch.com/en/",
+      "title": "Kandahar Race – Ski Weltcup Garmisch-Partenkirchen",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kandahar_(ski_course)",
+      "title": "Kandahar (ski course) – Wikipedia",
+      "type": "other"
+    },
+    {
+      "url": "https://web.de/magazine/sport/wintersport/ski-alpin/kandahar-abfahrt-2018-garmisch-gefaehrlich-strecke-32769858",
+      "title": "Kandahar-Abfahrt 2018: gefährliche Strecke (web.de)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Ordine delle 16 sezioni preso da Wikipedia: confermato nei nomi dal gestore ma non da media guide FIS; posizioni s_approx stimate (uncertain).",
+    "Seilbahnkurve, Panoramakurve, Ruhestein non trovati: corretti in Seilbahnsprung e Panorama-Sprung; Ruhestein assente.",
+    "Hölle, Höllentor, FIS-Schneise, Waldeck, Ramwiesen appartengono alla Kandahar 1 (donne), non alla DH maschile.",
+    "Direzione delle curve (S-Kurve, Olympia-Kurve) non documentata.",
+    "Tribune/capienza dell'arrivo non trovate; il trampolino olimpico (Gudiberg) non risulta presso l'arrivo della Kandahar.",
+    "Discrepanza zugspitze.de: '7 km / 1800 hm' vs 3330 m / 920 m."
+  ]
+}

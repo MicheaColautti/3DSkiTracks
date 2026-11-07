@@ -1,0 +1,572 @@
+{
+  "id": "bormio-stelvio-dh",
+  "course": "Stelvio",
+  "location": "Bormio",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 2255,
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf (configurazione classica). Olimpiadi 2026: 2268 m, area Praimont — https://skiworldcup.bormio.eu/en/technical-specifications ; https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1245,
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf (it.wikipedia indica 1268 m: https://it.wikipedia.org/wiki/Pista_Stelvio)",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 3250,
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope (classica). Olimpiadi 2026 / CdM 2024-25: 3442 m — https://skiworldcup.bormio.eu/en/technical-specifications ; https://en.wikipedia.org/wiki/Stelvio_(ski_course). Altre cifre: 3230 m https://bormioski.eu/en/the-stelvio, 3186 m https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 1010,
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf (classica). Olimpiadi 2026: 1023 m — https://en.wikipedia.org/wiki/Stelvio_(ski_course). Altre cifre: 986 m https://bormioski.eu/en/the-stelvio, 987 m https://it.wikipedia.org/wiki/Pista_Stelvio / https://www.bormioski.eu/en/2026-olympics/",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "63%",
+      "where": "muro di partenza (sotto il cancelletto)",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://skiworldcup.bormio.eu/en/technical-specifications ; https://www.ilpost.it/2026/02/07/bormio-stelvio-pista-olimpiadi/ (en.wikipedia: 73% / 36,1°; bormioski EN: 60%)",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "31% (30,9%)",
+      "source": "https://www.ilpost.it/2026/02/07/bormio-stelvio-pista-olimpiadi/ ; https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+      "confidence": "media"
+    },
+    "other": [
+      {
+        "label": "Velocità massima",
+        "value": ">140 km/h (al Salto/Muro di San Pietro)",
+        "source": "https://www.bormioski.eu/en/2026-olympics/ ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+        "confidence": "official"
+      },
+      {
+        "label": "Durata gara",
+        "value": "circa 2 minuti",
+        "source": "https://www.bormioski.eu/pista-stelvio/",
+        "confidence": "official"
+      },
+      {
+        "label": "Discesa olimpica 8 feb 2026 (Franjo von Allmen)",
+        "value": "1:51.61, media 111,0 km/h",
+        "source": "https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Partenza super-G",
+        "value": "1959 m, lunghezza 2414 m, dislivello 714 m",
+        "source": "https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Apertura / progettista",
+        "value": "1985, Oreste Peccedi",
+        "source": "https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Illuminazione",
+        "value": "illuminata dal 2007, omologata per gare in notturna",
+        "source": "https://it.wikipedia.org/wiki/Pista_Stelvio",
+        "confidence": "media"
+      },
+      {
+        "label": "Modifiche storiche",
+        "value": "Ingresso del Canalino Sertorelli allargato; aggiunta una curva di controllo che allunga il tracciato e riduce la velocità; per il resto praticamente uguale al 1985",
+        "source": "https://www.ilpost.it/2026/02/07/bormio-stelvio-pista-olimpiadi/",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza / Muro di partenza",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2255,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": "63%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza sul Monte Vallecetta (area Praimont nella configurazione 2026), vicino all'arrivo della seggiovia Cimino. Muro iniziale ripidissimo (63%): si arriva a 100 km/h in pochi secondi.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://skiworldcup.bormio.eu/en/technical-specifications",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Doppia curva iniziale",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.05
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Due curve veloci subito dopo il muro di partenza che portano direttamente al salto della Rocca.",
+      "source": "https://bormioski.eu/en/the-stelvio ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Salto della Rocca (Salto La Rocca)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.09
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": 30,
+        "speed_kmh": null
+      },
+      "description_it": "Primo salto della pista, affrontato ad altissima velocità dopo le prime curve; volo di circa 30 m. Qui inizia il bosco di pini, cembri e abeti. Nei pressi si trova il Rifugio La Rocca. it.wikipedia cita anche un 'Salto dell'Ermellino' nella stessa zona alta.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Canalino Sertorelli",
+      "kind": "gorge/rocky passage",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.18
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Diagonale/canalino stretto di circa 300 m senza curve secche dove si accelera fortemente; picchiata verso la Fontana Lunga su fondo irregolare. L'ingresso è stato allargato negli anni.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://www.ilpost.it/2026/02/07/bormio-stelvio-pista-olimpiadi/ ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Attraversamento Valdisotto",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.24
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio citato nella presentazione ufficiale della pista tra il Canalino Sertorelli e la Fontana Lunga; nessuna descrizione disponibile (verosimilmente l'incrocio con la pista 'Valdisotto').",
+      "source": "https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Fontana Lunga",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto di circa 200 m con salto in cui gli sci lasciano la neve per molti metri; sotto passa un tunnel costruito in estate che crea un'ulteriore ondulazione. Seguono curve tecniche su pendenza moderata.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Pian dell'Orso (Piano dell'Orso)",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.38
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Circa 400 m con 100 m di dislivello, percorsi da curve e controcurve veloci; tratto di precisione dove inizia a farsi sentire la fatica. ATTENZIONE: posizione rispetto alla Carcentina contraddittoria tra le fonti.",
+      "source": "https://it.wikipedia.org/wiki/Pista_Stelvio ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 8,
+      "name": "Curvoni degli Ermellini",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.44
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curvoni insidiosi che immettono nella diagonale della Carcentina.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope ; https://bormioski.eu/en/the-stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Carcentina",
+      "kind": "traverse",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.52
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "La diagonale più impegnativa e spettacolare, verso destra, in contropendenza, spesso ghiacciata e molto mossa; difficile trovare la linea ideale, spesso decisiva in Coppa del Mondo.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://skiworldcup.bormio.eu/en/technical-specifications",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Doppia curva",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.57
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Doppia curva dopo la Carcentina, prima dei Prati del Ciuk (nominata solo genericamente).",
+      "source": "https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "media"
+    },
+    {
+      "order": 11,
+      "name": "Prati del Ciuk",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1638,
+        "s_approx": 0.61
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pianoro di circa 100 m a 1638 m (1639 m per it.wikipedia), breve respiro prima del muretto che precede il salto di San Pietro.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Salto di San Pietro / Muro di San Pietro",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": "50% (55% per it.wikipedia)",
+        "jump_length_m": 45,
+        "speed_kmh": 140
+      },
+      "description_it": "Il salto più famoso: lancio nel vuoto di oltre 40-45 m su pendenza del 50%, atterraggio sul muro di San Pietro a oltre 140 km/h; punto più veloce della pista e inizio della picchiata finale.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://www.bormioski.eu/en/2026-olympics/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 13,
+      "name": "Piana / Schuss di San Pietro",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.77
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto di forte accelerazione e pianeggiante che porta al muro finale.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 14,
+      "name": "La Konta (Muro finale)",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.85
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": 100
+      },
+      "description_it": "Muro ripido e in ombra vicino alla fine, che non molla per almeno 200 m; curve veloci in contropendenza nel bosco a oltre 100 km/h. Richiede precisione nelle ultime curve.",
+      "source": "https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://www.bormioski.eu/pista-stelvio/ ; https://skiworldcup.bormio.eu/en/technical-specifications ; https://bormioski.eu/en/the-stelvio",
+      "confidence": "official"
+    },
+    {
+      "order": 15,
+      "name": "Coston e Feleit (curve finali)",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.93
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curve veloci in contropendenza (Coston, Feleit) nella parte bassa; en.wikipedia cita anche 'Bosco Basso'. Nomi da fonti enciclopediche, non confermati dal sito ufficiale.",
+      "source": "https://it.wikipedia.org/wiki/Pista_Stelvio ; https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 16,
+      "name": "Salto finale (Salto del Feleit)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.97
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": 100
+      },
+      "description_it": "Ultimo salto prima del traguardo, affrontato a oltre 100 km/h; it.wikipedia lo chiama salto del Feleit.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://bormioski.eu/en/the-stelvio ; https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "confidence": "media"
+    },
+    {
+      "order": 17,
+      "name": "Arrivo – Stelvio Ski Stadium",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 3250,
+        "alt_m": 1245,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo direttamente nel paese di Bormio, allo Ski Stadium; unico punto della pista visibile chiaramente dal cancelletto di partenza.",
+      "source": "https://www.bormioski.eu/pista-stelvio/ ; https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf ; https://bormioski.eu/en/the-stelvio",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Stelvio – Monte Vallecetta (area Praimont / Cimino)",
+    "description_it": "Cancelletto a 2255 m (2268 m nella configurazione olimpica 2026, area Praimont), vicino all'arrivo della seggiovia Cimino, sopra La Rocca. Muro iniziale al 63%. Dal cancelletto si vede l'arrivo a Bormio.",
+    "source": "https://www.bormioski.eu/pista-stelvio/ ; https://skiworldcup.bormio.eu/en/technical-specifications ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://bormioski.eu/en/the-stelvio"
+  },
+  "finish_area": {
+    "name": "Stelvio Ski Stadium / Stelvio Ski Centre, Bormio",
+    "type": "village",
+    "description_it": "Arrivo a 1245 m ai margini del centro di Bormio. Per le Olimpiadi 2026 lo stadio è stato rinnovato secondo i parametri CIO: due nuovi edifici (Family Lounge 360 m² e Hospitality Lounge 800 m²) in legno e pietra locali, fotovoltaico 42 kW e teleriscaldamento a biomassa, costo circa 5,4 M€ (Regione Lombardia, CAL); il centro ospita ora anche l'ufficio turistico. Neveitalia segnala una tribuna permanente e nuovi parcheggi (dato non verificato in dettaglio).",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": true,
+    "notable": [
+      "Family Lounge e Hospitality Lounge (2025)",
+      "Pentagono Center (inaugurato con lo Ski Stadium, 67 giorni prima dei Giochi)",
+      "Arrivo visibile dalla partenza",
+      "Pista illuminata dal 2007"
+    ],
+    "source": "https://sport.quotidiano.net/en/olimpiadi/olimpiadi-milano-cortina-2026-scopriamo-lo-ski-stadium-di-bormio-1cbe173a ; https://www.bormioski.eu/en/2026-olympics/ ; https://it.wikipedia.org/wiki/Pista_Stelvio ; https://en.neveitalia.it/olimpiadi-invernali/milanocortina2026/news/la-nuova-ski-arena-di-bormio-per-i-giochi-olimpici-2026-tribuna-permanente-e-nuovi-parcheggi"
+  },
+  "environment": {
+    "forest": "Bosco di pini, cembri e abeti da Salto della Rocca in giù; parte bassa (La Konta, curve finali) nel bosco, in ombra.",
+    "above_treeline": "Solo il tratto di partenza e il muro iniziale fino alla Rocca (circa 2255-2100 m).",
+    "rocks": "Nessuna parete rocciosa documentata; il Canalino Sertorelli è un passaggio stretto. Pista molto in ombra e ghiacciata.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "tunnel",
+        "where": "Fontana Lunga",
+        "description_it": "Tunnel costruito in estate sotto la pista nella zona della Fontana Lunga, che crea un'ulteriore ondulazione."
+      },
+      {
+        "kind": "road",
+        "where": "Attraversamento Valdisotto (tra Sertorelli e Fontana Lunga)",
+        "description_it": "Passaggio nominato nella presentazione ufficiale; natura (pista o strada) non specificata."
+      }
+    ],
+    "landmarks": [
+      "Monte Vallecetta",
+      "Rifugio La Rocca",
+      "Seggiovia Cimino (partenza)",
+      "Seggiovia Pian dei Larici",
+      "Paese di Bormio all'arrivo"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Partenza Monte Vallecetta 2255 m (2268 m nel 2026, area Praimont)."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "renamed",
+      "note": "Muro di partenza al 63% seguito da doppia curva."
+    },
+    {
+      "archive_name": "Primo salto",
+      "status": "renamed",
+      "note": "= Salto della Rocca (~30 m)."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "renamed",
+      "note": "= Curvoni degli Ermellini (prima della Carcentina)."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "Nessuna compressione nominata; il tratto corrispondente più vicino è la Fontana Lunga (salto/ondulazione sopra il tunnel)."
+    },
+    {
+      "archive_name": "Schuss centrale",
+      "status": "renamed",
+      "note": "= Canalino Sertorelli (300 m di accelerazione); oppure Schuss di San Pietro più in basso."
+    },
+    {
+      "archive_name": "Passaggio tecnico",
+      "status": "renamed",
+      "note": "= Carcentina (diagonale in contropendenza a destra) / Pian dell'Orso."
+    },
+    {
+      "archive_name": "Zona di scorrimento",
+      "status": "renamed",
+      "note": "= Prati del Ciuk (pianoro a 1638 m)."
+    },
+    {
+      "archive_name": "Salto finale",
+      "status": "wrong_order",
+      "note": "Il salto principale nella parte bassa è il Salto di San Pietro (45 m, >140 km/h); esiste poi anche un vero salto finale (Feleit) poco prima dell'arrivo."
+    },
+    {
+      "archive_name": "Curve finali",
+      "status": "renamed",
+      "note": "= La Konta (muro finale) + curve Coston/Feleit."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "Stelvio Ski Stadium, Bormio, 1245 m."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.bormioski.eu/pista-stelvio/",
+      "title": "Pista Stelvio – Bormio Ski",
+      "type": "official"
+    },
+    {
+      "url": "https://bormioski.eu/en/the-stelvio",
+      "title": "The Stelvio – Bormio Ski (EN)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.in-lombardia.it/sites/default/files/evento/attachments/144397/presentazione_pista_stelvio_compressed.pdf",
+      "title": "Presentazione pista Stelvio (in-lombardia)",
+      "type": "official"
+    },
+    {
+      "url": "https://skiworldcup.bormio.eu/en/technical-specifications",
+      "title": "Stelvio technical specifications – Bormio Ski World Cup",
+      "type": "official"
+    },
+    {
+      "url": "https://www.bormioski.eu/en/2026-olympics/",
+      "title": "2026 Olympics – Bormio Ski",
+      "type": "official"
+    },
+    {
+      "url": "https://milanocortina2026.olympics.com/en/news/the-legend-of-the-stelvio-a-world-class-slope",
+      "title": "The legend of the Stelvio – Milano Cortina 2026",
+      "type": "official"
+    },
+    {
+      "url": "https://www.ilpost.it/2026/02/07/bormio-stelvio-pista-olimpiadi/",
+      "title": "Il Post, Bormio Stelvio pista olimpiadi (7/2/2026)",
+      "type": "media"
+    },
+    {
+      "url": "https://sport.quotidiano.net/en/olimpiadi/olimpiadi-milano-cortina-2026-scopriamo-lo-ski-stadium-di-bormio-1cbe173a",
+      "title": "QN Sport – Bormio Ski Stadium",
+      "type": "media"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Pista_Stelvio",
+      "title": "Pista Stelvio – Wikipedia IT",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stelvio_(ski_course)",
+      "title": "Stelvio (ski course) – Wikipedia EN",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Ordine Pian dell'Orso vs Carcentina: it/en.wikipedia lo mettono prima, la presentazione ufficiale (PDF) dopo.",
+    "Posizione dell'Ermellino: 'Salto dell'Ermellino' in alto (it.wiki) vs 'Curvoni degli Ermellini' prima della Carcentina (bormioski, olympics.com) vs 'Sali dell'Ermellino' dopo San Pietro (en.wiki).",
+    "Nessuna fonte con distanze/quote progressive per sezione: s_approx stimati (Ciuk calcolato dalla quota 1638 m).",
+    "Forma della Rocca (stacco, atterraggio, rocce): non documentata oltre '30 m' e 'primo salto ad alta velocità'.",
+    "Natura dell'Attraversamento Valdisotto (strada o pista?).",
+    "Coston, Feleit, Bosco Basso non confermati da fonti ufficiali.",
+    "Capienza tribune Ski Stadium 2026 non trovata.",
+    "Differenze di lunghezza 3250 vs 3442 m: la partenza 2026 (2268 m, Praimont) è più alta e il tracciato più lungo."
+  ]
+}

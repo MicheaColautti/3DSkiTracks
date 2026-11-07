@@ -1,0 +1,357 @@
+{
+  "id": "solden-rettenbach-gs",
+  "course": "Rettenbach (Weltcuphang am Rettenbachferner)",
+  "location": "Sölden, Ötztal, Tirolo (AUT)",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 3040,
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 2670,
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 1198,
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 370,
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "68,2 %",
+      "where": "Eisfall (il muro ripido centrale, detto anche 'Steilhang' sul sito ufficiale)",
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste ; https://en.wikipedia.org/wiki/Rettenbach_(ski_slope)",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "33 %",
+      "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "15,5 %",
+        "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Porte",
+        "value": "41–56 a seconda del tracciatore",
+        "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità atleti",
+        "value": "65–80 km/h",
+        "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Partenza uomini/donne",
+        "value": "Stessa pista per donne e uomini; nessuna partenza separata indicata (fonte non ufficiale riporta start 3.038 m / arrivo 2.668 m)",
+        "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste ; https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse",
+        "confidence": "official"
+      },
+      {
+        "label": "Opening 2026",
+        "value": "GS donne 24/10/2026 (vince Paula Moltzan, 1a vittoria in carriera; neve e luce piatta nella 2a manche); GS uomini 25/10/2026 (vince Lucas Pinheiro Braathen davanti a Meillard e Odermatt; 1a manche accorciata per vento forte)",
+        "source": "https://www.thestar.com.my/sport/others/2026/10/24/alpine-skiing-us-veteran-moltzan-opens-world-cup-season-with-first-career-win ; https://www.thestar.com.my/sport/others/2026/10/25/alpine-skiing-brazil039s-pinheiro-braathen-wins-season-opening-men039s-giant-slalom",
+        "confidence": "media"
+      },
+      {
+        "label": "Modifiche pista 2026",
+        "value": "Solo piccoli adattamenti annunciati dopo il controllo neve FIS (ottobre 2026)",
+        "source": "https://www.tt.com/artikel/30944621/gruenes-licht-dem-ski-weltcup-auftakt-in-soelden-steht-nichts-mehr-im-wege",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Rettenbachjoch",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 3040,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Zona di partenza presso il Rettenbachjoch, la sella sommitale del ghiacciaio: il cancelletto è sul punto più alto del tracciato a circa 3.040 m.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse ; https://en.wikipedia.org/wiki/Rettenbach_(ski_slope)",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "Gletschertisch",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": null,
+        "s_approx": 0.1
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Tavolo del ghiacciaio': primo tratto facile e relativamente piatto (circa 232 m dalla partenza, piste blu 33/32), dove secondo il sito ufficiale bisogna trovare il ritmo prima del muro.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse ; https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Gletscherkante",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 232,
+        "alt_m": null,
+        "s_approx": 0.27
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Bordo del ghiacciaio': tratto di circa 183 m ancora moderato che porta allo scollinamento sul ciglio del muro; qui il terreno cambia bruscamente pendenza.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse",
+      "confidence": "media"
+    },
+    {
+      "order": 4,
+      "name": "Eisfall",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": 415,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": "68,2 % (34,3°)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Cascata di ghiaccio': il grande muro (circa 370 m, pista nera 31), punto chiave della gara, ripido e molto lungo; è il 'Steilhang' citato dal sito ufficiale e il punto di massima pendenza del tracciato.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse ; https://en.wikipedia.org/wiki/Rettenbach_(ski_slope) ; https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Gletscherzunge",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 785,
+        "alt_m": null,
+        "s_approx": 0.76
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Lingua del ghiacciaio': tratto di circa 245 m sotto il muro, dove la pendenza cala; le fonti la nominano senza descriverla nel dettaglio.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse ; https://en.wikipedia.org/wiki/Rettenbach_(ski_slope)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Elefantentränke",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 1030,
+        "alt_m": 2670,
+        "s_approx": 0.93
+      },
+      "details": {
+        "gradient": "circa 15,5 % (inferenza: pendenza minima ufficiale)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Abbeveratoio degli elefanti': ultimo tratto di circa 168 m, di nuovo piatto, fino al traguardo; spesso è qui che si decide la gara perché bisogna portare velocità sul piano.",
+      "source": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse ; https://en.wikipedia.org/wiki/Rettenbach_(ski_slope) ; https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Start Rettenbachjoch (ca. 3.040 m)",
+    "description_it": "Partenza in quota sul Rettenbachjoch, in cima al ghiacciaio Rettenbachferner; tratto iniziale piatto (Gletschertisch) prima del ciglio del muro. Nessuna partenza separata tra donne e uomini indicata dalle fonti.",
+    "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste ; https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse"
+  },
+  "finish_area": {
+    "name": "Zielstadion am Rettenbachgletscher",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo sul ghiacciaio Rettenbach a circa 2.670 m, con un unico edificio che riunisce infrastrutture per spettatori, atleti, stampa e tecnica: 1.500 posti a sedere, servizi igienici, centro stampa con 100 postazioni e 15 cabine per la diretta TV. Si trova al termine della strada del ghiacciaio (Ötztaler Gletscherstraße) e accanto alla stazione a valle della cabinovia Schwarze Schneid (2.673 m). Dopo le gare premiazioni e 'Glacier Party' sul ghiacciaio.",
+    "grandstands": true,
+    "capacity": 1500,
+    "night_race": false,
+    "notable": [
+      "Edificio unico con tribuna da 1.500 posti",
+      "Centro stampa 100 postazioni",
+      "15 cabine TV",
+      "Premiazioni e Glacier Party sul Rettenbachgletscher",
+      "Strada del ghiacciaio e parcheggi gratuiti a Rettenbach"
+    ],
+    "source": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste ; https://www.soelden.com/en/events-leisure-tips/events/audi-fis-ski-world-cup-opening/program ; https://www.soelden.com/summer/hiking/mountain-lifts-uphill-facilities/oetztal-glacier-road.html"
+  },
+  "environment": {
+    "forest": "Assente (quota 2.670–3.040 m, interamente su ghiacciaio; inferenza)",
+    "above_treeline": "Sì, interamente sopra il limite del bosco (inferenza da quote ufficiali)",
+    "rocks": "Ghiacciaio circondato da creste rocciose (es. Schwarze Schneid, 3.250 m); nessuna fonte descrive rocce specifiche lungo il tracciato",
+    "glacier": true,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "Arrivo",
+        "description_it": "La Ötztaler Gletscherstraße (circa 13 km da Sölden, pendenza media 11 %) arriva al parcheggio del Rettenbachferner presso l'area d'arrivo."
+      },
+      {
+        "kind": "tunnel",
+        "where": "Vicino all'area d'arrivo (non sul tracciato)",
+        "description_it": "Dal Rettenbach la strada prosegue per circa 3 km verso il Tiefenbachferner attraverso il Rosi-Mittermaier-Tunnel (1,8 km). Posizione esatta dell'imbocco rispetto al traguardo da verificare."
+      },
+      {
+        "kind": "lift",
+        "where": "Accanto alla pista, partenza in zona arrivo",
+        "description_it": "Cabinovia Schwarze Schneid I+II (8 posti, 2003) dalla base a 2.673 m alla cima a 3.250 m; serve la zona del ghiacciaio. Affiancamento esatto al tracciato da verificare."
+      }
+    ],
+    "landmarks": [
+      "Rettenbachferner",
+      "Rettenbachjoch",
+      "Schwarze Schneid (3.250 m)",
+      "Ötztaler Gletscherstraße",
+      "Rosi-Mittermaier-Tunnel",
+      "Tiefenbachferner (collegato)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "renamed",
+      "note": "Usare 'Rettenbachjoch' (start ca. 3.040 m)."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "wrong_order",
+      "note": "Il muro non è iniziale: la parte alta è piatta (Gletschertisch). Il muro reale è l'Eisfall al centro (s≈0,35–0,66)."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "renamed",
+      "note": "Corrisponde al Gletschertisch (tratto piatto in alto dove 'trovare il ritmo')."
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "renamed",
+      "note": "Corrisponde alla Gletscherkante (ciglio del muro)."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Nessuna compressione nominata dalle fonti; eventualmente la transizione Eisfall→Gletscherzunge (generica)."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "not_found",
+      "note": "Nessun curvone nominato; in GS i cambi di direzione dipendono dal tracciatore."
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "renamed",
+      "note": "Elefantentränke (tratto finale piatto) o Gletscherzunge."
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "wrong_order",
+      "note": "Nessun secondo muro nel finale: la parte finale è piatta. Il solo muro è l'Eisfall."
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "renamed",
+      "note": "Elefantentränke, dove spesso si decide la gara."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "Zielstadion am Rettenbachgletscher (2.670 m)."
+    },
+    {
+      "archive_name": "metrics.length '1.5 km circa'",
+      "status": "generic",
+      "note": "Valore ufficiale 1.198 m; dislivello 370 m (archivio '—')."
+    },
+    {
+      "archive_name": "scene.jumps/airborne idx 4",
+      "status": "not_found",
+      "note": "Nessun salto documentato in questo GS; consigliato rimuovere."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.soelden.com/de/veranstaltungen-freizeittipps/events/audi-fis-skiweltcup-opening/weltcup-piste",
+      "title": "Sölden – Weltcup-Piste (dati ufficiali)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.soelden.com/en/events-leisure-tips/events/audi-fis-ski-world-cup-opening/program",
+      "title": "Sölden – Programma Opening 2026",
+      "type": "official"
+    },
+    {
+      "url": "https://www.soelden.com/summer/hiking/mountain-lifts-uphill-facilities/oetztal-glacier-road.html",
+      "title": "Sölden – Ötztal Glacier Road",
+      "type": "official"
+    },
+    {
+      "url": "https://www.alpineskiworldcup.com/post/rettenbach-glacier-soelden-s-alpine-ski-world-cup-racecourse",
+      "title": "alpineskiworldcup.com – Rettenbach glacier racecourse (sezioni e lunghezze)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rettenbach_(ski_slope)",
+      "title": "Wikipedia – Rettenbach (ski slope)",
+      "type": "other"
+    },
+    {
+      "url": "https://www.tt.com/artikel/30944621/gruenes-licht-dem-ski-weltcup-auftakt-in-soelden-steht-nichts-mehr-im-wege",
+      "title": "Tiroler Tageszeitung – Grünes Licht Sölden 2026",
+      "type": "media"
+    },
+    {
+      "url": "https://www.thestar.com.my/sport/others/2026/10/24/alpine-skiing-us-veteran-moltzan-opens-world-cup-season-with-first-career-win",
+      "title": "Reuters/The Star – Moltzan vince 24/10/2026",
+      "type": "media"
+    },
+    {
+      "url": "https://www.thestar.com.my/sport/others/2026/10/25/alpine-skiing-brazil039s-pinheiro-braathen-wins-season-opening-men039s-giant-slalom",
+      "title": "Reuters/The Star – Pinheiro Braathen vince 25/10/2026",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Direzione delle curve (sinistra/destra) del tracciato e lato del muro non documentati: dipendono dal tracciatore.",
+    "Le lunghezze per sezione (232/183/370/245/168 m) vengono da un sito non ufficiale; somma = 1.198 m coerente col dato ufficiale.",
+    "Discrepanza fonte non ufficiale: pendenza max dell'Eisfall 65 % vs 68,2 % ufficiale.",
+    "Quote intermedie delle sezioni non trovate.",
+    "Posizione esatta dell'imbocco del Rosi-Mittermaier-Tunnel e della stazione Schwarze Schneid rispetto al traguardo.",
+    "Nessuna fonte FIS (omologazione) consultata direttamente."
+  ]
+}

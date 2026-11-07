@@ -1,0 +1,460 @@
+{
+  "id": "val-gardena-saslong-dh",
+  "course": "Saslong",
+  "location": "Val Gardena / Gröden (Santa Cristina)",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 2249,
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1410,
+      "source": "https://en.wikipedia.org/wiki/Saslong",
+      "confidence": "uncertain"
+    },
+    "length_m": {
+      "value": 3446,
+      "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 839,
+      "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "56,9%",
+      "where": "Spinel (quota ~2091 m)",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "24,5%",
+      "source": "https://en.wikipedia.org/wiki/Saslong",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Salti",
+        "value": "9",
+        "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+        "confidence": "official"
+      },
+      {
+        "label": "Dossi maggiori",
+        "value": "17",
+        "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità massima",
+        "value": "circa 130 km/h (prima delle Gobbe del Cammello / settore Sochers)",
+        "source": "https://www.saslong.org/en/races/raceguide/",
+        "confidence": "official"
+      },
+      {
+        "label": "Record di salto",
+        "value": "88 m, Michael Walchhofer (2003), 4-5 m di altezza",
+        "source": "https://www.saslong.org/en/races/raceguide/",
+        "confidence": "official"
+      },
+      {
+        "label": "Primo salto di tutte e tre le gobbe",
+        "value": "Uli Spiess (AUT), 1980",
+        "source": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+        "confidence": "official"
+      },
+      {
+        "label": "Quota arrivo alternativa",
+        "value": "1410 m (anche oasport.it); manca conferma ufficiale",
+        "source": "https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+        "confidence": "media"
+      },
+      {
+        "label": "Super-G",
+        "value": "partenza 2000 m, 2365 m di lunghezza, 590 m dislivello",
+        "source": "https://en.wikipedia.org/wiki/Saslong",
+        "confidence": "uncertain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Ciampinoi",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2249,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": "45,54%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Cancelletto sul Ciampinoi a 2249 m, all'ombra del Sassolungo; subito un salto difficile pochi metri dopo il via.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Spinel",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2091,
+        "s_approx": 0.188
+      },
+      "details": {
+        "gradient": "56,90%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Il tratto più ripido della Saslong: gli atleti vi entrano saltando e cambiano direzione quasi in volo. Segue la prima compressione.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Saut dl Moro (Moro)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2018,
+        "s_approx": 0.275
+      },
+      "details": {
+        "gradient": "36,90%",
+        "jump_length_m": 40,
+        "speed_kmh": null
+      },
+      "description_it": "Salto di circa 40 m che porta nella seconda compressione.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Looping",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.31
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Secondo salto subito dopo il Moro, ridimensionato negli anni per ridurre le cadute (fonte giornalistica, non citato dal sito ufficiale).",
+      "source": "https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Scorrimento intermedio",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.36
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto di scorrimento di quasi mezzo chilometro prima di Sochers (etichetta generica).",
+      "source": "https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 6,
+      "name": "Sochers (salto e Muri di Sochers / 1° e 2° Mauer)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1900,
+        "s_approx": 0.416
+      },
+      "details": {
+        "gradient": "55,90%",
+        "jump_length_m": "15-20 (salto Sochers); ~35 (salto verso il 2° muro)",
+        "speed_kmh": null
+      },
+      "description_it": "Salto di 15-20 m, combinazione sinistra-destra-sinistra e salto sul primo muro; poi un salto di circa 35 m porta al secondo muro con deviazione a destra.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/ ; https://en.wikipedia.org/wiki/Saslong",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Scorrimento verso le Gobbe",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.48
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": 130
+      },
+      "description_it": "Tratto piatto e velocissimo: si toccano circa 130 km/h prima della prima gobba.",
+      "source": "https://en.wikipedia.org/wiki/Saslong ; https://www.saslong.org/en/races/raceguide/",
+      "confidence": "media"
+    },
+    {
+      "order": 8,
+      "name": "Gobbe del Cammello (Kamelbuckel / Camel Humps)",
+      "kind": "humps",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1813,
+        "s_approx": 0.52
+      },
+      "details": {
+        "gradient": "51,27%",
+        "jump_length_m": "oltre 80 (record 88)",
+        "speed_kmh": null
+      },
+      "description_it": "Tre gobbe in sequenza, il tratto più spettacolare: di solito si assorbe la prima (linea Girardelli) e dalla seconda si salta oltre la terza, con voli oltre 80 m e fino a 6 m d'altezza. Spiess le saltò tutte e tre nel 1980.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/ ; https://en.wikipedia.org/wiki/Saslong",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Curva del Lago",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.58
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva tecnica che immette nei Prati del Ciaslat (nome riportato solo da fonte giornalistica).",
+      "source": "https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 10,
+      "name": "Ciaslat (Prati del Ciaslat)",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1720,
+        "s_approx": 0.631
+      },
+      "details": {
+        "gradient": "30,18%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Prato ondulato con 17 dossi e quattro curve in successione: qui spesso si decide la gara, conta come si entra nel prato.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/ ; https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+      "confidence": "official"
+    },
+    {
+      "order": 11,
+      "name": "Nucia",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1550,
+        "s_approx": 0.833
+      },
+      "details": {
+        "gradient": "51,60%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva ripida (sito ufficiale: 'Nucia curve') con salto all'uscita dal Ciaslat che lancia nello schuss finale.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Salto del Tunnel (Tunnel Jump) e schuss finale",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1489,
+        "s_approx": 0.906
+      },
+      "details": {
+        "gradient": "39,04%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Il salto prende il nome dalla galleria stradale sottostante (variante di Santa Cristina, aperta nel 2009): non si salta 'sopra' la strada a cielo aperto, la pista passa sopra il tunnel. Poi lo schuss verso il traguardo.",
+      "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/",
+      "confidence": "official"
+    },
+    {
+      "order": 13,
+      "name": "Arrivo (Santa Cristina)",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1410,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a Santa Cristina con tribuna centrale (Happy Zone), FORST SasLounge e tribuna Fan Club. Il nome 'Ruacia' non è confermato dalle fonti consultate.",
+      "source": "https://www.saslong.org/en/races/raceguide/ ; https://en.wikipedia.org/wiki/Saslong",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Ciampinoi",
+    "description_it": "Partenza a 2249 m sul Ciampinoi, raggiungibile con la cabinovia Ciampinoi da Selva; la pista Ciampinoi è chiusa al pubblico nei giorni di gara.",
+    "source": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/ ; https://www.saslong.org/en/races/raceguide/"
+  },
+  "finish_area": {
+    "name": "Arrivo Saslong – Santa Cristina",
+    "type": "slope_base",
+    "description_it": "Parterre d'arrivo a Santa Cristina; il Ticket Point è alla rotonda tra le due gallerie della statale. Tribune: centrale (Happy Zone), Fan Club, FORST SasLounge; una tribuna separata è alle Gobbe del Cammello.",
+    "grandstands": [
+      "Tribuna centrale (Happy Zone)",
+      "Tribuna Fan Club",
+      "FORST SasLounge",
+      "Tribuna Gobbe del Cammello (lungo pista)"
+    ],
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Galleria stradale della variante di Santa Cristina (2009) sotto lo schuss finale",
+      "Impianto Saslong da Santa Cristina"
+    ],
+    "source": "https://www.saslong.org/en/races/raceguide/"
+  },
+  "environment": {
+    "forest": "Bosco di conifere nella parte medio-bassa (da verificare per tratto: non documentato dalle fonti)",
+    "above_treeline": "Parte alta sul Ciampinoi (~2250 m) in zona aperta (inferenza, da verificare)",
+    "rocks": "Il nome deriva dal ladino del Sassolungo/Langkofel (3181 m) che domina alle spalle della pista",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "tunnel",
+        "where": "Schuss finale (Tunnel Jump, ~1489 m)",
+        "description_it": "Galleria della strada di circonvallazione di Santa Cristina, aperta nel 2009, sotto lo schuss finale."
+      },
+      {
+        "kind": "lift",
+        "where": "Partenza / zona Santa Cristina",
+        "description_it": "Cabinovia Ciampinoi (da Selva) e impianto Saslong (da Santa Cristina) servono la pista."
+      }
+    ],
+    "landmarks": [
+      "Sassolungo / Langkofel (3181 m)",
+      "Ciampinoi",
+      "Santa Cristina"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza Ciampinoi",
+      "status": "confirmed",
+      "note": "2249 m, fonte ufficiale."
+    },
+    {
+      "archive_name": "Spinel",
+      "status": "confirmed",
+      "note": "Tratto più ripido (56,9%); ufficialmente è anche un ingresso in salto."
+    },
+    {
+      "archive_name": "Saut dl Moro",
+      "status": "confirmed",
+      "note": "Salto ~40 m verso la seconda compressione; è il secondo salto (il primo è subito dopo la partenza), non il 'primo grande salto' in senso stretto."
+    },
+    {
+      "archive_name": "Sochers Walls",
+      "status": "confirmed",
+      "note": "Muri di Sochers (Socher's walls), 1900 m, 55,9%. Ordine corretto (dopo Moro)."
+    },
+    {
+      "archive_name": "Camel Humps",
+      "status": "confirmed",
+      "note": "Tre gobbe, salto oltre 80 m (record 88 m)."
+    },
+    {
+      "archive_name": "Ciaslat",
+      "status": "confirmed",
+      "note": "17 dossi, quattro curve."
+    },
+    {
+      "archive_name": "Nucia Turn",
+      "status": "confirmed",
+      "note": "Ufficiale 'Nucia curve' 51,6%; include salto all'uscita del Ciaslat. Direzione 'sinistra' non confermata."
+    },
+    {
+      "archive_name": "Tunnel Jump",
+      "status": "confirmed",
+      "note": "Esiste; la galleria è stradale sotto lo schuss finale (2009)."
+    },
+    {
+      "archive_name": "Arrivo Ruacia",
+      "status": "renamed",
+      "note": "Arrivo a Santa Cristina; 'Ruacia' non trovato nelle fonti consultate. Rinominare 'Arrivo Santa Cristina' salvo conferma."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.saslong.org/en/news/detail/the-jumps-and-bumps-of-the-saslong/",
+      "title": "The Jumps and Bumps of the Saslong",
+      "type": "official"
+    },
+    {
+      "url": "https://www.saslong.org/en/news/detail/saslong-course-and-key-sections/",
+      "title": "Saslong course and key sections",
+      "type": "official"
+    },
+    {
+      "url": "https://www.saslong.org/en/races/raceguide/",
+      "title": "Saslong Race Guide",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saslong",
+      "title": "Saslong – Wikipedia",
+      "type": "other"
+    },
+    {
+      "url": "https://www.oasport.it/2022/12/sci-alpino-la-saslong-della-val-gardena-ai-raggi-x-una-pista-iconica-dalle-gobbe-del-cammello-fino-ai-prati-del-ciaslat/amp/",
+      "title": "OA Sport – La Saslong ai raggi X (2022)",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Distanze dal via di ciascun tratto non pubblicate: s_approx calcolato sulla quota ((2249-quota)/839), non sulla distanza.",
+    "Spaziatura tra le tre Gobbe del Cammello non trovata.",
+    "Nome 'Ruacia' per l'arrivo non verificato.",
+    "Direzione (sx/dx) delle singole curve non documentata, salvo la combinazione S-D-S dopo il salto Sochers.",
+    "Quota arrivo: 1410 m (Wikipedia, OA Sport) – il sito ufficiale non la riporta.",
+    "Velocità max ~130 km/h: il race guide la colloca a Sochers, Wikipedia prima della prima gobba."
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "flachau-hermann-maier-weltcupstrecke-sl",
+  "course": "Hermann Maier Weltcupstrecke (nome FIS 2026: Griessenkar)",
+  "location": "Flachau, Salisburghese (AUT)",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 1169,
+      "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf (2026; 1.160 m nel 2019 https://www.fis-ski.com/DB/pdf/2019/AL/5010/2019AL5010SLR2.pdf; 1.145 m secondo alpineskiworldcup.com)",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 960,
+      "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf ; https://www.fis-ski.com/DB/pdf/2019/AL/5010/2019AL5010SLR2.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": 530,
+      "source": "https://www.americanexpress.com/de-de/amexcited/travel/ab-auf-die-weltcuppiste-im-oesterreichischen-skigebiet-flachau-2046 ; https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+      "confidence": "media"
+    },
+    "vertical_m": {
+      "value": 209,
+      "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf (200 m nel 2019; 185 m secondo alpineskiworldcup.com)",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": "",
+      "where": "non documentata",
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "~35-40 % (stima: 185-209 m di dislivello su 530 m; non documentata)",
+      "source": "https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Omologazione FIS 2026",
+        "value": "13835/11/20 (nel 2019: 9678/10/10, nome 'Hermann Maier Weltcupstrecke')",
+        "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf ; https://www.fis-ski.com/DB/pdf/2019/AL/5010/2019AL5010SLR2.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Nome pista nei risultati FIS 2026",
+        "value": "Griessenkar",
+        "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Spettatori",
+        "value": "10.000–15.000 attesi (2023); circa 11.700 nel 2025",
+        "source": "https://www.salzburg24.at/news/salzburg/pongau/flachau-feiert-mit-nachtslalom-grosses-ski-spektakel-art-261216 ; https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+        "confidence": "media"
+      },
+      {
+        "label": "Night race",
+        "value": "Slalom femminile in notturna, in Coppa dal 2010; partenze 17:45 / 20:45 (2025-2026)",
+        "source": "https://www.salzburg24.at/news/salzburg/pongau/flachau-feiert-mit-nachtslalom-grosses-ski-spektakel-art-261216 ; https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e ; https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Novità 2027",
+        "value": "4–5 gennaio 2027: slalom notturno + nuovo gigante notturno; impianto di illuminazione esteso alla parte alta della pista (fino a 8 mln €)",
+        "source": "https://skiweltcup-flachau.at/en/ ; https://www.snow-space.com/en/Audi-FIS-Ski-World-Cup-Flachau_e_1789 ; https://www.salzburg24.at/sport/wintersport/flutlicht-erweiterung-an-weltcupstrecke-in-flachau-fix-art-281390",
+        "confidence": "official"
+      },
+      {
+        "label": "Porte 2019",
+        "value": "1ª manche 69/67",
+        "source": "https://www.fis-ski.com/DB/pdf/2019/AL/5010/2019AL5010SLR2.pdf",
+        "confidence": "fis"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start (1.169 m)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1169,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza dello slalom sul versante est del Grießenkar; la parte alta della pista funge da zona di riscaldamento per le atlete. Nessun nome proprio documentato.",
+      "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf ; https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e ; https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Oberer Teil (etichetta generica)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Parte alta: nessun nome documentato. Dal 2026/27 illuminata con nuovi piloni per il gigante notturno.",
+      "source": "https://www.salzburg24.at/sport/wintersport/flutlicht-erweiterung-an-weltcupstrecke-in-flachau-fix-art-281390",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Mittelteil (etichetta generica)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Parte centrale: nessun nome né caratteristica del terreno documentati.",
+      "source": "https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Zielhang (etichetta generica)",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio finale verso il traguardo alla periferia di Flachau, davanti al pubblico (10.000–15.000 spettatori). Nome 'Zielhang' usato qui in senso generico, non documentato come toponimo.",
+      "source": "https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview ; https://www.salzburg24.at/news/salzburg/pongau/flachau-feiert-mit-nachtslalom-grosses-ski-spektakel-art-261216",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Zielbereich",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 960,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Area d'arrivo a 960 m ai margini del paese, con mixed zone e cerimonia di premiazione; accesso tecnici dal corridoio a destra (lato sciatore).",
+      "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf ; https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Start Weltcupstrecke (1.169 m)",
+    "description_it": "Partenza sul versante est del Grießenkar (Snow Space Salzburg), servita dalla Star Jet 1; la parte alta del tracciato è usata come pista di riscaldamento/allenamento.",
+    "source": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf ; https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e ; https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview"
+  },
+  "finish_area": {
+    "name": "Zielbereich Weltcupstrecke Flachau",
+    "type": "slope_base",
+    "description_it": "Arrivo a 960 m alla periferia di Flachau, ai piedi della pista (Snow Space Salzburg), sede dello slalom notturno sotto i riflettori; mixed zone e podio nell'area d'arrivo; 10.000–15.000 spettatori. Indirizzo dell'organizzazione: Hermann-Maier-Platz 1.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": true,
+    "notable": [
+      "Illuminazione notturna (Flutlicht), estesa alla parte alta per il gigante 2027",
+      "Timing House",
+      "Piattaforma Ski Austria",
+      "Star Jet 1 (impianto aperto durante la gara)",
+      "Waldgasthof e Neureitalm (hospitality squadre)"
+    ],
+    "source": "https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e ; https://www.salzburg24.at/news/salzburg/pongau/flachau-feiert-mit-nachtslalom-grosses-ski-spektakel-art-261216 ; https://skiweltcup-flachau.at/en/ ; https://www.salzburg24.at/sport/wintersport/flutlicht-erweiterung-an-weltcupstrecke-in-flachau-fix-art-281390"
+  },
+  "environment": {
+    "forest": "Non documentato in dettaglio (presenza del 'Waldgasthof' vicino al tracciato).",
+    "above_treeline": "No (960–1.169 m).",
+    "rocks": "Nessuna roccia documentata.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "area di partenza / lungo la pista (posizione esatta non documentata)",
+        "description_it": "La Star Jet 1 serve la pista ed è aperta durante la gara."
+      }
+    ],
+    "landmarks": [
+      "Grießenkar (versante est)",
+      "Paese di Flachau",
+      "Neureitalm",
+      "Waldgasthof"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "1.169 m (FIS 2026); nessun nome proprio."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "Figura di tracciatura, non del terreno."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "Figura di tracciatura, non del terreno."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Non documentata."
+    },
+    {
+      "archive_name": "Ritmo medio",
+      "status": "generic",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "generic",
+      "note": "Non documentato come muro; generico 'Zielhang'."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "Zielbereich a 960 m, periferia di Flachau, notturno."
+    },
+    {
+      "archive_name": "metrics.length '650 m circa'",
+      "status": "not_found",
+      "note": "Fonti: 530 m (Amex, alpineskiworldcup.com)."
+    },
+    {
+      "archive_name": "course 'Hermann Maier Weltcupstrecke'",
+      "status": "renamed",
+      "note": "Nei risultati FIS 2026 la pista è registrata come 'Griessenkar' (omologazione 13835/11/20); il nome commerciale resta Hermann Maier Weltcupstrecke."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.sportsidioten.no/wp-content/uploads/2026/01/2026AL5007SLR1.pdf",
+      "title": "FIS – Startliste/Risultati SL Flachau 13/01/2026 (copia su sportsidioten.no)",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/pdf/2019/AL/5010/2019AL5010SLR2.pdf",
+      "title": "FIS – Risultati SL Flachau 08/01/2019",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/v2/download/competition-attachment/c32ac03b-64da-11f1-b635-1866da7ef77e",
+      "title": "FIS – Programma di gara Nacht Slalom Flachau 14/01/2025",
+      "type": "fis"
+    },
+    {
+      "url": "https://skiweltcup-flachau.at/en/",
+      "title": "Skiweltcup Flachau (organizzatore)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.snow-space.com/en/Audi-FIS-Ski-World-Cup-Flachau_e_1789",
+      "title": "Snow Space Salzburg – Audi FIS Ski World Cup Flachau",
+      "type": "official"
+    },
+    {
+      "url": "https://www.salzburg24.at/sport/wintersport/flutlicht-erweiterung-an-weltcupstrecke-in-flachau-fix-art-281390",
+      "title": "Salzburg24 – Flutlicht-Erweiterung an Weltcupstrecke in Flachau fix",
+      "type": "media"
+    },
+    {
+      "url": "https://www.salzburg24.at/news/salzburg/pongau/flachau-feiert-mit-nachtslalom-grosses-ski-spektakel-art-261216",
+      "title": "Salzburg24 – Flachau feiert mit Nachtslalom",
+      "type": "media"
+    },
+    {
+      "url": "https://www.alpineskiworldcup.com/post/flachau-night-slalom-race-preview",
+      "title": "alpineskiworldcup.com – Flachau night slalom preview",
+      "type": "media"
+    },
+    {
+      "url": "https://www.americanexpress.com/de-de/amexcited/travel/ab-auf-die-weltcuppiste-im-oesterreichischen-skigebiet-flachau-2046",
+      "title": "American Express – Ab auf die Weltcuppiste in Flachau",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Nessun nome proprio documentato per le sezioni della pista: TUTTE le sezioni intermedie sono etichette generiche (segnalato).",
+    "Quota di partenza discordante (1.145 / 1.160 / 1.169 m) e cambio di omologazione (9678/10/10 → 13835/11/20): possibile modifica della pista/partenza, non documentata.",
+    "Pendenze massime e medie non pubblicate.",
+    "Capienza tribune e struttura dello stadio d'arrivo non documentate.",
+    "Dati del nuovo gigante notturno 2027 (partenza, dislivello) non ancora pubblicati."
+  ]
+}

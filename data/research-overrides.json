@@ -1,0 +1,59 @@
+{
+  "_info": "Correzioni approvate dalla revisione utente del 7/11/2026 (file 'Dati piste Coppa del Mondo aggiornati.md') applicate sopra data/research/*.json al momento del build. replace_sections sostituisce l'intera sequenza; patch modifica una sezione esistente (match per prefisso del nome); insert aggiunge sezioni; facts sovrascrive i dati tecnici.",
+  "courses": {
+    "kitzbuhel-streif-dh": {
+      "patch": [
+        {"match": "Mausefalle", "set": {"kind": "jump", "details": {"gradient": "85%", "jump_length_m": 80}, "description_it": "Salto simbolo della Streif e punto più ripido: 85% (prospetto tecnico HKR); salti fino a 80 m a 110–120 km/h.", "confidence": "official"}},
+        {"match": "Karussell", "set": {"description_it": "Curva tecnica fino a 3,1 g, 80–100 km/h, prima dello Steilhang."}},
+        {"match": "Steilhang", "set": {"details": {"gradient": "62%"}, "description_it": "Muro con lunga curva a destra, 62% nel prospetto tecnico HKR; settore molto ghiacciato, 90–100 km/h."}},
+        {"match": "Brückenschuss", "set": {"description_it": "Strozzatura più stretta della pista nel prospetto HKR, oltre 110 km/h."}},
+        {"match": "Gleitstück", "set": {"description_it": "Scorrimento di 650 m al 14% circa, sotto i 90 km/h (tabella HKR)."}},
+        {"match": "Alte Schneise", "set": {"details": {"gradient": "45%"}, "description_it": "Diagonale nel bosco al 45%, oltre 120 km/h, con rapido cambio del terreno e piccolo salto d'ingresso."}},
+        {"match": "Seidlalmsprung", "set": {"details": {"gradient": "53%"}, "description_it": "Salto con rotazione a destra a metà tracciato (circa 1.600 m), pendenza 53%."}},
+        {"match": "Hausbergkante", "set": {"details": {"gradient": "69%"}, "description_it": "Salto al 69% (prospetto HKR) da cui si vede l'arrivo; segue la Hausberg-Kompression."}},
+        {"match": "Zielschuss", "set": {"name": "Zielschuss", "details": {"gradient": "68%"}, "description_it": "Settore più veloce, oltre 140 km/h, pendenza 68% nel prospetto HKR."}},
+        {"match": "Zielsprung", "set": {"description_it": "Salto finale a 120–140 km/h davanti allo stadio."}}
+      ],
+      "insert": [
+        {"order": 14.5, "name": "Hausberg-Kompression", "kind": "compression", "direction": null, "position": {"s_approx": 0.81}, "details": {}, "description_it": "Compressione dopo la Hausbergkante: 3,5 g a circa 100 km/h (dato HKR 2022; posizione stimata).", "confidence": "official"},
+        {"order": 16.5, "name": "Zielkompression", "kind": "compression", "direction": null, "position": {"s_approx": 0.945}, "details": {}, "description_it": "Compressione prima del salto conclusivo, oltre 140 km/h (posizione stimata).", "confidence": "official"}
+      ],
+      "facts": {"length_m": {"value": 3315, "confidence": "official", "note": "3.312 m nel documento HKR Facts & Figures 2026"}, "max_gradient": {"value": "85%", "where": "Mausefalle", "confidence": "official"}}
+    },
+    "val-gardena-saslong-dh": {
+      "patch": [
+        {"match": "Arrivo", "set": {"name": "Arrivo Ruacia (Santa Cristina)", "description_it": "Parterre di Ruacia, toponimo ufficiale dell'arrivo (dall'omonimo maso), ai margini di Santa Cristina, 1.410 m.", "confidence": "official"}},
+        {"match": "Nucia", "set": {"direction": "left", "description_it": "Curva che volge fortemente a sinistra (fonte organizzatore)."}}
+      ],
+      "facts": {"finish_alt_m": {"value": 1410, "confidence": "official"}}
+    },
+    "adelboden-chuenisbargli-gs": {
+      "remove": ["Giisbrunni"],
+      "patch": [
+        {"match": "Zielhang", "set": {"name": "Zielhang Giisbrunni", "kind": "wall/steep", "position": {"s_approx": 0.82}, "details": {"gradient": "60%"}, "description_it": "Settore finale unico nel programma ufficiale 2026: muro fino al 60% che precipita nell'Hexenkessel.", "confidence": "official"}}
+      ]
+    },
+    "madonna-di-campiglio-canalone-miramonti-sl": {
+      "replace_sections": [
+        {"name": "Partenza – Mini Centrale", "kind": "other", "s": 0.0, "d": "Ingresso graduale con le prime porte angolate."},
+        {"name": "2° Cambio", "kind": "roll", "s": 0.16, "d": "Secondo cambio di pendenza, prima della diagonale."},
+        {"name": "Ingresso Diagonale", "kind": "traverse", "dir": "left", "s": 0.31, "d": "Diagonale in contropendenza verso sinistra: linea stretta e precisa."},
+        {"name": "Ginocchio del Canalone", "kind": "turn", "s": 0.47, "d": "Cambio che porta direttamente verso il muro centrale."},
+        {"name": "Muro del Canalone Miramonti", "kind": "wall/steep", "s": 0.65, "g": "60%", "d": "Tratto decisivo della 3Tre, fino al 60% di pendenza."},
+        {"name": "Cambio di fine muro", "kind": "roll", "s": 0.84, "d": "Porte meno ripide con due dossi nel finale."},
+        {"name": "Cambio del Magazzino", "kind": "roll", "s": 0.95, "d": "Ultimo cambio nominato prima del traguardo."},
+        {"name": "Arrivo – Ski Stadium", "kind": "finish slope", "s": 1.0, "d": "Ski Stadium della 3Tre, illuminato con 290 proiettori LED dal 2026."}
+      ],
+      "source": "https://www.3trecampiglio.it/it/evento/canalone-miramonti",
+      "facts": {"start_alt_m": {"value": 1730, "confidence": "official"}, "finish_alt_m": {"value": 1550, "confidence": "official"}, "length_m": {"value": 470, "confidence": "official"}, "vertical_m": {"value": 180, "confidence": "official"}, "max_gradient": {"value": "60%", "confidence": "official"}, "avg_gradient": {"value": "38%", "confidence": "official"}}
+    },
+    "jasna-lukova-koliesko-gs": {
+      "facts": {"length_m": {"value": 1220, "confidence": "official"}, "avg_gradient": {"value": "32,7%", "confidence": "official"}}
+    },
+    "solden-rettenbach-gs": {
+      "insert": [
+        {"order": 7, "name": "Ziel – Zielstadion Rettenbachgletscher", "kind": "finish slope", "direction": null, "position": {"s_approx": 1.0}, "details": {}, "description_it": "Stadio d'arrivo sul ghiacciaio: un unico edificio con 1.500 posti, centro stampa e cabine TV, al termine della Gletscherstraße.", "confidence": "official"}
+      ]
+    }
+  }
+}

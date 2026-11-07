@@ -1,0 +1,385 @@
+{
+  "id": "crans-montana-mont-lachaux-sg",
+  "course": "Mont Lachaux (piste Mont Lachaux)",
+  "location": "Crans-Montana (VS), Svizzera",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 2116,
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 1545,
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": 2045,
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "confidence": "fis"
+    },
+    "vertical_m": {
+      "value": 571,
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": "53%",
+      "where": "Reck de Vermala",
+      "source": "https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Omologazione FIS SG",
+        "value": "14751/11/22 (2024); 12443/10/17 (2020)",
+        "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf ; https://www.fis-ski.com/DB/pdf/2020/AL/5060/2020AL5060RLR0.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Porte SG 18.2.2024",
+        "value": "40 porte / 35 cambi di direzione (tracciatore Giovanni Feltrin)",
+        "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Modifica recente",
+        "value": "Dopo le gare 2024 la partenza del super-G è stata leggermente spostata 'per ragioni di preparazione' (quota 2026/2027 non trovata)",
+        "source": "https://www.cransmontana2027.ch/en/news/nationale-and-mont-lachaux-two-iconic-slopes-with-distinct-characteristics/",
+        "confidence": "official"
+      },
+      {
+        "label": "Dati alternativi (Wikipedia)",
+        "value": "start 2130 m, arrivo 1560 m, 570 m, 1918 m",
+        "source": "https://en.wikipedia.org/wiki/Mont_Lachaux",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Soprannome",
+        "value": "'Kitzbühel femminile' – pista ripida, porte cieche, forti compressioni, nessuna zona di recupero",
+        "source": "https://www.cransmontana2027.ch/en/news/nationale-and-mont-lachaux-two-iconic-slopes-with-distinct-characteristics/ ; https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/",
+        "confidence": "official"
+      },
+      {
+        "label": "Storia",
+        "value": "Mondiali 1987 (discesa femminile); completamente rimodellata nel 2010; Coppa del Mondo femminile dal 2014; omologata FIS per i Mondiali 2027 nel 2022",
+        "source": "https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/ ; https://www.cransmontana2027.ch/en/news/detail/the-legendary-nationale-piste-gets-a-green-light-from-the-fis/",
+        "confidence": "official"
+      },
+      {
+        "label": "Mondiali 2027 sulla Mont Lachaux",
+        "value": "DH donne, SG donne, slalom donne e uomini, team parallel / combinata a squadre; la Nationale ospita DH e SG uomini e GS",
+        "source": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/",
+        "confidence": "official"
+      },
+      {
+        "label": "Coppa del Mondo 2026",
+        "value": "DH donne del 30.1.2026 annullata dopo 6 partenti e 3 cadute (tra cui Lindsey Vonn, elitrasportata); SG del 31.1.2026 sulla Mont Lachaux",
+        "source": "https://www.blick.ch/fr/sport/ski/ce-netait-pas-raisonnable-faux-depart-pour-les-courses-de-crans-montana-id21646836.html",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Départ super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2116,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza sotto quella della discesa, dopo un breve tratto di scorrimento; spostata leggermente dopo il 2024 per ragioni di preparazione.",
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf ; https://it.wikipedia.org/wiki/Mont_Lachaux ; https://www.cransmontana2027.ch/en/news/nationale-and-mont-lachaux-two-iconic-slopes-with-distinct-characteristics/",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Mur de Marius / La Face",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.05
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Subito dopo il via la pista si stringe e gira bruscamente a sinistra nei tratti ripidi: è incerto se il SG includa tutto il Mur de Marius.",
+      "source": "https://it.wikipedia.org/wiki/Mont_Lachaux ; https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Trou du Renard",
+      "kind": "turn",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.13
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio ripido e stretto con curva secca a sinistra.",
+      "source": "https://it.wikipedia.org/wiki/Mont_Lachaux ; https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Bosse du Président",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.35
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto che lancia sulla piatta Traverse de Clavan.",
+      "source": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/ ; https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Traverse de Clavan",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.47
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traversa piatta di scorrimento.",
+      "source": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Toboggan",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.66
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva stretta a destra che apre il muro finale.",
+      "source": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/ ; https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Reck de Vermala",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.83
+      },
+      "details": {
+        "gradient": "53% (it.wikipedia)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Muro finale ripidissimo, il punto più ripido della pista.",
+      "source": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/ ; https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 8,
+      "name": "Saut final (senza nome)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.94
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto artificiale prima del traguardo (nome non documentato).",
+      "source": "https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 9,
+      "name": "Arrivée",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 2045,
+        "alt_m": 1545,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 1545 m, stesso arrivo della discesa.",
+      "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Départ super-G (2116 m, FIS 2020/2024)",
+    "description_it": "Partenza circa 95 m più in basso di quella della discesa, raggiunta dopo un breve tratto di scorrimento; spostata leggermente dopo il 2024.",
+    "source": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf ; https://www.cransmontana2027.ch/en/news/nationale-and-mont-lachaux-two-iconic-slopes-with-distinct-characteristics/"
+  },
+  "finish_area": {
+    "name": "Arrivée Mont Lachaux (1545 m)",
+    "type": "slope_base",
+    "description_it": "Arrivo a 1545 m, alla stessa quota dell'arrivo della Nationale; secondo l'organizzatore gli spettatori possono seguire tutta la pista dalle tribune. Nome della località d'arrivo e capienza non documentati nelle fonti consultate.",
+    "grandstands": "Tribune (numero non pubblicato)",
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Sede dei Mondiali FIS 2027 (gare femminili di velocità)",
+      "Il pubblico vede l'intero tracciato dalle tribune"
+    ],
+    "source": "https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/ ; https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/"
+  },
+  "environment": {
+    "forest": "Non documentato nelle fonti consultate; parte bassa probabilmente tra lariceti sopra Montana (da verificare con ortofoto).",
+    "above_treeline": "Parte alta sotto la cima del Mont Lachaux (~2210 m) presumibilmente sopra/al limite del bosco – non confermato.",
+    "rocks": "Non documentate.",
+    "glacier": false,
+    "crossings": [],
+    "landmarks": [
+      "Mont Lachaux",
+      "Valle del Rodano e Alpi vallesane (vista dall'altopiano di Crans-Montana)",
+      "Vermala (toponimo del muro finale Reck de Vermala)",
+      "Piste Nationale (pista maschile vicina, stesso livello d'arrivo 1545 m)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "2116 m (FIS 2024); leggermente spostata dopo il 2024."
+    },
+    {
+      "archive_name": "Ingresso veloce",
+      "status": "renamed",
+      "note": "Mur de Marius / La Face (ripido, non 'veloce')."
+    },
+    {
+      "archive_name": "Curva lunga",
+      "status": "renamed",
+      "note": "Trou du Renard (curva stretta a sinistra, non lunga)."
+    },
+    {
+      "archive_name": "Cambio di pendenza",
+      "status": "generic",
+      "note": "Possibile corrispondenza con Bosse du Président."
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "renamed",
+      "note": "Traverse de Clavan."
+    },
+    {
+      "archive_name": "Porta chiave",
+      "status": "generic",
+      "note": "Nessun corrispettivo nominato; candidato: Toboggan."
+    },
+    {
+      "archive_name": "Salto",
+      "status": "wrong_order",
+      "note": "In archivio dopo la 'porta chiave'; i salti reali sono Bosse du Président (centro) e salto finale (dopo Reck de Vermala)."
+    },
+    {
+      "archive_name": "Finale",
+      "status": "renamed",
+      "note": "Toboggan + Reck de Vermala."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "1545 m. Metriche archivio: lunghezza 2045 m (non 3 km), dislivello 571 m."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.skicm-cransmontana.ch/media/350945/2024al5030rlr0-sg.pdf",
+      "title": "FIS – 2024AL5030 Women's Super-G Crans Montana results",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/pdf/2020/AL/5060/2020AL5060RLR0.pdf",
+      "title": "FIS – 2020AL5060 Women's AC Super-G Crans Montana results",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.cransmontana2027.ch/actualites/la-nationale-et-la-mont-lachaux-deux-pistes-de-renom-aux-caracteristiques-singulieres/",
+      "title": "CM2027 – La Nationale et la Mont Lachaux",
+      "type": "official"
+    },
+    {
+      "url": "https://www.cransmontana2027.ch/en/news/nationale-and-mont-lachaux-two-iconic-slopes-with-distinct-characteristics/",
+      "title": "CM2027 – Nationale and Mont Lachaux (EN)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.cransmontana2027.ch/competition/pistes/piste-mont-lachaux/",
+      "title": "CM2027 – Piste Mont Lachaux",
+      "type": "official"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Mont_Lachaux",
+      "title": "it.wikipedia – Mont Lachaux",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mont_Lachaux",
+      "title": "en.wikipedia – Mont Lachaux",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Quota esatta della nuova partenza SG (2026/2027) non trovata.",
+    "Non è chiaro se il Mur de Marius sia interamente sopra o sotto la partenza SG.",
+    "Tutte le posizioni s_approx stimate (lunghezza 2045 m).",
+    "'La Face' (en.wiki, it.wiki) e 'Mur de Montan' (it.wiki, 49%) non compaiono nei testi dell'organizzatore: possibili sinonimi del Mur de Marius; 'Le Trour de Renard' su en.wiki è refuso di Trou du Renard.",
+    "Pendenze massime (53%/28°) solo da Wikipedia; l'organizzatore non pubblica numeri.",
+    "Nome della località d'arrivo (1545 m) e capienza tribune non trovati."
+  ]
+}

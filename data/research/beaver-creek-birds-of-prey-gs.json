@@ -1,0 +1,353 @@
+{
+  "id": "beaver-creek-birds-of-prey-gs",
+  "course": "Birds of Prey",
+  "location": "Beaver Creek, Colorado (USA)",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 3124,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "finish_alt_m": {
+      "value": 2724,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "length_m": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 400,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "max_gradient": {
+      "value": "50% (26,7°)",
+      "where": "non localizzato",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "31% (17°)",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Dicembre 2025",
+        "value": "GS maschile dom 7/12 da Pick 5 con arrivo al salto Harrier; vincitore Marco Odermatt",
+        "source": "https://bcworldcup.com/2025-spectators-guide/ ; https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+        "confidence": "official"
+      },
+      {
+        "label": "Mondiali 2015",
+        "value": "Ted Ligety oro in GS sulla Birds of Prey",
+        "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) ; https://skiracing.com/ligetys-legacy-cemented-into-the-fabric-of-birds-of-prey/",
+        "confidence": "media"
+      },
+      {
+        "label": "Miller 2005",
+        "value": "Miller's Revenge (tra Golden Eagle e Harrier) fu parte del 'wild ride' di Bode Miller nella vittoria GS 2005",
+        "source": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza GS – Pick 5",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 3124,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza del gigante a 'Pick 5', appena sotto la partenza tradizionale maschile del super-G; circa 3.124 m (Wikipedia).",
+      "source": "https://bcworldcup.com/2025-spectators-guide/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Ligety's Legacy",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Sezione intitolata a Ted Ligety (oro GS Mondiali 2015 su questa pista) dal 2021; posizione esatta non documentata dalla fonte.",
+      "source": "https://skiracing.com/ligetys-legacy-cemented-into-the-fabric-of-birds-of-prey/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Golden Eagle",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'aquila reale'; nel 2025 (prima versione del programma) l'arrivo era previsto subito dopo questo salto. Nel gigante è un dosso/cambio di pendenza attraversato tra le porte, non un salto vero e proprio (inferenza).",
+      "source": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "The Abyss",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Citata nell'elenco Wikipedia dopo Golden Eagle; tipo di terreno non documentato (nome suggerisce ripido).",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Miller's Revenge",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.64
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Area tra i salti Golden Eagle e Harrier, dedicata a Bode Miller; parte anche del suo 'wild ride' nella vittoria GS 2005.",
+      "source": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Harrier",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'albanella'; nel dicembre 2025 per mancanza di neve è stato il traguardo di gara di tutte le prove maschili. Nel gigante è un dosso/cambio di pendenza attraversato tra le porte, non un salto vero e proprio (inferenza).",
+      "source": "https://bcworldcup.com/2025-spectators-guide/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Red Tail",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.92
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ultimo salto davanti al traguardo e allo stadio: fino a 70 m di volo a circa 113 km/h (70 mph). Nel gigante è un dosso/cambio di pendenza attraversato tra le porte, non un salto vero e proprio (inferenza).",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 8,
+      "name": "Arrivo – Red Tail Stadium",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2730,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 2.730 m nello stadio John & Karen Arnold Red Tail Stadium.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    }
+  ],
+  "start_area": {
+    "name": "Pick 5",
+    "description_it": "Partenza del gigante, appena sotto la partenza tradizionale maschile del super-G (guida spettatori 2025).",
+    "source": "https://bcworldcup.com/2025-spectators-guide/"
+  },
+  "finish_area": {
+    "name": "John & Karen Arnold Red Tail Stadium (Red Tail Camp)",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo alla base del salto Red Tail, alla confluenza delle Chair 10 e 11, circa 240 m di dislivello sopra il villaggio di Beaver Creek. Ribattezzato nell'ottobre 2024 in onore della donazione di John e Karen Arnold; tribune gratuite, area pubblica 'Public Perch' accanto all'arrivo, accesso con navette dal Covered Bridge e breve camminata sulla neve.",
+    "grandstands": true,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Tribune gratuite per il pubblico",
+      "Nel 2025 (poca neve) arrivo di gara spostato al salto Harrier, gli atleti proseguono poi fino all'arrivo tradizionale",
+      "Nessun accesso ski-in/ski-out nel 2025"
+    ],
+    "source": "https://bcworldcup.com/vail-valley-foundation-dedicates-stifel-birds-of-prey-world-cup-race-finish-venue-at-beaver-creek-to-honor-an-extraordinary-gift-from-john-and-karen-arnold/"
+  },
+  "environment": {
+    "forest": "Pista tagliata nel bosco sul versante di Beaver Creek (conifere/abeti e pioppi tremuli tipici della zona: NON verificato da fonte specifica).",
+    "above_treeline": "No: start a 3.483 m ma ancora in zona boscata/limite del bosco (non verificato).",
+    "rocks": "Nessuna fonte su affioramenti rocciosi rilevanti.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "partenza",
+        "description_it": "La partenza della discesa è a ovest della sommità della Chair 8 (fonte alpineskiworldcup.com)."
+      },
+      {
+        "kind": "lift",
+        "where": "arrivo",
+        "description_it": "L'arrivo è alla base di Red Tail, alla confluenza delle Chair 10 e 11 (fonte alpineskiworldcup.com)."
+      }
+    ],
+    "landmarks": [
+      "Red Tail Camp (zona arrivo, ~240 m sopra il villaggio)",
+      "Beaver Creek Village",
+      "Public Perch (area pubblica accanto all'arrivo)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Nome reale: Pick 5."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Nessun nome specifico trovato per il muro iniziale del GS."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "generic",
+      "note": "Golden Eagle (dosso) probabile."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "generic",
+      "note": "Miller's Revenge (tra Golden Eagle e Harrier)."
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "generic",
+      "note": "Forse The Abyss (incerto)."
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "generic",
+      "note": "Harrier → Red Tail."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Red Tail Stadium."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "title": "Birds of Prey – FIS Alpine Ski Racing 101 (bcworldcup.com)",
+      "type": "official"
+    },
+    {
+      "url": "https://bcworldcup.com/2025-spectators-guide/",
+      "title": "2025 Spectator's Guide (bcworldcup.com)",
+      "type": "official"
+    },
+    {
+      "url": "https://bcworldcup.com/vail-valley-foundation-dedicates-stifel-birds-of-prey-world-cup-race-finish-venue-at-beaver-creek-to-honor-an-extraordinary-gift-from-john-and-karen-arnold/",
+      "title": "John and Karen Arnold Red Tail Stadium dedication (bcworldcup.com, 30/10/2024)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "title": "Birds of Prey names new course areas (Vail Daily)",
+      "type": "media"
+    },
+    {
+      "url": "https://skiracing.com/ligetys-legacy-cemented-into-the-fabric-of-birds-of-prey/",
+      "title": "Ligety's legacy cemented into the fabric of Birds of Prey (Ski Racing, 4/12/2021)",
+      "type": "media"
+    },
+    {
+      "url": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "title": "Birds of Prey Beaver Creek racecourse (alpineskiworldcup.com)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "title": "Birds of Prey (ski course) – Wikipedia (solo puntatore)",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia (calendario)",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Quali sezioni nominate cadono a valle di Pick 5: l'assegnazione (Ligety's Legacy in giù) è un'inferenza da quote, non da fonte.",
+    "Lunghezza del tracciato GS."
+  ]
+}

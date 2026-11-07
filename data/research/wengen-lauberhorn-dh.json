@@ -1,0 +1,570 @@
+{
+  "id": "wengen-lauberhorn-dh",
+  "course": "Lauberhorn",
+  "location": "Wengen (BE), Svizzera",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 2315,
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1287,
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 4480,
+      "source": "https://www.jungfrau.ch/de-ch/jungfrau-ski-region/grindelwald-wengen/lauberhorn-rennstrecke/",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 1028,
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "41°",
+      "where": "Hundschopf",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "14.7° (26.2%) – min 6° (10.5%)",
+      "source": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Velocità massima record",
+        "value": "161.9 km/h (Johan Clarey, 2013, Hanneggschuss)",
+        "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+        "confidence": "official"
+      },
+      {
+        "label": "Velocità media",
+        "value": "106.33 km/h",
+        "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Record della pista",
+        "value": "2:22.58",
+        "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+        "confidence": "official"
+      },
+      {
+        "label": "Lunghezza (ufficiale arrotondata)",
+        "value": "4.5 km (lauberhorn.ch); 4'480 m (jungfrau.ch) – discesa più lunga di Coppa del Mondo",
+        "source": "https://www.jungfrau.ch/de-ch/jungfrau-ski-region/grindelwald-wengen/lauberhorn-rennstrecke/",
+        "confidence": "official"
+      },
+      {
+        "label": "Pendenza massima secondo Wikipedia",
+        "value": "42° (90%) al Hundschopf – discrepanza con i 41° ufficiali",
+        "source": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Super-G (stessa pista)",
+        "value": "partenza 2025 m, arrivo 1287 m, 738 m dislivello, 2950 m",
+        "source": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Vincitori recenti DH",
+        "value": "2026 Odermatt (17.1.2026); 2025 Odermatt; 2024 Odermatt (2x)",
+        "source": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start (Lauberhornschulter)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2315,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Casetta di partenza permanente in legno sulla spalla del Lauberhorn a 2315 m, con vista su Eiger, Mönch e Jungfrau. Il primo tratto è poco pendente: conta spingere e scorrere.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Russisprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2180,
+        "s_approx": 0.13
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": "40–50 (Wikipedia)",
+        "speed_kmh": null
+      },
+      "description_it": "Salto nato da un cumulo di neve costruito da Bernhard Russi per una ripresa TV; il direttore di gara Fredy Fuchs lo inserì poi nel tracciato con il nome di lavoro 'Russisprung'.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Traversenschuss",
+      "kind": "traverse",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2120,
+        "s_approx": 0.19
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "100→130+ in 5 s"
+      },
+      "description_it": "Tratto veloce leggermente a S con onde all'inizio e una curva a sinistra impegnativa verso la traversa: in 5 secondi la velocità passa da 100 a oltre 130 km/h.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Hundschopf",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1975,
+        "s_approx": 0.33
+      },
+      "details": {
+        "gradient": "41° (ufficiale; 42° per Wikipedia)",
+        "jump_length_m": 40,
+        "speed_kmh": null
+      },
+      "description_it": "Simbolo della Lauberhorn e punto più ripido (41°): passaggio stretto, al massimo 5 m tra la roccia (a sinistra) e la rete di sicurezza (a destra), con salto di circa 40 m preparato da una rampa artificiale ~10 m prima dello stacco. Il nome richiama una roccia a forma di testa di cane.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://www.lauberhorn.ch/en/home-of-legends/article/hund-schopf-oder-hunds-chopf/",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Minschkante",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1915,
+        "s_approx": 0.39
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva a destra con dosso il cui raggio dipende dalla velocità; prende il nome da Joos Minsch, caduto qui in prova nel 1965 (frattura del bacino, nove settimane in ospedale).",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Canadian Corner",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1890,
+        "s_approx": 0.41
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva intitolata a Dave Irwin e Ken Read, caduti quasi nello stesso punto nel 1976; oggi è anche piattaforma hospitality con vista sulla gara.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Alpweg",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1860,
+        "s_approx": 0.44
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": ">100"
+      },
+      "description_it": "Stradina larga circa 3 m (rete di sicurezza a sinistra secondo Wikipedia) percorsa a oltre 100 km/h: uno dei passaggi più stretti del Circo Bianco.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Kernen-S (ex Brüggli-S)",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1825,
+        "s_approx": 0.48
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "70–80 in uscita"
+      },
+      "description_it": "Chicane sopra il Brüggli (ponticello) che frena gli atleti a 70–80 km/h, poi 20 secondi da gestire a questa velocità. Prende il nome da Bruno Kernen, finito all'indietro nelle reti nel 1997 (rinominata nel 2007).",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Wasserstation",
+      "kind": "tunnel/underpass",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1770,
+        "s_approx": 0.53
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "90–100"
+      },
+      "description_it": "Strettoia sotto il ponte della ferrovia (Wengernalpbahn): larga 9 m, percorsa a 90–100 km/h, così bassa che gli atleti esitano a passarci in piedi.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Langentrejen",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto piatto con lunghi cambi di direzione: qui si vede chi ha sci e materiale veloci e chi sa mantenere la velocità.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 11,
+      "name": "Hanneggschuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1590,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": ">140 (record 161.9)"
+      },
+      "description_it": "Schuss ripido, lungo e in ombra nel bosco: gli specialisti si raccolgono in uovo e superano i 140 km/h; qui Johan Clarey ha stabilito nel 2013 il record di velocità di Coppa del Mondo (161,9 km/h).",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Seilersboden",
+      "kind": "gliding",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.78
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Breve tratto pianeggiante di respiro seguito da una curva piatta a sinistra, prima del finale.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 13,
+      "name": "Silberhornsprung",
+      "kind": "jump",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1450,
+        "s_approx": 0.84
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto ridisegnato nel 2003, con leggera curva a destra e lo Silberhorn sullo sfondo: immagine TV iconica.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 14,
+      "name": "Österreicherloch",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1390,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Nel 1954 tre onde in rapida successione eliminarono i favoriti austriaci Toni Sailer, Anderl Molterer e Walter Schuster. Le onde oggi non esistono più: resta il nome.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 15,
+      "name": "Ziel-S",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1385,
+        "s_approx": 0.92
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tre curve strette e ghiacciate dopo oltre due minuti di gara (combinazione destra-sinistra secondo Wikipedia): si possono ancora vincere o perdere secondi.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "official"
+    },
+    {
+      "order": 16,
+      "name": "Zielschuss",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1325,
+        "s_approx": 0.97
+      },
+      "details": {
+        "gradient": "seconda sezione più ripida (spianata prima del 2009)",
+        "jump_length_m": null,
+        "speed_kmh": "~100"
+      },
+      "description_it": "Schuss finale verso Innerwengen; secondo Wikipedia è il secondo punto più ripido, addolcito prima del 2009. Non elencato come sezione autonoma su lauberhorn.ch.",
+      "source": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 17,
+      "name": "Ziel (Innerwengen)",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 4480,
+        "alt_m": 1287,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": "~100"
+      },
+      "description_it": "Arrivo a Innerwengen (1287 m): dopo circa 2 minuti e mezzo gli atleti si alzano dall'uovo a circa 100 km/h e devono frenare entro 100 m.",
+      "source": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Lauberhorn / Lauberhornschulter (2315 m)",
+    "description_it": "Casetta di partenza permanente in legno sulla spalla del Lauberhorn, sopra Kleine Scheidegg, con vista su Eiger, Mönch e Jungfrau; primo tratto poco pendente da scorrimento.",
+    "source": "https://www.lauberhorn.ch/rennen/abfahrt/ ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)"
+  },
+  "finish_area": {
+    "name": "Ziel Innerwengen",
+    "type": "meadow",
+    "description_it": "Arrivo a Innerwengen, circa 1 km a sud del centro di Wengen (circa 20 minuti a piedi dalla stazione), con tribuna temporanea (Zieltribüne, posti in piedi), maxischermo e centro media permanente. Stesso arrivo di discesa, super-G e slalom.",
+    "grandstands": "Zieltribüne (temporanea, posti in piedi, biglietti limitati)",
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Collina Girmschbiel presso la stazione Wengernalp: 'fan stadium' con oltre 10.000 spettatori e vista su Hundschopf, Minschkante e Canadian Corner (Wikipedia)",
+      "Weltcup-Dörfli nel paese: capienza circa 4'500 persone (plattformj 2026)",
+      "Accesso con la ferrovia WAB Lauterbrunnen–Wengen"
+    ],
+    "source": "https://www.lauberhorn.ch/fileadmin/user_upload/download/Factsheets_NEU/Factsheet_Tribuenenticket.pdf ; https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course) ; https://www.plattformj.ch/artikel/239538/"
+  },
+  "environment": {
+    "forest": "Parte bassa nel bosco: Hanneggschuss descritto come 'dunkel' (ombra, bosco); Wikipedia: 'steep slope in the forest' a ~1590 m. Parte alta (start → Canadian Corner) su pascoli aperti.",
+    "above_treeline": "Start (2315 m) e tratto Russisprung–Hundschopf sopra il limite del bosco (inferenza da altitudini e immagini; non esplicito nelle fonti).",
+    "rocks": "Roccia del Hundschopf a sinistra della linea di salto (max 5 m tra roccia e rete).",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "rail",
+        "where": "Wasserstation (~1770 m)",
+        "description_it": "La pista passa in un sottopasso largo 9 m sotto il ponte della Wengernalpbahn (WAB)."
+      },
+      {
+        "kind": "bridge",
+        "where": "Kernen-S (~1825 m)",
+        "description_it": "La chicane passa sopra il Brüggli, un piccolo ponte (da cui il vecchio nome Brüggli-S)."
+      }
+    ],
+    "landmarks": [
+      "Eiger",
+      "Mönch",
+      "Jungfrau",
+      "Silberhorn (sfondo del Silberhornsprung)",
+      "Lauberhorn / Kleine Scheidegg",
+      "Stazione Wengernalp e collina Girmschbiel"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Lauberhornschulter, 2315 m (ufficiale)."
+    },
+    {
+      "archive_name": "Russisprung",
+      "status": "confirmed",
+      "note": "Descrizione da correggere: non 'lavoro' generico di Russi ma salto nato da un cumulo di neve costruito da Russi per una ripresa TV."
+    },
+    {
+      "archive_name": "Traversenschuss",
+      "status": "confirmed",
+      "note": "Aggiungere 100→130 km/h in 5 s e curva a sinistra verso la traversa."
+    },
+    {
+      "archive_name": "Hundschopf",
+      "status": "confirmed",
+      "note": "41° ufficiale; precisare: max 5 m tra roccia (sx) e rete (dx), salto ~40 m."
+    },
+    {
+      "archive_name": "Minschkante",
+      "status": "confirmed",
+      "note": "È una curva a destra con dosso; nome da Joos Minsch (caduta 1965)."
+    },
+    {
+      "archive_name": "Canadian Corner",
+      "status": "confirmed",
+      "note": "Nome dalle cadute di Dave Irwin e Ken Read (1976), non una generica dedica."
+    },
+    {
+      "archive_name": "Alpweg / Kernen-S",
+      "status": "confirmed",
+      "note": "Ufficialmente un'unica voce 'Alpweg / Kernen-S'; per la mappa si consiglia di separarli (Alpweg stretta 3 m, poi chicane sul Brüggli)."
+    },
+    {
+      "archive_name": "Wasserstation",
+      "status": "confirmed",
+      "note": "Sottopasso sotto il ponte ferroviario della Wengernalpbahn, largo 9 m, 90–100 km/h."
+    },
+    {
+      "archive_name": "Langentrejen",
+      "status": "confirmed",
+      "note": ""
+    },
+    {
+      "archive_name": "Hanneggschuss",
+      "status": "confirmed",
+      "note": ">140 km/h; zona del record 161.9 km/h. 'Forte compressione finale' non documentata nelle fonti."
+    },
+    {
+      "archive_name": "Seilersboden",
+      "status": "confirmed",
+      "note": "Breve piano seguito da curva piatta a sinistra."
+    },
+    {
+      "archive_name": "Silberhornsprung",
+      "status": "confirmed",
+      "note": "Ridisegnato nel 2003, leggera curva a destra."
+    },
+    {
+      "archive_name": "Österreicherloch",
+      "status": "confirmed",
+      "note": "Nome dal 1954 (Sailer, Molterer, Schuster); le onde non esistono più."
+    },
+    {
+      "archive_name": "Ziel-S",
+      "status": "confirmed",
+      "note": "Tre curve strette e ghiacciate."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "Innerwengen 1287 m. Manca nell'archivio lo 'Zielschuss' (solo Wikipedia, opzionale)."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.lauberhorn.ch/rennen/abfahrt/",
+      "title": "Lauberhorn – Abfahrt (Streckenbeschrieb)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.lauberhorn.ch/en/home-of-legends/article/hund-schopf-oder-hunds-chopf/",
+      "title": "Lauberhorn – 'Hund-schopf' oder 'Hunds-chopf'?",
+      "type": "official"
+    },
+    {
+      "url": "https://www.jungfrau.ch/de-ch/jungfrau-ski-region/grindelwald-wengen/lauberhorn-rennstrecke/",
+      "title": "Jungfrau Region – Lauberhorn-Rennstrecke",
+      "type": "official"
+    },
+    {
+      "url": "https://www.lauberhorn.ch/fileadmin/user_upload/download/Factsheets_NEU/Factsheet_Tribuenenticket.pdf",
+      "title": "Lauberhorn – Factsheet Tribünenticket",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lauberhorn_(downhill_ski_course)",
+      "title": "Wikipedia – Lauberhorn (downhill ski course)",
+      "type": "other"
+    },
+    {
+      "url": "https://www.plattformj.ch/artikel/239538/",
+      "title": "plattformj – Lauberhorn-Geschäftsführer Andreas Mühlheim (16.1.2026)",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Distanze dal via delle sezioni non pubblicate: s_approx stimato da altitudini Wikipedia (non lineari con la distanza, specie nei tratti piatti Langentrejen/Seilersboden).",
+    "Wikipedia cita una 'Panoramakurve' (~2000 m) prima del Hundschopf per ridurre la velocità e jungfrau.ch parla di Hundschopf 'entschärft': non presente nell'elenco ufficiale lauberhorn.ch – verificare se considerarla sezione.",
+    "Direzione di Canadian Corner non documentata nelle fonti consultate.",
+    "Lunghezza del Russisprung (40–50 m) solo da Wikipedia.",
+    "Capienza della tribuna d'arrivo non pubblicata.",
+    "Eventuali modifiche al tracciato per l'edizione 2027 (gennaio 2027) non trovate."
+  ]
+}

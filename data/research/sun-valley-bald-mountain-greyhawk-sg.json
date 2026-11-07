@@ -1,0 +1,386 @@
+{
+  "id": "sun-valley-bald-mountain-greyhawk-sg",
+  "course": "Challenger (Bald Mountain) – arrivo Greyhawk",
+  "location": "Sun Valley, Idaho (USA)",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 2475,
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "finish_alt_m": {
+      "value": 1852,
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "length_m": {
+      "value": 1876,
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 623,
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "max_gradient": {
+      "value": "55% (28,8°)",
+      "where": "non localizzato",
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "33%",
+      "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Finali 2025",
+        "value": "SG 23/3/2025: Lukas Feurstein (M), Lara Gut-Behrami (F) davanti a Lindsey Vonn",
+        "source": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Visibilità",
+        "value": "Rimossa terra sul lato sinistro di Lower Greyhawk per migliorare la vista dal fondo; stazione intermedia Challenger chiusa durante il SG",
+        "source": "https://eyeonsunvalley.com/Story_Reader/12443/Sun-Valley-Prepares-for-World-Cup-in-Fraction-of-Time-Others-Have",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2475,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza appena sotto la Durrance Dive.",
+      "source": "https://eyeonsunvalley.com/Story_Reader/12443/Sun-Valley-Prepares-for-World-Cup-in-Fraction-of-Time-Others-Have",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "The Legends",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.09
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Gola dalle pareti alte sotto la partenza del super-G: gli atleti fanno 'yo-yo' sulle pareti del canalone; dedicata a Gretchen Fraser, Muffy Davis, Christin Cooper, Susie Corrock e Picabo Street. La pista qui diventa più ripida.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Carol's Wagon Wheel",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.21
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Secondo serie di 'yo-yo' nel canalone di Warm Springs; dedicata a Carol Holding, proprietaria del resort dal 1977.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 4,
+      "name": "Steilhang Traverse",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.34
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traverso in cima a Upper Greyhawk, ridisegnato nell'estate 2024 per renderlo più impegnativo; nome omaggio allo Steilhang della Streif.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "The Frontier (Frontier Jump)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.44
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "'Tratto selvaggio' con salto dove gli atleti decollano con vista sulle Boulder Mountains.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 6,
+      "name": "The Sluice",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.56
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Strettoia sotto la partenza del gigante, nome dalle canalette dei minatori (storia mineraria di Ketchum).",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 7,
+      "name": "Rudi's Roll",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.68
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto/dosso in traverso (sidehill) dedicato a Michel Rudigoz, ristoratore ed ex allenatore della squadra USA.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 8,
+      "name": "Cowboy's Corner",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.77
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva stretta a 180° nella piega di Lower Hemingway, prima vera prova di curva sul piede sinistro; dedicata al progettista Tom 'Cowboy' Johnston. (direzione destra dedotta dal 'left-foot turn': inferenza).",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 9,
+      "name": "The Redd",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.86
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto relativamente piatto ('l'unico tranquillo') che mette alla prova l'equilibrio sul piede sinistro; nome dalle zone di deposizione di salmoni e trote.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 10,
+      "name": "Proctor Park",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.95
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Terreno ampio e aperto con un piccolo salto prima del traguardo; dedicato alla seggiovia Proctor e a Charles Proctor.",
+      "source": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "confidence": "media"
+    },
+    {
+      "order": 11,
+      "name": "Arrivo – Greyhawk finish area",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1847,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a circa 1.847 m nell'area d'arrivo Greyhawk.",
+      "source": "https://skiracing.com/2025-stifel-sun-valley-world-cup-finals-mens-womens-downhill-preview/",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza SG sotto la Durrance Dive",
+    "description_it": "Partenza del super-G subito sotto la Durrance Dive, in testa al canalone delle Legends.",
+    "source": "https://eyeonsunvalley.com/Story_Reader/12443/Sun-Valley-Prepares-for-World-Cup-in-Fraction-of-Time-Others-Have"
+  },
+  "finish_area": {
+    "name": "Greyhawk finish area (Lower Greyhawk)",
+    "type": "slope_base",
+    "description_it": "Arrivo ai piedi di Lower Greyhawk, presso il parcheggio Greyhawk (chiuso al pubblico durante le Finali), ampliato per le Finali 2025; doppio maxischermo per seguire DH e SG da cima a fondo; dal fondo si vedono interamente gigante e slalom. Raggiungibile con navette o sciando dalla base di River Run. Non è l'arrivo di River Run.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Doppio maxischermo",
+      "GS e SL visibili per intero dal parterre",
+      "Lower Greyhawk parking lot chiuso 18–28/3/2025"
+    ],
+    "source": "https://eyeonsunvalley.com/Story_Reader/12443/Sun-Valley-Prepares-for-World-Cup-in-Fraction-of-Time-Others-Have"
+  },
+  "environment": {
+    "forest": "Pista nel bosco di conifere del versante nord di Bald Mountain (canaloni boscati di Warm Springs; tipo di alberi non verificato). Il tracciato ha richiesto reti A (12) su 32 tralicci.",
+    "above_treeline": "No (start a ~2.680 m sotto la cima di Bald Mountain; non verificato).",
+    "rocks": "Nessuna fonte.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "partenza",
+        "description_it": "La partenza è in cima a International dove piega la pista di servizio (cat track) 'I-80'."
+      },
+      {
+        "kind": "lift",
+        "where": "metà-bassa",
+        "description_it": "Stazione intermedia della seggiovia Challenger chiusa durante il super-G."
+      }
+    ],
+    "landmarks": [
+      "Vista sulle Boulder Mountains dal salto Frontier",
+      "Parcheggio Lower Greyhawk (zona arrivo)",
+      "Base River Run (accesso sciando all'arrivo)",
+      "Seggiovia Challenger",
+      "Proctor (prima seggiovia, 1936)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Sotto Durrance Dive."
+    },
+    {
+      "archive_name": "Ingresso veloce",
+      "status": "generic",
+      "note": "The Legends."
+    },
+    {
+      "archive_name": "Curva lunga",
+      "status": "generic",
+      "note": "Carol's Wagon Wheel / Steilhang Traverse."
+    },
+    {
+      "archive_name": "Cambio di pendenza",
+      "status": "generic",
+      "note": "Frontier Jump."
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "generic",
+      "note": "The Redd."
+    },
+    {
+      "archive_name": "Porta chiave",
+      "status": "generic",
+      "note": "Cowboy's Corner."
+    },
+    {
+      "archive_name": "Salto",
+      "status": "generic",
+      "note": "Frontier / Rudi's Roll."
+    },
+    {
+      "archive_name": "Finale",
+      "status": "generic",
+      "note": "Proctor Park."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Greyhawk finish area."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.mtexpress.com/wood_river_journal/special_sections/brand-new-world-cup-finals-race-course-highlights-area-history/article_8f020ce2-fb97-11ef-936f-f36b7f51cef3.html",
+      "title": "Brand-new World Cup Finals race course highlights area history (Idaho Mountain Express / Wood River Journal, mar. 2025)",
+      "type": "media"
+    },
+    {
+      "url": "https://eyeonsunvalley.com/Story_Reader/12443/Sun-Valley-Prepares-for-World-Cup-in-Fraction-of-Time-Others-Have",
+      "title": "Sun Valley Prepares for World Cup in Fraction of Time Others Have (Eye on Sun Valley)",
+      "type": "media"
+    },
+    {
+      "url": "https://skiracing.com/2025-stifel-sun-valley-world-cup-finals-mens-womens-downhill-preview/",
+      "title": "2025 Stifel Sun Valley World Cup Finals: Men's & Women's Downhill Preview (Ski Racing Media)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Challenger_(ski_course)",
+      "title": "Challenger (ski course) – Wikipedia (solo puntatore)",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia (Finali 20–25/3/2027 a Sun Valley)",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Quote SG solo da Wikipedia.",
+    "Tracciato SG può differire dalla DH nel tratto basso (non documentato)."
+  ]
+}

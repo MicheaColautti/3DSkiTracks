@@ -1,0 +1,247 @@
+{
+  "id": "madonna-di-campiglio-canalone-miramonti-sl",
+  "course": "Canalone Miramonti",
+  "location": "Madonna di Campiglio",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 1725,
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "confidence": "media"
+    },
+    "finish_alt_m": {
+      "value": 1545,
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "confidence": "media"
+    },
+    "length_m": {
+      "value": 470,
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581 ; https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom",
+      "confidence": "media"
+    },
+    "vertical_m": {
+      "value": 180,
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581 ; https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom",
+      "confidence": "media"
+    },
+    "max_gradient": {
+      "value": "60%",
+      "where": "non indicato",
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581 ; https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom",
+      "confidence": "media"
+    },
+    "avg_gradient": {
+      "value": "27%",
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Progettista",
+        "value": "Bruno Detassis, 1940",
+        "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+        "confidence": "media"
+      },
+      {
+        "label": "Prima gara di CdM in Italia",
+        "value": "1967",
+        "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+        "confidence": "media"
+      },
+      {
+        "label": "Illuminazione",
+        "value": "primo impianto 1998 (sportface) / 1999 (de.wikipedia); nel 2026 290 proiettori LED + 30 LED dinamici nello Ski Stadium, investimento 1,2 mln €, potenza raddoppiata",
+        "source": "https://www.ildolomiti.it/sport/2026/la-3tre-regala-una-nuova-luce-al-canalone-miramonti-investimento-da-piu-di-1-milione-e-nuova-data-per-lo-slalom-in-notturna-un-evento-ancora-piu-di-qualita",
+        "confidence": "media"
+      },
+      {
+        "label": "3Tre 2026",
+        "value": "mercoledì 23 dicembre 2026, manche 17:45 e 20:45",
+        "source": "https://www.ildolomiti.it/sport/2026/la-3tre-regala-una-nuova-luce-al-canalone-miramonti-investimento-da-piu-di-1-milione-e-nuova-data-per-lo-slalom-in-notturna-un-evento-ancora-piu-di-qualita",
+        "confidence": "media"
+      },
+      {
+        "label": "Record vittorie",
+        "value": "Ingemar Stenmark, 5 slalom",
+        "source": "https://de.wikipedia.org/wiki/Canalone_Miramonti",
+        "confidence": "uncertain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1725,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "ETICHETTA GENERICA: partenza a 1725 m in testa al Canalone.",
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "Canalone (parte alta, generico)",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.35
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "ETICHETTA GENERICA: il 'canalone' che dà il nome alla pista, stretto tra il bosco; nessun nome di sottotratto trovato.",
+      "source": "https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Muro (generico)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.65
+      },
+      "details": {
+        "gradient": "fino a 60%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "ETICHETTA GENERICA: tratto ripido fino al 60% (posizione non documentata).",
+      "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Arrivo – Ski Stadium",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1545,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Arena d'arrivo illuminata (Ski Stadium) con 30 proiettori LED dinamici per scenografie e cerimonie.",
+      "source": "https://www.ildolomiti.it/sport/2026/la-3tre-regala-una-nuova-luce-al-canalone-miramonti-investimento-da-piu-di-1-milione-e-nuova-data-per-lo-slalom-in-notturna-un-evento-ancora-piu-di-qualita",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Canalone Miramonti",
+    "description_it": "Quota 1725 m; nessun dettaglio sull'area trovato.",
+    "source": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581"
+  },
+  "finish_area": {
+    "name": "Ski Stadium 3Tre",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo a 1545 m a ridosso del paese, illuminato per lo slalom notturno; dal 2026 nuovo impianto LED con 30 proiettori dinamici. Migliaia di spettatori.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": true,
+    "notable": [
+      "Illuminazione LED 2026",
+      "Gara serale 17:45 / 20:45"
+    ],
+    "source": "https://www.ildolomiti.it/sport/2026/la-3tre-regala-una-nuova-luce-al-canalone-miramonti-investimento-da-piu-di-1-milione-e-nuova-data-per-lo-slalom-in-notturna-un-evento-ancora-piu-di-qualita ; https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom"
+  },
+  "environment": {
+    "forest": "Non documentato nelle fonti consultate",
+    "above_treeline": "No (1545-1725 m)",
+    "rocks": "Non documentato (Dolomiti di Brenta sullo sfondo: da verificare)",
+    "glacier": false,
+    "crossings": [],
+    "landmarks": [
+      "Madonna di Campiglio"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "1725 m."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Nessun nome trovato."
+    },
+    {
+      "archive_name": "Hairpin alta",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Canalone",
+      "status": "generic",
+      "note": "È il nome dell'intera pista, non un sottotratto documentato."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "'Ski Stadium' (nome usato dalla stampa sull'impianto luci 2026)."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.sportface.it/sport-invernali/sci-alpino/slalom-notturna-madonna-campiglio-2025-71esima-edizione-celebre-3tre/2767581",
+      "title": "Sportface – 3Tre 2025",
+      "type": "media"
+    },
+    {
+      "url": "https://www.ildolomiti.it/sport/2026/la-3tre-regala-una-nuova-luce-al-canalone-miramonti-investimento-da-piu-di-1-milione-e-nuova-data-per-lo-slalom-in-notturna-un-evento-ancora-piu-di-qualita",
+      "title": "il Dolomiti – nuova luce al Canalone Miramonti (2026)",
+      "type": "media"
+    },
+    {
+      "url": "https://www.racer-ready.co.uk/post/2024/12/19/canalone-miramonti-primed-for-3tre-night-slalom",
+      "title": "Racer Ready – Canalone Miramonti primed (2024)",
+      "type": "media"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Canalone_Miramonti",
+      "title": "Canalone Miramonti – Wikipedia DE",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Nessun nome di tratto trovato: tutti i tratti intermedi sono generici.",
+    "Media 27% incoerente con 180 m/470 m (~38%).",
+    "Anno primo impianto luci: 1998 vs 1999.",
+    "Tribune e capienza Ski Stadium non trovate; sito 3trecampiglio.it non consultato con esito."
+  ]
+}

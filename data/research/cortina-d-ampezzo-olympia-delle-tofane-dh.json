@@ -1,0 +1,465 @@
+{
+  "id": "cortina-d-ampezzo-olympia-delle-tofane-dh",
+  "course": "Olympia delle Tofane",
+  "location": "Cortina d'Ampezzo",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 2320,
+      "source": "https://en.wikipedia.org/wiki/Olimpia_delle_Tofane ; https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_downhill (montagna.tv: 2348 m, Rifugio Pomedes)",
+      "confidence": "media"
+    },
+    "finish_alt_m": {
+      "value": 1560,
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/5052/2019AL5052SLR0.pdf ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": 2560,
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane (Olimpiadi 2026: 2572 m — https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_downhill)",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 750,
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight (760 m — https://en.wikipedia.org/wiki/Olimpia_delle_Tofane ; https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_downhill)",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "64-65%",
+      "where": "Tofana Schuss",
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.cortinaskiworldcup.com/la-pista/ ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane (Il Foglio: ~62%)",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "30%",
+      "source": "https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Velocità massima",
+        "value": "135-140 km/h nello Schuss",
+        "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://skiracing.com/your-helmet-whistles-through-cortinas-tofana-schuss/",
+        "confidence": "official"
+      },
+      {
+        "label": "Discesa olimpica 8 feb 2026 (Breezy Johnson)",
+        "value": "1:36.10, media 96,3 km/h",
+        "source": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_downhill",
+        "confidence": "media"
+      },
+      {
+        "label": "Omologazione FIS (SG 2019)",
+        "value": "12852/10/18",
+        "source": "https://www.fis-ski.com/DB/pdf/2019/AL/5052/2019AL5052SLR0.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Storia",
+        "value": "Inaugurata per i Giochi 1956; CdM femminile ogni gennaio dal 1993; Lindsey Vonn 12 vittorie",
+        "source": "https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/ ; https://it.wikipedia.org/wiki/Olympia_delle_Tofane",
+        "confidence": "media"
+      },
+      {
+        "label": "Modifiche 2026",
+        "value": "Tracciatori hanno aggiunto 'qualche trucco'; ondulazioni prima dell'arrivo molto più grandi rispetto al 2025",
+        "source": "https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight",
+        "confidence": "media"
+      },
+      {
+        "label": "Prossimo evento",
+        "value": "15-17 gennaio 2027: due discese e un super-G",
+        "source": "https://www.cortinaskiworldcup.com/la-pista/",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza – Rifugio Pomedes",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2320,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza della discesa presso il Rifugio Pomedes, ai piedi della Tofana di Mezzo, nell'anfiteatro roccioso.",
+      "source": "https://it.wikipedia.org/wiki/Olympia_delle_Tofane ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane ; https://www.montagna.tv/46860/lolimpia-delle-tofane-e-la-pista-piu-amata-ditalia/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "Curva a sinistra d'ingresso",
+      "kind": "turn",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.06
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva secca a sinistra che immette nello Schuss (nessun nome proprio trovato: etichetta generica).",
+      "source": "https://skiracing.com/your-helmet-whistles-through-cortinas-tofana-schuss/",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Tofana Schuss (Schuss delle Tofane)",
+      "kind": "gorge/rocky passage",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.14
+      },
+      "details": {
+        "gradient": "64-65%",
+        "jump_length_m": null,
+        "speed_kmh": 140
+      },
+      "description_it": "Il tratto più famoso: muro al 64-65% in un canalino in ombra tra due pareti di roccia, raggiunto dopo circa 20 s; si toccano 135-140 km/h. Salto tra gli speroni rocciosi e uscita verso destra nel sole.",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://skiracing.com/your-helmet-whistles-through-cortinas-tofana-schuss/ ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Salto Duca d'Aosta",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.24
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto accanto al Rifugio Duca d'Aosta, dopo una breve accelerazione all'uscita dello Schuss; porta nel cuore della pista.",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Delta",
+      "kind": "turn",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.31
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Passaggio cieco (curva cieca a sinistra secondo en.wikipedia); in estate vi decollano i deltaplani. Ordine rispetto al Duca d'Aosta contraddittorio tra le fonti.",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Zona del Gigante",
+      "kind": "S-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.42
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Settore centrale di curve ampie 'da gigante' dopo il salto.",
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Gran Curvone",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.53
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "A metà pista, la curva tecnicamente più impegnativa: spinge gli atleti verso l'esterno; traiettoria e controllo decisivi.",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Scarpadon",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.63
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Cambio di pendenza con uscita cieca subito dopo il Gran Curvone, uno dei punti più difficili; introduce il tratto finale.",
+      "source": "https://www.cortinaskiworldcup.com/la-pista/ ; https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Pale di Rumerlo",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Parte bassa meno ripida: bisogna conservare la massima velocità. Nel 2026 le ondulazioni prima dell'arrivo erano molto più grandi (Breezy Johnson).",
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Traverso finale",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.92
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ultimo traverso verso il traguardo (nome proprio non trovato).",
+      "source": "https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 11,
+      "name": "Salto finale 'dentino' (tooth)",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.97
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto artificiale conclusivo, detto 'dentino'/'tooth', prima del traguardo.",
+      "source": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane ; https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight ; https://www.cortinaskiworldcup.com/la-pista/",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Arrivo Rumerlo",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 2560,
+        "alt_m": 1560,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a Rumerlo, 1560 m, sotto il ristorante El Camineto.",
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/5052/2019AL5052SLR0.pdf ; https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Rifugio Pomedes",
+    "description_it": "Partenza della discesa presso il Rifugio Pomedes (2303 m circa il rifugio; cancelletto 2320 m), nell'anfiteatro di calcare dolomitico sotto la Tofana di Mezzo, raggiungibile con la vecchia seggiovia triposto.",
+    "source": "https://it.wikipedia.org/wiki/Olympia_delle_Tofane ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane ; https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/"
+  },
+  "finish_area": {
+    "name": "Arrivo Rumerlo – Tofane Alpine Skiing Centre",
+    "type": "slope_base",
+    "description_it": "Arrivo a 1560 m a Rumerlo, alla base dell'Olympia, punto tradizionale di festa (musica, bandiere, bombardini). Il ristorante storico El Camineto (1968) domina il traguardo dalla terrazza: da lì il Presidente Mattarella ha seguito le gare olimpiche 2026. Nel 1956 tribune temporanee all'arrivo per 9830 spettatori. Per i Giochi 2026 la sede si chiamava 'Tofane Alpine Skiing Centre'.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Ristorante El Camineto (terrazza sull'arrivo)",
+      "Salto artificiale finale 'dentino' / 'tooth' prima del traguardo",
+      "Tribune 1956: 9830 posti (temporanee)"
+    ],
+    "source": "https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/ ; https://en.wikipedia.org/wiki/Olimpia_delle_Tofane ; https://it.wikipedia.org/wiki/Olympia_delle_Tofane ; https://www.fis-ski.com/DB/pdf/2019/AL/5052/2019AL5052SLR0.pdf"
+  },
+  "environment": {
+    "forest": "Parte alta sopra il limite del bosco; il bosco di larici e abeti compare dalla zona centrale (Gran Curvone/Scarpadon) verso le Pale di Rumerlo (dedotto, non documentato esplicitamente).",
+    "above_treeline": "Partenza Pomedes e Tofana Schuss nell'anfiteatro di calcare/dolomia sotto la Tofana di Mezzo.",
+    "rocks": "Lo Schuss è una gola tra due pareti rocciose (con reti di protezione), sempre in ombra e ghiacciata; attorno le Tofane (Tofana di Rozes, di Mezzo, di Dentro) oltre i 3000 m.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Zona Schuss",
+        "description_it": "La vecchia seggiovia triposto che porta allo Schuss (sedili imbottiti): impianto adiacente alla pista, punto di attraversamento esatto non documentato."
+      }
+    ],
+    "landmarks": [
+      "Tofana di Mezzo",
+      "Tofana di Rozes",
+      "Tofana di Dentro",
+      "Rifugio Pomedes",
+      "Rifugio Duca d'Aosta",
+      "Ristorante El Camineto (1968) sopra l'arrivo",
+      "Vista su Cinque Torri, Averau, Nuvolau, Col Gallina"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Pomedes (DH, ~2320 m) / zona Duca d'Aosta 2160 m (SG)."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "renamed",
+      "note": "= Tofana Schuss (64-65%) per la discesa."
+    },
+    {
+      "archive_name": "Primo salto",
+      "status": "renamed",
+      "note": "= Salto Duca d'Aosta (o salto nello Schuss tra le rocce)."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "renamed",
+      "note": "= Gran Curvone; nell'archivio è troppo in alto rispetto a Delta/Zona del Gigante."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "renamed",
+      "note": "= Scarpadon (cambio di pendenza con uscita cieca)."
+    },
+    {
+      "archive_name": "Schuss centrale",
+      "status": "wrong_order",
+      "note": "Lo Schuss è in ALTO (Tofana Schuss), non al centro."
+    },
+    {
+      "archive_name": "Passaggio tecnico",
+      "status": "renamed",
+      "note": "= Zona del Gigante / Delta."
+    },
+    {
+      "archive_name": "Zona di scorrimento",
+      "status": "renamed",
+      "note": "= Pale di Rumerlo."
+    },
+    {
+      "archive_name": "Salto finale",
+      "status": "renamed",
+      "note": "= salto artificiale 'dentino'."
+    },
+    {
+      "archive_name": "Curve finali",
+      "status": "generic",
+      "note": "Nessuna 'curve finali' nominata: traverso finale + dentino."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "Rumerlo 1560 m."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.cortinaskiworldcup.com/la-pista/",
+      "title": "La pista – Cortina Ski World Cup",
+      "type": "official"
+    },
+    {
+      "url": "https://milanocortina2026.olympics.com/en/news/the-queen-of-runs-olympia-delle-tofane",
+      "title": "The Queen of Runs: Olympia delle Tofane – Milano Cortina 2026",
+      "type": "official"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/pdf/2019/AL/5052/2019AL5052SLR0.pdf",
+      "title": "FIS official results, Ladies' Super-G Cortina 20/1/2019",
+      "type": "fis"
+    },
+    {
+      "url": "https://skiracing.com/your-helmet-whistles-through-cortinas-tofana-schuss/",
+      "title": "Ski Racing – Your helmet whistles through Cortina's Tofana Schuss",
+      "type": "media"
+    },
+    {
+      "url": "https://www.ilfoglio.it/sport/2026/02/23/news/la-magia-dell-olympia-delle-tofane-8686805/",
+      "title": "Il Foglio – La magia dell'Olympia delle Tofane (23/2/2026)",
+      "type": "media"
+    },
+    {
+      "url": "https://www.thestar.com.my/sport/others/2026/02/07/olympics-alpine-skiing-cortinas-revered-olimpia-piste-prepares-for-spotlight",
+      "title": "Reuters/The Star – Cortina's revered Olimpia piste prepares for spotlight (7/2/2026)",
+      "type": "media"
+    },
+    {
+      "url": "https://www.montagna.tv/46860/lolimpia-delle-tofane-e-la-pista-piu-amata-ditalia/amp/",
+      "title": "Montagna.tv – L'Olimpia delle Tofane",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olimpia_delle_Tofane",
+      "title": "Olimpia delle Tofane – Wikipedia EN",
+      "type": "other"
+    },
+    {
+      "url": "https://it.wikipedia.org/wiki/Olympia_delle_Tofane",
+      "title": "Olympia delle Tofane – Wikipedia IT",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_downhill",
+      "title": "2026 Olympics Women's downhill – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Ordine Delta vs Salto Duca d'Aosta (sito ufficiale: Duca d'Aosta poi Delta; en.wikipedia: Delta poi Duca d'Aosta).",
+    "Posizione di Primo Muro, Secondo Muro, Diagonale (citati da en.wikipedia senza ordine).",
+    "'Vertigine' non trovato in nessuna fonte; 'Pomedes' è la partenza, 'Rumerlo' è zona d'arrivo/Pale.",
+    "Distanze/quote progressive per sezione non trovate: s_approx stimati.",
+    "Capienza tribune 2026 non trovata.",
+    "Quota partenza 2320 vs 2348 m."
+  ]
+}

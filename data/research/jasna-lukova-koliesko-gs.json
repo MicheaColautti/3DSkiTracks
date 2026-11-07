@@ -1,0 +1,428 @@
+{
+  "id": "jasna-lukova-koliesko-gs",
+  "course": "Lukova 2 (FIS) – pista n. 1 'Petra Vlhová', da Luková a Koliesko",
+  "location": "Jasná, Nízke Tatry (Slovacchia)",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 1650,
+      "source": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 1250,
+      "source": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": 1220,
+      "source": "https://blog.gopass.travel/?p=18586",
+      "confidence": "media"
+    },
+    "vertical_m": {
+      "value": 400,
+      "source": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": "non documentato per la pista di gara (il pendio Majstrovská della tribuna ha quasi 49%)",
+      "source": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Omologazione FIS",
+        "value": "11663/02/15 ('Lukova 2')",
+        "source": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Pista del comprensorio",
+        "value": "n. 1 'Petra Vlhová', 2.070 m, 1.650 → 1.250 m",
+        "source": "https://jasna.sk/fileadmin/resort_upload/jasna/trate_a_zariadenia_a4_2025_en.pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Porte (W GS 20.01.2024, 1a manche)",
+        "value": "51 porte / 49 cambi di direzione",
+        "source": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Lunghezza slalom (stessa area)",
+        "value": "600 (unità non indicata) e dislivello ~metà del GS",
+        "source": "https://blog.gopass.travel/?p=18586",
+        "confidence": "media"
+      },
+      {
+        "label": "Calendario 2026/27",
+        "value": "GS femminile 23 gen 2027 (4ª Coppa in Slovacchia dopo 2016, 2021, 2024)",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup ; https://www.visitliptov.sk/en/event/world-cup-jasna-2027/",
+        "confidence": "media"
+      },
+      {
+        "label": "Nome corso",
+        "value": "'Paseky' NON trovato in alcuna fonte; 'Koliesko' è la zona d'arrivo; 'Luková' la zona di partenza",
+        "source": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna ; https://jasna.sk/fileadmin/resort_upload/jasna/trate_a_zariadenia_a4_2025_en.pdf",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Štart Luková",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1650,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza del gigante sulla Luková, invariata rispetto alle edizioni precedenti.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova ; https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Prvá terénna vlna (prima onda di terreno)",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": 200,
+        "alt_m": null,
+        "s_approx": 0.16
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Onda artificiale circa 200 m dopo la partenza, sagomata di sbieco rispetto alle curve di livello per rendere la pista più spettacolare.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Parte alta (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Tratto tra prima onda e partenza alternativa; nessun nome trovato.",
+      "source": "",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Náhradný štart OS (partenza alternativa del gigante)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza di riserva del gigante, punto di riferimento citato dagli organizzatori; posizione approssimata.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Druhá terénna vlna (seconda onda)",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Seconda onda di terreno tra la partenza alternativa del GS e la partenza dello slalom, anch'essa obliqua.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Štart slalomu",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Punto di partenza dello slalom (dislivello SL circa la metà del GS); quota non pubblicata, posizione stimata.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova ; https://blog.gopass.travel/?p=18586",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Parte centrale (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Nessun nome documentato per il tratto centrale.",
+      "source": "",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 8,
+      "name": "Záverečná časť od Priehyby (tratto finale da Priehyba)",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.88
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ultima parte del tracciato, visibile dalla tribuna naturale sul pendio Majstrovská; scende dalla zona Priehyba.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Cieľ Koliesko",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1250,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo nella zona Koliesko (1.250 m), arena con capienza di 12.000 spettatori.",
+      "source": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna ; https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Luková",
+    "description_it": "Partenza GS a 1.650 m sulla Luková, sotto il Chopok; dalla Luková arriva anche la pista 1a 'Vrcholová Chopok – Luková' (2.004 → 1.650 m).",
+    "source": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova ; https://jasna.sk/fileadmin/resort_upload/jasna/trate_a_zariadenia_a4_2025_en.pdf"
+  },
+  "finish_area": {
+    "name": "Koliesko (con zona Priehyba)",
+    "type": "stadium",
+    "description_it": "Arena d'arrivo a Koliesko (1.250 m) per 12.000 spettatori; tribuna naturale di neve con oltre 30 file costruita sul pendio Majstrovská (pista 7, quasi 49%), con vista sull'arrivo e sul tratto finale da Priehyba. Fan zone e programma collaterale a Biela Púť.",
+    "grandstands": "Tribuna naturale di neve sul pendio Majstrovská (>30 file)",
+    "capacity": 12000,
+    "night_race": false,
+    "notable": [
+      "Tribuna di neve sulla Majstrovská costruita in ~9 ore",
+      "Fan zone a Biela Púť",
+      "Accesso spettatori con seggiovia Záhradky → Priehyba",
+      "Gara 2024 sold out"
+    ],
+    "source": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna ; https://www.worldcupjasna.sk/en/press-media/press-releases/24-10-2023-jasna-announces-its-sold-out ; https://www.teraz.sk/sport/timy-chvalia-trat-v-jasnej-pre-dubov/767452-clanok.html"
+  },
+  "environment": {
+    "forest": "Bosco di abete rosso (smrek) nella parte bassa della Demänovská dolina – non verificato con fonte specifica",
+    "above_treeline": "Parte alta (Luková 1.650 m) presumibilmente vicino/oltre il limite del bosco – non verificato",
+    "rocks": "non documentato",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Záhradky → Priehyba",
+        "description_it": "Seggiovia usata dagli spettatori per raggiungere Priehyba (zona arrivo)."
+      },
+      {
+        "kind": "lift",
+        "where": "Luková",
+        "description_it": "Nodo impiantistico verso il Chopok (pista 1a Chopok–Luková); impianto specifico non documentato."
+      }
+    ],
+    "landmarks": [
+      "Chopok (2.004 m, Bassi Tatra)",
+      "Luková",
+      "Priehyba",
+      "Koliesko",
+      "Biela Púť",
+      "Demänovská dolina",
+      "Pendio Majstrovská (pista 7)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "course 'Luková – Koliesko'",
+      "status": "confirmed",
+      "note": "Partenza Luková, arrivo Koliesko; FIS chiama la pista 'Lukova 2'; sulla mappa è la pista 1 'Petra Vlhová'. 'Paseky' non trovato."
+    },
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Luková 1.650 m."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "not_found",
+      "note": "Nessun muro iniziale documentato; ~200 m dopo il via c'è una onda di terreno."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "renamed",
+      "note": "Può corrispondere alla prima/seconda 'terénna vlna'."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Non documentata."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "generic",
+      "note": "Pendenza massima della pista non pubblicata; 49% riguarda la Majstrovská (tribuna)."
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "renamed",
+      "note": "→ tratto finale da Priehyba."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "Koliesko 1.250 m."
+    },
+    {
+      "archive_name": "metrics.length '1.5 km circa'",
+      "status": "renamed",
+      "note": "Media: GS 1.220 (unità non indicata); pista intera 2.070 m."
+    },
+    {
+      "archive_name": "scene.jumps/airborne idx 4",
+      "status": "not_found",
+      "note": "Nessun salto documentato; solo onde di terreno."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://medias4.fis-ski.com/pdf/2024/AL/5073/2024AL5073SLR1.pdf",
+      "title": "FIS results Jasná W GS 20.01.2024",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/pdf/2016/AL/5179/2016AL5179RLR1.pdf",
+      "title": "FIS results Jasná W GS 07.03.2016",
+      "type": "fis"
+    },
+    {
+      "url": "https://jasna.sk/fileadmin/resort_upload/jasna/trate_a_zariadenia_a4_2025_en.pdf",
+      "title": "Jasná – Trate a zariadenia 2025 (EN)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.worldcupjasna.sk/en/press-media/news/the-tracks-for-the-world-cup-in-jasna-should-suit-petra-vlhova",
+      "title": "WC Jasná – The tracks should suit Petra Vlhová",
+      "type": "official"
+    },
+    {
+      "url": "https://www.worldcupjasna.sk/en/press-media/press-releases/15-1-2024-fine-tuning-the-details-in-jasna",
+      "title": "WC Jasná – Fine-tuning the details (15.1.2024)",
+      "type": "official"
+    },
+    {
+      "url": "https://jasna.sk/en/activities/sports/lyzovacka-pocas-svetoveho-pohara",
+      "title": "Jasná – Skiing during the World Cup",
+      "type": "official"
+    },
+    {
+      "url": "https://www.worldcupjasna.sk/en/press-media/press-releases/24-10-2023-jasna-announces-its-sold-out",
+      "title": "WC Jasná – sold out (24.10.2023)",
+      "type": "official"
+    },
+    {
+      "url": "https://blog.gopass.travel/?p=18586",
+      "title": "GOPASS blog – World Cup Jasná 2024",
+      "type": "media"
+    },
+    {
+      "url": "https://www.teraz.sk/sport/timy-chvalia-trat-v-jasnej-pre-dubov/767452-clanok.html",
+      "title": "TASR – tímy chvália trať v Jasnej",
+      "type": "media"
+    },
+    {
+      "url": "https://www.visitliptov.sk/en/event/world-cup-jasna-2027/",
+      "title": "Visit Liptov – World Cup Jasná 2027",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Pendenza massima e media della pista di gara (non pubblicate).",
+    "Quota della partenza SL e della partenza alternativa GS.",
+    "Esistono nomi locali per i tratti intermedi? Nessuno trovato in fonti slovacche.",
+    "Unità del valore 1220 (presumibilmente metri di tracciato GS).",
+    "Data di intitolazione della pista a Petra Vlhová."
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "killington-superstar-sl",
+  "course": "Superstar",
+  "location": "Killington, Vermont (USA)",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 988,
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "finish_alt_m": {
+      "value": 788,
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course) (programma: base ~2.500 ft = ~762 m)",
+      "confidence": "uncertain"
+    },
+    "length_m": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 200,
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "max_gradient": {
+      "value": "58%",
+      "where": "non localizzato (probabilmente Preston's Pitch)",
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "41%",
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Porte",
+        "value": "circa 60 porte, distanza 9–11 m",
+        "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Record",
+        "value": "Mikaela Shiffrin 6 vittorie in slalom a Killington",
+        "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Ultima vincitrice",
+        "value": "Camille Rast, 1/12/2024",
+        "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "2026-27",
+        "value": "SL femminile 29/11/2026",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Pubblico",
+        "value": "spesso oltre 30.000",
+        "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza SL",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 988,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza dello slalom più bassa (circa 988 m, Wikipedia); posizione rispetto alle sezioni non documentata (probabilmente nelle Fields).",
+      "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "The Fields (Upper/Lower Fields)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Sezione centrale più dolce tra Launch Pad e High Road, chiamata anche Upper e Lower Fields; cambi di ritmo prima del muro finale.",
+      "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "High Road (incrocio)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Incrocio con la pista High Road: inizio del muro finale.",
+      "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Lower Headwall – Preston's Pitch",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.72
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Muro finale ripido (Upper e Lower Preston's Pitch secondo Wikipedia) che termina direttamente sulla linea d'arrivo davanti alle tribune: decide la gara.",
+      "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Arrivo – Festival Village",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 788,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a circa 788 m (Wikipedia) alla base di Superstar, davanti al K-1 Lodge.",
+      "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza slalom",
+    "description_it": "Partenza più bassa del gigante (circa 988 m secondo Wikipedia); posizione esatta non documentata.",
+    "source": "https://en.wikipedia.org/wiki/Superstar_(ski_course)"
+  },
+  "finish_area": {
+    "name": "Festival Village / arrivo Superstar (K-1 Lodge)",
+    "type": "stadium",
+    "description_it": "Arrivo alla base di Superstar, sul lato pista del K-1 Lodge: Festival Village, due settori di tribune, tenda VIP, zone media, maxischermi visibili da tutte le aree; ampio spazio in piedi vicino al traguardo e sul pendio a destra della pista (guardando a monte). Dal fondo si vede circa il 40–50% dello slalom e il 30–40% del gigante. Pubblico spesso oltre 30.000 nel weekend.",
+    "grandstands": 2,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Oltre 30.000 spettatori nel weekend",
+      "Mikaela Shiffrin 6 vittorie in slalom",
+      "Due settori di tribune + VIP"
+    ],
+    "source": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf"
+  },
+  "environment": {
+    "forest": "Pista sul versante di Skye Peak tagliata nel bosco misto del Vermont (latifoglie/conifere: non verificato); gobbe ai lati.",
+    "above_treeline": "No.",
+    "rocks": "Nessuna fonte.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "fine Top Headwall",
+        "description_it": "La pista Launch Pad interseca Superstar e segna la fine del Top Headwall."
+      },
+      {
+        "kind": "road",
+        "where": "fine The Fields",
+        "description_it": "La pista High Road attraversa Superstar e segna l'inizio del Lower Headwall."
+      }
+    ],
+    "landmarks": [
+      "Skye Peak",
+      "K-1 Lodge (Festival Village alla base)",
+      "Maxischermi accanto all'arrivo"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "OK."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Lo slalom parte più in basso; il Top Headwall probabilmente non è incluso."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Ritmo medio",
+      "status": "renamed",
+      "note": "= The Fields."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "generic",
+      "note": "—"
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "renamed",
+      "note": "= Lower Headwall / Preston's Pitch."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "Festival Village (K-1)."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://mountaintimes.info/wp-content/uploads/2024/11/WC2024-Program-FINAL-cropped-reduced-size-2.pdf",
+      "title": "Killington Cup 2024 official program (Mountain Times)",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Superstar_(ski_course)",
+      "title": "Superstar (ski course) – Wikipedia (solo puntatore)",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia (Killington 28–29/11/2026)",
+      "type": "other"
+    },
+    {
+      "url": "https://unofficialnetworks.com/2026/06/16/killington-cup-returns-this-november/",
+      "title": "Killington Cup returns this November (Unofficial Networks, 16/6/2026)",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Discrepanza quote: Wikipedia (1.128→788 m) vs programma (base ~762 m, 366 m di dislivello per l'intera pista).",
+    "Assenza nel 2025-26 da confermare con fonte FIS.",
+    "Direzione curve non documentata.",
+    "Capacità tribune non pubblicata."
+  ]
+}

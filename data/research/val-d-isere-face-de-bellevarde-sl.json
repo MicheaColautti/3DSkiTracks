@@ -1,0 +1,295 @@
+{
+  "id": "val-d-isere-face-de-bellevarde-sl",
+  "course": "Stade Olympique de Bellevarde (Face de Bellevarde)",
+  "location": "Val d'Isère",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 2062,
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 1842,
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": 591,
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "vertical_m": {
+      "value": 220,
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": "70%",
+      "where": "non specificato nel documento (tratto del Mur / muro finale – uncertain)",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "avg_gradient": {
+      "value": "37.23%",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "15%",
+        "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Variante omologata",
+        "value": "partenza 2065 m sotto l'Ancolie, arrivo 1845 m ai piedi del muro finale; 591 m, 220 m",
+        "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Omologazione",
+        "value": "3129/11/14 (principale), 3130/11/14 (variante), anno 2014",
+        "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Pista SL alternativa adiacente",
+        "value": "Joseray-Calabourdane 2050→1850 m, 587 m, max 64%, media 38% (3484/11/17)",
+        "source": "https://www.comiteskisavoie.fr/homologation/2022/3484_11_17.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Gara 2026/27",
+        "value": "SL uomini a Val d'Isère non indicato nel calendario consultato (verificare)",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "uncertain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Départ – goulet de Bellevarde",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2062,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza dello slalom nella strettoia di Bellevarde, a 2062 m.",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Passage de l'Ancolie (sopra/accanto)",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2065,
+        "s_approx": 0.03
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Goulet in contropendenza tra due blocchi di roccia; la partenza della variante è appena sotto.",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf ; https://fr.wikipedia.org/wiki/Face_de_Bellevarde",
+      "confidence": "fis"
+    },
+    {
+      "order": 3,
+      "name": "Le Mur",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto più ripido (fino al 70%) dove si concentrano le porte più difficili; posizione stimata.",
+      "source": "https://en.wikipedia.org/wiki/La_face_de_Bellevarde ; https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Bosse à Cathiard",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Gobba nel finale; il traguardo principale si trova appena sotto.",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    },
+    {
+      "order": 5,
+      "name": "Arrivo – Stade Olympique",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": 591,
+        "alt_m": 1842,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 1842 m nello Stade Olympique, accanto alla stazione Olympique e al Centre Aquasportif.",
+      "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Goulet de Bellevarde",
+    "description_it": "Partenza a 2062 m all'altezza del goulet de Bellevarde; la variante parte a 2065 m appena sotto il passage de l'Ancolie.",
+    "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf"
+  },
+  "finish_area": {
+    "name": "Stade Olympique de Bellevarde",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo ai piedi del muro finale della Face, nel paese di Val d'Isère (non a La Daille, che è l'arrivo della OK), accanto alla stazione Olympique e al Centre Aquasportif, sul cui tetto può trovarsi la 'raquette' d'arrivo.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Stazione funivia Olympique a lato",
+      "Centre Aquasportif",
+      "Eredità dei Giochi Olimpici 1992"
+    ],
+    "source": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf ; https://www.comiteskisavoie.fr/homologation/2022/3484_11_17.pdf ; https://fr.wikipedia.org/wiki/Face_de_Bellevarde"
+  },
+  "environment": {
+    "forest": "Parte alta sopra il limite del bosco; parte bassa (stadio) ai margini del paese con lariceti radi ai lati (uncertain).",
+    "above_treeline": "Sì nella parte alta della Face; GS/SL si corrono sulla parte bassa (≈2300–1842 m).",
+    "rocks": "Forte presenza di roccia: Rocher de Bellevarde, passage de l'Ancolie (goulet in contropendenza tra due blocchi di roccia), Bec de l'Aigle; zona di caduta massi a sinistra del muro finale.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Arrivo Stade Olympique",
+        "description_it": "La stazione a valle della funivia/funicolare Olympique si trova a lato dell'arrivo (variante SL: a destra della stazione Olympique)."
+      }
+    ],
+    "landmarks": [
+      "Rocher de Bellevarde",
+      "Stade Olympique de Bellevarde",
+      "Centre Aquasportif (tetto con la 'raquette' d'arrivo)",
+      "Paese di Val d'Isère"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Rinominare: Goulet de Bellevarde (2062 m)."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Nessun riscontro specifico."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "Nessun riscontro."
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "Elemento di tracciatura, non sezione di pista."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "Elemento di tracciatura."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "Possibile Bosse à Cathiard (ma è nel finale)."
+    },
+    {
+      "archive_name": "Ritmo medio",
+      "status": "generic",
+      "note": "Nessun riscontro."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "generic",
+      "note": "Pendenza minima 15%: nessun vero piatto."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "generic",
+      "note": "Corrisponde al muro finale dello Stade Olympique."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Rinominare in Stade Olympique de Bellevarde. Lunghezza archivio 650 m vs 591 m omologati."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.worldcup-valdisere.com/les-pistes/",
+      "title": "Les pistes – Coupe du Monde Val d'Isère",
+      "type": "official"
+    },
+    {
+      "url": "https://www.comiteskisavoie.fr/homologation/2022/3130_11_14.pdf",
+      "title": "Homologation SL Stade Olympique de Bellevarde 3129-3130/11/14",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.comiteskisavoie.fr/homologation/2022/3484_11_17.pdf",
+      "title": "Homologation SL Joseray-Calabourdane 3484/11/17",
+      "type": "fis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_face_de_Bellevarde",
+      "title": "La face de Bellevarde – Wikipedia EN",
+      "type": "other"
+    },
+    {
+      "url": "https://fr.wikipedia.org/wiki/Face_de_Bellevarde",
+      "title": "Face de Bellevarde – Wikipedia FR",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Omologazione del 2014: verificare se i dati attuali sono cambiati.",
+    "Posizione di 'Le Mur' nel tracciato SL stimata.",
+    "Calendario 2026/27: SL uomini a Val d'Isère da verificare."
+  ]
+}

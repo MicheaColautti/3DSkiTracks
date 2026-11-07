@@ -1,0 +1,293 @@
+{
+  "id": "gurgl-kirchenkar-sl",
+  "course": "Kirchenkar (Weltcup-Piste Kirchenkar)",
+  "location": "Hochgurgl, Gurgl (Sölden), Ötztal, Tirolo (AUT)",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 2475,
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 2265,
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 548,
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 210,
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "62 %",
+      "where": "Non indicato dalle fonti",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "38,3 %",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf ; https://presse.tirol.at/app/uploads/2025/11/Gurgl_Ski-World-Cup_2025_EN.pdf",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "18 %",
+        "source": "https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Dati alternativi (conflitto)",
+        "value": "Wikipedia: media 41 %, max 60 %, min 9 % (non ufficiale)",
+        "source": "https://en.wikipedia.org/wiki/Kirchenkar",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Storia",
+        "value": "Debutto in Coppa del Mondo 18/11/2023 (SL uomini); dal 2024 SL donne e uomini",
+        "source": "https://en.wikipedia.org/wiki/Kirchenkar",
+        "confidence": "media"
+      },
+      {
+        "label": "Date 2026",
+        "value": "SL donne 21/11/2026, SL uomini 22/11/2026 (non ancora disputate al 7/11/2026)",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Accesso",
+        "value": "Zona arrivo a 15–20 min a piedi da Top Mountain Crosspoint (320 m, 110 m di dislivello); sciatori via Große Karbahn e pista n. 41",
+        "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 2475,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza dello slalom a 2.475 m nella conca del Kirchenkar a Hochgurgl. Nessun nome specifico trovato: etichetta generica.",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Tratto ripido (generico)",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": "max 62 %",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Le fonti ufficiali indicano una pendenza massima del 62 % e definiscono la pista 'ripida' (media 38,3 %), ma non dicono dove si trovi il tratto più ripido né come si chiami: posizione stimata.",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://presse.tirol.at/app/uploads/2025/11/Gurgl_Ski-World-Cup_2025_EN.pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Zielhang (generico)",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": "min 18 % (posizione ignota)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Pendio finale verso il traguardo; nome e profilo non documentati, etichetta generica.",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Ziel Kirchenkar (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 548,
+        "alt_m": 2265,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 2.265 m nell'area d'arrivo della pista Kirchenkar, dove si svolgono anche le premiazioni.",
+      "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://presse.tirol.at/app/uploads/2025/11/Gurgl_Ski-World-Cup_2025_EN.pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Kirchenkar (2.475 m)",
+    "description_it": "Partenza a 2.475 m sopra Hochgurgl, nella zona servita dalla Kirchenkarbahn. Nessuna differenza documentata tra partenza donne e uomini.",
+    "source": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf"
+  },
+  "finish_area": {
+    "name": "Zielbereich Kirchenkar (Hochgurgl)",
+    "type": "slope_base",
+    "description_it": "Area d'arrivo a 2.265 m a Hochgurgl (non a Obergurgl), con fan zone e controllo biglietti; si raggiunge a piedi in 15–20 minuti da Top Mountain Crosspoint (hub con fermata bus e Top Express) o con gli sci via Große Karbahn e pista 41. Le premiazioni si tengono nell'area d'arrivo; la festa serale è a Obergurgl (Gurgl Carat). Zona in piedi accessibile solo con biglietto.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Fanzone",
+      "Ticketkontrolle",
+      "Premiazioni nell'area d'arrivo",
+      "Accesso pedonale da Top Mountain Crosspoint",
+      "Eventi serali al Gurgl Carat (Obergurgl)"
+    ],
+    "source": "https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf ; https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf ; https://presse.tirol.at/app/uploads/2025/11/Gurgl_Ski-World-Cup_2025_EN.pdf"
+  },
+  "environment": {
+    "forest": "Probabilmente assente (quote 2.265–2.475 m; non confermato da fonti)",
+    "above_treeline": "Probabilmente sì (inferenza da quota, non confermata)",
+    "rocks": "Non documentato (Kar = circo glaciale, conca; inferenza dal toponimo)",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Lungo/vicino alla pista",
+        "description_it": "Kirchenkarbahn indicata sulla mappa evento vicino alla pista; posizione esatta rispetto al tracciato da verificare."
+      },
+      {
+        "kind": "lift",
+        "where": "Accesso all'area",
+        "description_it": "Große Karbahn, Top Express, Hochgurglbahn I/II nei dintorni (mappa evento)."
+      }
+    ],
+    "landmarks": [
+      "Top Mountain Crosspoint",
+      "Kirchenkarbahn",
+      "Große Karbahn",
+      "Top Express",
+      "Hochgurglbahn I/II",
+      "Hochgurgl"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Nessun nome ufficiale; start 2.475 m."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "not_found",
+      "note": "Nessuna fonte colloca il tratto ripido all'inizio."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "Etichetta di fantasia, nessuna fonte."
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "Figura di tracciatura che varia ogni anno, non elemento di terreno."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "Idem: figura di tracciatura, non nome di sezione."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Non documentata."
+    },
+    {
+      "archive_name": "Ritmo medio",
+      "status": "generic",
+      "note": "Nessuna fonte."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "not_found",
+      "note": "Pendenza minima 18 % documentata ma posizione ignota."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "not_found",
+      "note": "Nessuna fonte."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Zielbereich Kirchenkar a Hochgurgl, 2.265 m."
+    },
+    {
+      "archive_name": "metrics.length '650 m circa'",
+      "status": "generic",
+      "note": "Valore ufficiale 548 m; dislivello 210 m (archivio '—')."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.gurgl.com/local/gurgl_skiweltcup_mediakit_24_EN.pdf",
+      "title": "Gurgl Skiweltcup Media Kit 2024",
+      "type": "official"
+    },
+    {
+      "url": "https://www.gurgl.com/dam/Dokumente-PDF/oghg/winter/GURGL__SWC2023_Eventuebersicht.pdf",
+      "title": "Gurgl SWC 2023 Eventübersicht (mappa evento)",
+      "type": "official"
+    },
+    {
+      "url": "https://presse.tirol.at/app/uploads/2025/11/Gurgl_Ski-World-Cup_2025_EN.pdf",
+      "title": "Tirol Werbung presse – Gurgl Ski World Cup 2025",
+      "type": "official"
+    },
+    {
+      "url": "https://www.tt.com/artikel/30868808/slalomstrecke-in-gurgl-fuer-weltcup-premiere-bereit-wird-ein-spektakel",
+      "title": "Tiroler Tageszeitung – Slalomstrecke Gurgl bereit (2023)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kirchenkar",
+      "title": "Wikipedia – Kirchenkar",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "Wikipedia – 2026–27 FIS Alpine Ski World Cup",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Nessun nome di sezione trovato in fonti ufficiali, FIS o stampa: tutte le sezioni sono generiche.",
+    "Posizione del tratto al 62 % e del tratto al 18 % non documentata.",
+    "Presenza/capienza di tribune nell'area d'arrivo non trovata.",
+    "Conflitto pendenze: ufficiale 18/62/38,3 % vs Wikipedia 9/60/41 %.",
+    "Date 2026 (21–22/11) da fonte secondaria; confermare su gurgl.com/FIS.",
+    "Pagina gurgl.com 'world-cup-slope' non raggiungibile durante la ricerca."
+  ]
+}

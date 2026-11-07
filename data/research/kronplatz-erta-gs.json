@@ -1,0 +1,252 @@
+{
+  "id": "kronplatz-erta-gs",
+  "course": "Erta",
+  "location": "Plan de Corones / Kronplatz – San Vigilio di Marebbe (Al Plan)",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 1605,
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1200,
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 1325,
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 405,
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "61%",
+      "where": "non indicato",
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "32%",
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "22%",
+        "source": "https://alplanevents.it/en/piste",
+        "confidence": "official"
+      },
+      {
+        "label": "Dati Wikipedia (in leggero conflitto)",
+        "value": "partenza 1606, arrivo 1206, dislivello 400 m, max 58%, media 40%",
+        "source": "https://en.wikipedia.org/wiki/Erta",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Partenza alzata nel 2026",
+        "value": "Gennaio 2026: 'higher start hut' (quota nuova non pubblicata)",
+        "source": "https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Gare CdM",
+        "value": "10 giganti femminili dal 2017; Scheib (AUT) vince il 20/01/2026",
+        "source": "https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Omologazione FIS",
+        "value": "Certificato GS/SL Erta scaricabile (certif_fis_gs_sl_erta.pdf)",
+        "source": "https://alplanevents.it/en/piste",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza (Piz de Plaies – Erta)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1605,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza del gigante sulla pista Piz de Plaies-Erta; casetta di partenza alzata nel 2026.",
+      "source": "https://alplanevents.it/en/piste ; https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Tratto alto (generico)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "ETICHETTA GENERICA: nessun nome di tratto trovato in fonti ufficiali. Pendenze tra 22% e 61%.",
+      "source": "https://alplanevents.it/en/piste",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Tratto centrale (generico)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "ETICHETTA GENERICA: la pista è definita il gigante più impegnativo del circuito femminile.",
+      "source": "https://en.wikipedia.org/wiki/Erta",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Arrivo San Vigilio / Al Plan",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1200,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo sopra il paese di San Vigilio, con aree VIP affacciate sull'arrivo.",
+      "source": "https://alplanevents.it/en/piste ; https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Erta (GS)",
+    "description_it": "1605 m (GS); partenze slalom a 1425 m (M) e 1400 m (F). Nel 2026 la casetta di partenza è stata alzata.",
+    "source": "https://alplanevents.it/en/piste ; https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf"
+  },
+  "finish_area": {
+    "name": "Arrivo Erta – San Vigilio",
+    "type": "slope_base",
+    "description_it": "Arrivo a 1200 m sopra San Vigilio di Marebbe; aree VIP affacciate sul traguardo; dettagli tribune non pubblicati.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Aree VIP sull'arrivo"
+    ],
+    "source": "https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf"
+  },
+  "environment": {
+    "forest": "Non documentato (pista boschiva sul versante di San Vigilio: da verificare)",
+    "above_treeline": "No (1200-1605 m)",
+    "rocks": "Non documentato",
+    "glacier": false,
+    "crossings": [],
+    "landmarks": [
+      "San Vigilio di Marebbe",
+      "Plan de Corones"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "generic",
+      "note": "Nessun nome ufficiale trovato; mantenere come generico."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Arrivo 1200 m, San Vigilio."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://alplanevents.it/en/piste",
+      "title": "Al Plan Events – Piste",
+      "type": "official"
+    },
+    {
+      "url": "https://www.kronplatzevents.com/kronplatz/events/audi%20fis%20worldcup/presse/eng/Kronplatz%202026.pdf",
+      "title": "Kronplatz World Cup 2026 – press release",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Erta",
+      "title": "Erta – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Wikipedia elenca i nomi 'Para Paulina, Soleseid, Spona, Sorega' senza fonte né ordine: non verificati, non usati come tratti.",
+    "Quota della nuova partenza 2026 non pubblicata.",
+    "Posizione della pendenza max 61% non indicata.",
+    "Lunghezza nel metrics dell'archivio ('1.5 km circa') da correggere a 1325 m (dato pre-2026)."
+  ]
+}

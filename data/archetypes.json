@@ -1,0 +1,377 @@
+{
+  "_info": "Sei archetipi geografico-illustrativi. Unità mondo = unità del diorama (non metri reali). L = lunghezza lungo la pista, W = larghezza del diorama, drop = dislivello/L, slope = moltiplicatori di pendenza lungo il percorso (s 0 = partenza, 1 = arrivo), route = generazione della linea di gara.",
+  "archetypes": {
+    "long_speed": {
+      "label": "Long / Wide Speed",
+      "description": "Diorama molto lungo e largo: tratti di scorrimento rettilinei, salti selezionati, curve ampie e compressioni.",
+      "L": 3400,
+      "W": 1200,
+      "drop": 0.34,
+      "slope": [
+        [
+          0,
+          1.25
+        ],
+        [
+          0.14,
+          1.05
+        ],
+        [
+          0.3,
+          0.75
+        ],
+        [
+          0.46,
+          1.05
+        ],
+        [
+          0.62,
+          0.7
+        ],
+        [
+          0.8,
+          1.1
+        ],
+        [
+          0.93,
+          0.85
+        ],
+        [
+          1,
+          0.3
+        ]
+      ],
+      "route": {
+        "controls": 8,
+        "amp": 0.17,
+        "mode": "wave"
+      },
+      "shoulder": 70,
+      "crest": 95,
+      "noise": 22,
+      "trees": 760,
+      "rocks": 46,
+      "huts": 6,
+      "treeline": 0.12,
+      "cell": 34,
+      "valleyW": 0.3,
+      "bowl": 0,
+      "peak": 1.0
+    },
+    "extreme_steep": {
+      "label": "Extreme / Steep Classic",
+      "description": "Montagna nettamente più ripida: muri, creste e dossi di decollo, curve cieche e rocce solo dove pertinenti.",
+      "L": 2600,
+      "W": 1250,
+      "drop": 0.56,
+      "slope": [
+        [
+          0,
+          1.55
+        ],
+        [
+          0.12,
+          1.35
+        ],
+        [
+          0.3,
+          0.95
+        ],
+        [
+          0.5,
+          1.15
+        ],
+        [
+          0.7,
+          0.9
+        ],
+        [
+          0.86,
+          1.3
+        ],
+        [
+          0.95,
+          0.9
+        ],
+        [
+          1,
+          0.3
+        ]
+      ],
+      "route": {
+        "controls": 10,
+        "amp": 0.21,
+        "mode": "irregular"
+      },
+      "shoulder": 125,
+      "crest": 260,
+      "noise": 30,
+      "trees": 560,
+      "rocks": 130,
+      "huts": 4,
+      "treeline": 0.2,
+      "cell": 30,
+      "valleyW": 0.2,
+      "bowl": 0,
+      "peak": 1.9
+    },
+    "curvy_speed": {
+      "label": "Curvy / Technical Speed",
+      "description": "Andamento serpentino con molte curve, alternanza di pendenza e tratti quasi piani, compressioni e protezioni nei punti chiave.",
+      "L": 2500,
+      "W": 1450,
+      "drop": 0.38,
+      "slope": [
+        [
+          0,
+          1.1
+        ],
+        [
+          0.18,
+          0.8
+        ],
+        [
+          0.34,
+          1.2
+        ],
+        [
+          0.5,
+          0.7
+        ],
+        [
+          0.66,
+          1.15
+        ],
+        [
+          0.82,
+          0.85
+        ],
+        [
+          0.94,
+          0.95
+        ],
+        [
+          1,
+          0.3
+        ]
+      ],
+      "route": {
+        "controls": 11,
+        "amp": 0.18,
+        "mode": "serpentine"
+      },
+      "shoulder": 85,
+      "crest": 85,
+      "noise": 34,
+      "trees": 700,
+      "rocks": 55,
+      "huts": 5,
+      "treeline": 0.1,
+      "cell": 32,
+      "valleyW": 0.26,
+      "bowl": 0,
+      "peak": 1.1
+    },
+    "giant_slalom": {
+      "label": "Compact / Technical GS",
+      "description": "Più corto e stretto delle discese: muri ripidi, curve regolari, porte di gigante, cambi di ritmo, nessun salto da discesa.",
+      "L": 1800,
+      "W": 850,
+      "drop": 0.45,
+      "slope": [
+        [
+          0,
+          1.2
+        ],
+        [
+          0.22,
+          1.4
+        ],
+        [
+          0.42,
+          0.8
+        ],
+        [
+          0.62,
+          1.1
+        ],
+        [
+          0.84,
+          1.35
+        ],
+        [
+          0.95,
+          0.7
+        ],
+        [
+          1,
+          0.25
+        ]
+      ],
+      "route": {
+        "controls": 8,
+        "amp": 0.15,
+        "mode": "alternate"
+      },
+      "shoulder": 85,
+      "crest": 75,
+      "noise": 17,
+      "trees": 520,
+      "rocks": 36,
+      "huts": 3,
+      "treeline": 0.06,
+      "cell": 26,
+      "valleyW": 0.17,
+      "bowl": 0,
+      "peak": 1.2
+    },
+    "narrow_slalom": {
+      "label": "Narrow / Rhythmic SL",
+      "description": "Diorama molto compatto e stretto, curve a S serrate, pali numerosi, inversioni rapide e cambi di pendenza.",
+      "L": 1400,
+      "W": 560,
+      "drop": 0.4,
+      "slope": [
+        [
+          0,
+          1.25
+        ],
+        [
+          0.28,
+          1.0
+        ],
+        [
+          0.5,
+          1.2
+        ],
+        [
+          0.7,
+          0.8
+        ],
+        [
+          0.88,
+          1.3
+        ],
+        [
+          0.96,
+          0.6
+        ],
+        [
+          1,
+          0.25
+        ]
+      ],
+      "route": {
+        "controls": 7,
+        "amp": 0.1,
+        "mode": "alternate"
+      },
+      "shoulder": 55,
+      "crest": 50,
+      "noise": 11,
+      "trees": 380,
+      "rocks": 18,
+      "huts": 2,
+      "treeline": 0.0,
+      "cell": 22,
+      "valleyW": 0.15,
+      "bowl": 0,
+      "peak": 1.0
+    },
+    "stadium_finish": {
+      "label": "Stadium / Night-Race Finish",
+      "description": "Parte alta tecnica e finale spettacolare in anfiteatro: tribune, protezioni, pubblico, illuminazione serale opzionale. Larghezza e pali dipendono dalla specialità.",
+      "byDiscipline": {
+        "GS": {
+          "L": 1600,
+          "W": 980,
+          "drop": 0.42,
+          "cell": 26,
+          "trees": 480,
+          "route": {
+            "controls": 8,
+            "amp": 0.14,
+            "mode": "alternate"
+          }
+        },
+        "SL": {
+          "L": 1250,
+          "W": 800,
+          "drop": 0.4,
+          "cell": 22,
+          "trees": 360,
+          "route": {
+            "controls": 7,
+            "amp": 0.09,
+            "mode": "alternate"
+          }
+        }
+      },
+      "slope": [
+        [
+          0,
+          1.1
+        ],
+        [
+          0.3,
+          0.9
+        ],
+        [
+          0.58,
+          1.05
+        ],
+        [
+          0.8,
+          1.5
+        ],
+        [
+          0.92,
+          0.55
+        ],
+        [
+          1,
+          0.15
+        ]
+      ],
+      "shoulder": 55,
+      "crest": 60,
+      "noise": 12,
+      "rocks": 16,
+      "huts": 4,
+      "treeline": 0.0,
+      "valleyW": 0.17,
+      "bowl": 95,
+      "peak": 1.0
+    }
+  },
+  "disciplines": {
+    "DH": {
+      "label": "Discesa libera",
+      "pisteW": 112,
+      "gate": "speed",
+      "spacing": 150,
+      "lineAmp": 12
+    },
+    "SG": {
+      "label": "Super-G",
+      "pisteW": 102,
+      "gate": "speed",
+      "spacing": 100,
+      "lineAmp": 20
+    },
+    "GS": {
+      "label": "Slalom gigante",
+      "pisteW": 82,
+      "gate": "gs",
+      "spacing": 50,
+      "lineAmp": 18
+    },
+    "SL": {
+      "label": "Slalom",
+      "pisteW": 66,
+      "gate": "sl",
+      "spacing": 21,
+      "lineAmp": 11
+    }
+  }
+}

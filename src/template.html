@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{{TITLE}}</title>
+<style>{{CSS}}</style>
+</head>
+<body>
+<div id="app" class="app">
+  <canvas id="world" aria-label="{{ARIA}}"></canvas>
+  <div id="pins" class="pins"></div>
+
+  <header class="header panel" id="header">
+    <a class="back" href="../index.html" aria-label="Tutte le mappe" title="Tutte le mappe"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+    <span class="flag" id="flag"></span>
+    <div class="titles"><h1 id="title"></h1><p id="subtitle"></p></div>
+  </header>
+
+  <div class="toolbar" id="toolbar">
+    <div class="segmented panel" role="group" aria-label="Vista">
+      <button type="button" id="viewExplore" class="active">Esplora</button>
+      <button type="button" id="viewTop">Dall'alto</button>
+    </div>
+    <button type="button" id="profileBtn" class="chip panel" aria-pressed="false">Profilo</button>
+    <button type="button" id="nightBtn" class="chip panel hidden" aria-pressed="false">Gara serale</button>
+    <button type="button" id="labelsToggle" class="switch panel" role="switch" aria-checked="false" aria-label="Etichette" title="Mostra o nascondi le etichette"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3.5 4.5h7l6 6-6 6-7-7z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><circle cx="7" cy="8" r="1.3" fill="currentColor"/></svg><span>Etichette</span><i aria-hidden="true"><b></b></i></button>
+  </div>
+
+  <button type="button" id="listBtn" class="chip panel listBtn" aria-expanded="false" aria-controls="pathPanel"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 6h12M4 10h12M4 14h8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>Percorso</button>
+  <aside id="pathPanel" class="panel pathPanel hidden" aria-label="Sezioni del percorso"><div class="panelHead"><b>Percorso</b><span id="count"></span></div><ol id="pathList"></ol></aside>
+  <aside id="profilePanel" class="panel profilePanel hidden" aria-label="Profilo"></aside>
+
+  <article id="stats" class="panel stats"></article>
+
+  <div id="controls" class="controls">
+    <div class="grp panel">
+      <button type="button" id="zoomIn" aria-label="Zoom avanti" title="Zoom +"><svg viewBox="0 0 20 20"><path d="M10 4v12M4 10h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+      <button type="button" id="zoomOut" aria-label="Zoom indietro" title="Zoom −"><svg viewBox="0 0 20 20"><path d="M4 10h12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    </div>
+    <div class="grp panel">
+      <button type="button" id="rotL" aria-label="Ruota a sinistra" title="Ruota a sinistra"><svg viewBox="0 0 20 20"><path d="M6.5 7.5A5.5 5.5 0 1 1 5 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M3.5 4.5v4h4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+      <button type="button" id="rotR" aria-label="Ruota a destra" title="Ruota a destra"><svg viewBox="0 0 20 20"><path d="M13.5 7.5A5.5 5.5 0 1 0 15 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M16.5 4.5v4h-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    </div>
+    <div class="grp panel">
+      <button type="button" id="reset" aria-label="Ripristina vista" title="Ripristina vista"><svg viewBox="0 0 20 20"><circle cx="10" cy="10" r="5.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="10" cy="10" r="1.6" fill="currentColor"/><path d="M10 1.8v3M10 15.2v3M1.8 10h3M15.2 10h3" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></button>
+    </div>
+  </div>
+
+  <aside id="detail" class="panel detail closed" aria-live="polite">
+    <div class="detailTop"><span class="eyebrow" id="detailType"></span><button type="button" class="iconBtn" id="closeDetail" aria-label="Chiudi scheda">×</button></div>
+    <h3 id="detailName"></h3>
+    <p id="detailDesc"></p>
+    <div class="detailFoot">
+      <button type="button" class="iconBtn" id="prevPoi" aria-label="Sezione precedente">‹</button>
+      <span id="detailIndex"></span>
+      <button type="button" class="iconBtn" id="nextPoi" aria-label="Sezione successiva">›</button>
+    </div>
+  </aside>
+
+  <div class="hint" id="hint">Trascina per ruotare · rotella o pizzico per lo zoom · tasto destro o Maiusc per spostare</div>
+  <div class="notice hidden" id="notice" role="alert"></div>
+</div>
+<script>{{DATA}}</script>
+<script>{{JS}}
+LSA.start(window.LSA_COURSE);
+</script>
+</body>
+</html>

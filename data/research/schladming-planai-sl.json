@@ -1,0 +1,271 @@
+{
+  "id": "schladming-planai-sl",
+  "course": "Planai (Zielhang)",
+  "location": "Schladming, Stiria (AUT)",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 967,
+      "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 749,
+      "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": null,
+      "source": "Non pubblicata nei documenti FIS né sul sito ufficiale",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 218,
+      "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": "54 % (28,4°)",
+      "where": "non specificato",
+      "source": "https://en.wikipedia.org/wiki/Planai_(ski_course)",
+      "confidence": "media"
+    },
+    "avg_gradient": {
+      "value": "36,8 % (20,2°)",
+      "source": "https://en.wikipedia.org/wiki/Planai_(ski_course)",
+      "confidence": "media"
+    },
+    "other": [
+      {
+        "label": "Omologazione FIS",
+        "value": "13633/09/20",
+        "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Porte 2026",
+        "value": "1ª manche 64/62, 2ª manche 67/66",
+        "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Night race",
+        "value": "Nightrace sotto i riflettori dal 1997; dal 2023 a fine gennaio insieme al gigante notturno; 2027: 26–27 gennaio (30ª edizione)",
+        "source": "https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste) ; https://planai.at/en/planai-up-to-date/events/nightrace ; https://www.schladming-dachstein.at/de/events/top-events/nightrace",
+        "confidence": "official"
+      },
+      {
+        "label": "Spettatori",
+        "value": "fino a 50.000",
+        "source": "https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste) ; https://en.wikipedia.org/wiki/Planai_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Vincitore 2026",
+        "value": "Henrik Kristoffersen 1:53.80 (28/01/2026)",
+        "source": "https://www.schladming-dachstein.at/de/events/top-events/nightrace",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start Slalom (Planai, 967 m)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 967,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza dello slalom sul pendio inferiore della Planai a 967 m. Nessun nome proprio documentato per la zona di partenza.",
+      "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Oberer Teil (etichetta generica)",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Parte alta del pendio: nessun nome proprio documentato. Pendenza massima della pista 54 %, media 36,8 % (posizione del tratto più ripido non indicata).",
+      "source": "https://en.wikipedia.org/wiki/Planai_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Zielhang",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Il celebre pendio d'arrivo della Planai su cui si disputano gli slalom, illuminato a giorno e circondato da un muro di pubblico fino a 50.000 persone.",
+      "source": "https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste) ; https://planai.at/en/planai-up-to-date/events/nightrace",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Planai-Zielstadion",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 749,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Stadio d'arrivo a 749 m ai margini del centro di Schladming, rinnovato per i Mondiali 2013 con un arco d'acciaio.",
+      "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf ; https://en.wikipedia.org/wiki/Planai_(ski_course) ; https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste)",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Start Slalom Planai (967 m)",
+    "description_it": "Partenza a 967 m sul tratto inferiore della Planai; nessun nome proprio o struttura particolare documentati.",
+    "source": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf"
+  },
+  "finish_area": {
+    "name": "Planai-Zielstadion (Zielhang)",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo ai piedi della Planai, nelle immediate vicinanze del centro di Schladming, ricostruito e ampliato per i Mondiali 2013 con un caratteristico arco d'acciaio. Teatro del Nightrace sotto i riflettori dal 1997 e, dal 2023, anche del gigante notturno.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": true,
+    "notable": [
+      "Arco d'acciaio dello stadio (ristrutturazione 2013)",
+      "Illuminazione a giorno (Flutlicht)",
+      "Fino a 50.000 spettatori al Nightrace (pubblico record del circuito)",
+      "Stadio a ridosso del centro città"
+    ],
+    "source": "https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste) ; https://en.wikipedia.org/wiki/Planai_(ski_course) ; https://planai.at/en/planai-up-to-date/events/nightrace"
+  },
+  "environment": {
+    "forest": "Pendio inferiore della Planai sopra Schladming, delimitato da bosco (non descritto in dettaglio nelle fonti).",
+    "above_treeline": "No (quote 749–1.148 m).",
+    "rocks": "Nessuna roccia documentata.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "road",
+        "where": "versante Planai (posizione rispetto al tracciato non documentata)",
+        "description_it": "La strada a pedaggio della Planai (Mautstraße, costruita dal 1964) corre lungo le piste; non è documentato se incroci il tracciato di gara."
+      }
+    ],
+    "landmarks": [
+      "Centro di Schladming",
+      "Planai-Zielstadion con arco d'acciaio"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Partenza a 967 m (FIS 2026); nessun nome proprio trovato."
+    },
+    {
+      "archive_name": "Muro alto",
+      "status": "generic",
+      "note": "Nessuna fonte con nome; etichetta inventata/generica."
+    },
+    {
+      "archive_name": "Ritmo centrale",
+      "status": "generic",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Nessuna compressione documentata."
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "Figura di tracciatura, non elemento del terreno."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "Figura di tracciatura, non elemento del terreno."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "not_found",
+      "note": "Nessun tratto piatto documentato."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "renamed",
+      "note": "Nome reale: Zielhang (pendio d'arrivo)."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "renamed",
+      "note": "Planai-Zielstadion (749 m), arco d'acciaio 2013."
+    },
+    {
+      "archive_name": "metrics.length/vertical '—'",
+      "status": "not_found",
+      "note": "Dislivello 218 m (FIS 2026); lunghezza non pubblicata."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://medias1.fis-ski.com/pdf/2026/AL/0012/2026AL0012SLR2.pdf",
+      "title": "FIS – Risultati Slalom Schladming 28/01/2026 (dati tecnici)",
+      "type": "fis"
+    },
+    {
+      "url": "https://planai.at/en/planai-up-to-date/events/nightrace",
+      "title": "Planai – Nightrace",
+      "type": "official"
+    },
+    {
+      "url": "https://www.schladming-dachstein.at/de/events/top-events/nightrace",
+      "title": "Schladming-Dachstein – The Nightrace",
+      "type": "official"
+    },
+    {
+      "url": "https://austria-forum.org/af/AustriaWiki/Planai_(Skipiste)",
+      "title": "Austria-Forum – Planai (Skipiste)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Planai_(ski_course)",
+      "title": "Wikipedia (en) – Planai (ski course)",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Nessun nome proprio documentato per le sezioni del pendio dello slalom oltre a 'Zielhang': la pista va rappresentata con etichette generiche (segnalato).",
+    "Lunghezza della pista non trovata.",
+    "Capienza delle tribune dello stadio non trovata (solo 'fino a 50.000' spettatori complessivi).",
+    "Posizione della Planai-Gondelbahn rispetto al tracciato non documentata nelle fonti consultate."
+  ]
+}

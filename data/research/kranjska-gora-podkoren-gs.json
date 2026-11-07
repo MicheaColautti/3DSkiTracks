@@ -1,0 +1,373 @@
+{
+  "id": "kranjska-gora-podkoren-gs",
+  "course": "Podkoren 3 ('Tekmovalna proga Podkoren', detta anche 'Poligon')",
+  "location": "Podkoren, Kranjska Gora (Slovenia) – Pokal Vitranc",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 1278,
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 836,
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 442,
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "59% (30,5°)",
+      "where": "subito dopo la partenza",
+      "source": "https://pokal-vitranc.com/en/news/characteristics-of-the-giant-slalom-race-track",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "other": [
+      {
+        "label": "Pendenza minima",
+        "value": "18% (10,2°)",
+        "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf ; https://en.wikipedia.org/wiki/Podkoren_3",
+        "confidence": "official"
+      },
+      {
+        "label": "Omologazione FIS",
+        "value": "13938/01/21",
+        "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Partenze SL vs GS",
+        "value": "GS 1.278 m (442 m disl.), SL 1.035 m (199 m disl.), arrivo comune 836 m",
+        "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+        "confidence": "official"
+      },
+      {
+        "label": "Storia",
+        "value": "Progettata da Peter Lakota, inaugurata dic. 1983; prima l'arrivo era presso il distributore Petrol tra Podkoren e Kranjska Gora",
+        "source": "https://en.wikipedia.org/wiki/Podkoren_3 ; https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+        "confidence": "media"
+      },
+      {
+        "label": "Calendario",
+        "value": "Mar 2026: GS 7/3, SL 8/3 (uomini). 2026/27: GS uomini 2 gen 2027 (+SL 3 gen secondo RTV); donne GS 29 gen e SL 30 gen 2027",
+        "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf ; https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup ; https://www.rtvslo.si/sport/zimski-sporti/pokal-vitranc-prihodnje-leto-ze-2-in-3-januarja/781550",
+        "confidence": "media"
+      },
+      {
+        "label": "Reputazione",
+        "value": "Tra i giganti più difficili al mondo (con Alta Badia e Adelboden)",
+        "source": "https://en.wikipedia.org/wiki/Podkoren_3 ; https://pokal-vitranc.com/en/news/characteristics-of-the-giant-slalom-race-track",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start veleslaloma – strmina 59%",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1278,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": "59% (30,5°)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Subito dopo il cancelletto il punto più ripido: 59%, indicato come il tratto più ripido di qualsiasi pista slovena.",
+      "source": "https://pokal-vitranc.com/en/news/characteristics-of-the-giant-slalom-race-track ; https://en.wikipedia.org/wiki/Podkoren_3",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Parte alta – terreno sospeso e curve cieche (generico)",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": "tratti 42–56% (diagramma senza nomi)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Il sito ufficiale cita 'curve cieche' e 'terreno sospeso' (pendenza laterale); il diagramma mostra tratti al 42%, 51%, 41%, 56% senza nome né posizione precisa.",
+      "source": "https://pokal-vitranc.com/en/information/race-slope ; https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Tratto intermedio (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Nessun nome documentato.",
+      "source": "",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Start slaloma (1.035 m)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1035,
+        "s_approx": 0.55
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Il tracciato del gigante passa dalla quota di partenza dello slalom; da qui il profilo coincide con la parte bassa.",
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Parte centrale – curve cieche (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": "SL: 21–47%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Cambi di pendenza e curve cieche citati dal sito ufficiale; nessun nome locale trovato.",
+      "source": "https://pokal-vitranc.com/en/information/race-slope ; https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Zadnja strmina (ultimo ripido)",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.92
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ripido finale spettacolare ('spectacular finish downgrade'), accanto al quale è stata costruita la nuova terrazza VIP.",
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf ; https://pokal-vitranc.com/en/information/race-slope",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Cilj – ciljna arena Podkoren",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 836,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Arrivo a 836 m nell'arena di Podkoren con tribuna principale, aree in piedi e premiazioni.",
+      "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start veleslaloma 1.278 m",
+    "description_it": "Cancelletto a 1.278 m sul Vitranc, seguito immediatamente dal muro al 59%.",
+    "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf"
+  },
+  "finish_area": {
+    "name": "Ciljna arena Podkoren",
+    "type": "stadium",
+    "description_it": "Arena d'arrivo a Podkoren (836 m): tribuna principale con la miglior vista su pista e risultati, aree in piedi per salutare gli atleti sulla via dell'impianto, nuova terrazza VIP accanto all'ultimo ripido, Media Center a fianco dell'arena; premiazioni in arena.",
+    "grandstands": "Tribuna principale + terrazza VIP + aree in piedi",
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Terrazza VIP accanto alla 'zadnja strmina'",
+      "Media Center accanto all'arena",
+      "Sentiero Kranjska Gora–Velika dolina sotto la collina",
+      "Pubblico storico: ~30.000 allo slalom 1985"
+    ],
+    "source": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf ; https://en.wikipedia.org/wiki/Podkoren_3"
+  },
+  "environment": {
+    "forest": "Bosco misto di conifere (abete rosso/larice) sul Vitranc – non verificato con fonte specifica",
+    "above_treeline": "No (836–1.278 m)",
+    "rocks": "non documentato",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "arrivo",
+        "description_it": "La pista è collegata a un impianto di risalita (nome non indicato nelle fonti)."
+      },
+      {
+        "kind": "road",
+        "where": "base della collina",
+        "description_it": "Il sentiero/pista ciclabile Kranjska Gora – Velika dolina passa direttamente sotto la collina."
+      }
+    ],
+    "landmarks": [
+      "Vitranc",
+      "Alpi Giulie",
+      "Planica e Rateče",
+      "Confine con Italia e Austria (vicino)",
+      "Kranjska Gora"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "1278 m."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "confirmed",
+      "note": "GS: muro 59% subito dopo il via (ufficiale)."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Cambio pendenza",
+      "status": "generic",
+      "note": "Le fonti parlano di 'curve cieche' e 'terreno sospeso', senza nomi."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": ""
+    },
+    {
+      "archive_name": "Curvone",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Tratto di scorrimento",
+      "status": "generic",
+      "note": ""
+    },
+    {
+      "archive_name": "Muro tecnico",
+      "status": "generic",
+      "note": "Pendenza minima 18%"
+    },
+    {
+      "archive_name": "Ritmo finale",
+      "status": "renamed",
+      "note": "→ 'Zadnja strmina' (ultimo ripido, terrazza VIP)."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "836 m, arena di Podkoren."
+    },
+    {
+      "archive_name": "source kranjska-gora.si/through-stan-to-podkoren",
+      "status": "not_found",
+      "note": "È un itinerario turistico; usare pokal-vitranc.com MediaPlan 2026."
+    },
+    {
+      "archive_name": "scene.jumps/airborne idx 4",
+      "status": "not_found",
+      "note": "Nessun salto documentato."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://pokal-vitranc.com/media/files/imported/2026/MediaPlan-Vitranc-2026%20(8).pdf",
+      "title": "Pokal Vitranc – MediaPlan 2026",
+      "type": "official"
+    },
+    {
+      "url": "https://pokal-vitranc.com/en/news/characteristics-of-the-giant-slalom-race-track",
+      "title": "Pokal Vitranc – Characteristics of the GS race track",
+      "type": "official"
+    },
+    {
+      "url": "https://pokal-vitranc.com/en/information/race-slope",
+      "title": "Pokal Vitranc – Race slope",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Podkoren_3",
+      "title": "Podkoren 3 – Wikipedia",
+      "type": "other"
+    },
+    {
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/pokal-vitranc-praznuje-castitljivih-50-let/251636",
+      "title": "RTV SLO – Pokal Vitranc 50 let",
+      "type": "media"
+    },
+    {
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/podkorenska-strmina-v-dobri-kondiciji-za-smucarski-praznik/331539",
+      "title": "RTV SLO – Podkorenska strmina v dobri kondiciji",
+      "type": "media"
+    },
+    {
+      "url": "https://www.rtvslo.si/sport/zimski-sporti/pokal-vitranc-prihodnje-leto-ze-2-in-3-januarja/781550",
+      "title": "RTV SLO – Pokal Vitranc 2. in 3. januarja",
+      "type": "media"
+    },
+    {
+      "url": "https://www.pokal-vitranc.com/en/news/good-morning-from-under-the-polygon-racecourse",
+      "title": "Pokal Vitranc – Polygon racecourse",
+      "type": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Lunghezza del tracciato (non pubblicata).",
+    "Nomi locali dei tratti intermedi: nessuno trovato (né 'zid' né altri) nelle fonti ufficiali e RTV.",
+    "Ordine/posizione dei tratti al 42/51/41/56% del diagramma MediaPlan (serve l'immagine del profilo).",
+    "Nome dell'impianto di risalita accanto all'arrivo.",
+    "Capienza tribuna."
+  ]
+}

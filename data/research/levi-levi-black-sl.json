@@ -1,0 +1,373 @@
+{
+  "id": "levi-levi-black-sl",
+  "course": "Levi Black (pista G.2)",
+  "location": "Levi, Kittilä (Lapponia, Finlandia)",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 438,
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+      "confidence": "fis"
+    },
+    "finish_alt_m": {
+      "value": 258,
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+      "confidence": "fis"
+    },
+    "length_m": {
+      "value": null,
+      "source": "",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 180,
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+      "confidence": "fis"
+    },
+    "max_gradient": {
+      "value": "27,5° (52%)",
+      "where": "tratto ripido nella parte medio-bassa (Wikipedia: 'Lower Preston's Pitch', non verificato)",
+      "source": "https://en.wikipedia.org/wiki/Levi_Black",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "17,1° (30,8%); altra fonte: media 31%, minima 4%",
+      "source": "https://en.wikipedia.org/wiki/Levi_Black ; https://www.essentiallysports.com/us-sports-news-alpine-skiing-news-everything-about-fis-ski-world-cup-levi-slope-in-lapland-weather-conditions-and-more/",
+      "confidence": "media"
+    },
+    "other": [
+      {
+        "label": "Omologazione FIS",
+        "value": "9324/11/09",
+        "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Porte (M SL 2018, 1a manche)",
+        "value": "65 porte / 62 cambi di direzione",
+        "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+        "confidence": "fis"
+      },
+      {
+        "label": "Quota arrivo – nota",
+        "value": "Arrivo a 258 m, il più basso del circuito femminile (fonte Wikipedia); un articolo media riporta 238 m (probabile refuso)",
+        "source": "https://en.wikipedia.org/wiki/Levi_Black ; https://www.essentiallysports.com/us-sports-news-alpine-skiing-news-everything-about-fis-ski-world-cup-levi-slope-in-lapland-weather-conditions-and-more/",
+        "confidence": "media"
+      },
+      {
+        "label": "Posizione",
+        "value": "circa 170 km a nord del Circolo Polare Artico; 67°47′12″N 24°49′29″E",
+        "source": "https://en.wikipedia.org/wiki/Levi_Black",
+        "confidence": "media"
+      },
+      {
+        "label": "Calendario 2026/27",
+        "value": "SL femminile 14 nov 2026, SL maschile 15 nov 2026",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "media"
+      },
+      {
+        "label": "Illuminazione",
+        "value": "Nuova illuminazione LED sul pendio di Coppa del Mondo (articolo Yle, non esplicitamente riferito alla sola Levi Black)",
+        "source": "https://yle.fi/a/74-20116277",
+        "confidence": "media"
+      },
+      {
+        "label": "Neve",
+        "value": "Base di neve stoccata dall'inverno precedente (~40.000 m³ nel 2018; ~90.000 m³ secondo Yle più recente); pista iniettata d'acqua",
+        "source": "https://www.fis-ski.com/alpine-skiing/news/2018-19/green-light-for-the-world-cup-in-levi ; https://yle.fi/a/74-20116277",
+        "confidence": "fis"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza slalom (Levi Black)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 438,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Cancelletto dello slalom a 438 m; più in alto si trova la partenza del gigante, usata solo in allenamento.",
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf ; https://www.levi.fi/en/ski/training-groups/",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Pumping house hill (dosso della stazione di pompaggio)",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Dosso subito sotto la partenza dello slalom, citato dal resort come riferimento di pista; nome originale finlandese non trovato.",
+      "source": "https://www.levi.fi/en/ski/training-groups/",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Parte alta – ritmo (generico)",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Primo tratto di porte prima del ripido; nessun nome ufficiale trovato.",
+      "source": "",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "The steep one / jyrkänne (il muro)",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.55
+      },
+      "details": {
+        "gradient": "fino a 27,5° / 52%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto ripido principale; nel 2019 vi sono stati aggiunti alcuni dossi ('rollers') per rendere più difficile la pista.",
+      "source": "https://www.levi.fi/en/ski/training-groups/ ; https://www.fis-ski.com/alpine-skiing/news/2019-20/levi-black-is-ready-for-slalom-opening ; https://yle.fi/a/74-20116277",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Lower Preston's Pitch",
+      "kind": "wall",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": "27,5° / 52% (max)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Indicato da Wikipedia come la parte più ripida del tracciato; nome NON confermato da fonti ufficiali o stampa.",
+      "source": "https://en.wikipedia.org/wiki/Levi_Black",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Tratto meno ripido con dosso (generico)",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.85
+      },
+      "details": {
+        "gradient": "minima ~4% (pista)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "[GENERICO] Dove la pista è normalmente più piatta gli organizzatori hanno costruito un dosso più alto (2019); posizione esatta non nota.",
+      "source": "https://www.fis-ski.com/alpine-skiing/news/2019-20/levi-black-is-ready-for-slalom-opening ; https://www.essentiallysports.com/us-sports-news-alpine-skiing-news-everything-about-fis-ski-world-cup-levi-slope-in-lapland-weather-conditions-and-more/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Arrivo Levi Black",
+      "kind": "finish_slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 258,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 258 m, il più basso della Coppa femminile; qui il vincitore riceve una renna come premio.",
+      "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf ; https://www.aol.com/articles/santa-mikaela-shiffrin-american-star-135926781.html",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza slalom Levi Black (G.2)",
+    "description_it": "Partenza a 438 m sul versante dei Front Slopes del Levitunturi; sopra c'è la partenza del gigante usata solo in allenamento.",
+    "source": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf ; https://www.levi.fi/en/ski/training-groups/"
+  },
+  "finish_area": {
+    "name": "Arrivo Levi Black / Front Slopes",
+    "type": "slope_base",
+    "description_it": "Arrivo alla base dei Front Slopes di Levi a 258 m. Il vincitore riceve una renna vera (tradizione). Cerimonia d'apertura sul pendio frontale, gala alla Hullu Poro Areena. Nuova illuminazione LED sul pendio di Coppa.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": null,
+    "notable": [
+      "Premio renna al vincitore",
+      "Arrivo più basso del circuito femminile (258 m)",
+      "Illuminazione LED (Yle)",
+      "Cerimonie sul front slope; gala alla Hullu Poro Areena"
+    ],
+    "source": "https://www.fis-ski.com/alpine-skiing/news/2019-20/levi-black-is-ready-for-slalom-opening ; https://www.aol.com/articles/santa-mikaela-shiffrin-american-star-135926781.html ; https://yle.fi/a/74-20116277"
+  },
+  "environment": {
+    "forest": "Foresta boreale di conifere/betulle tipica della Lapponia (non verificato con fonte specifica)",
+    "above_treeline": "No: la pista è sotto la vetta del Levitunturi (fjell); dettaglio non verificato",
+    "rocks": "non documentato",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Front Slopes",
+        "description_it": "Nella zona dei Front Slopes salgono la seggiovia North, l'Express cabin lift e la Glacier Express; relazione esatta con la pista G.2 non documentata."
+      }
+    ],
+    "landmarks": [
+      "Levitunturi (fjell di Levi)",
+      "Hotel Panorama / Levi Summit (cima)",
+      "Area 'Levi Glacier' sui Front Slopes",
+      "Hullu Poro Areena"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "confirmed",
+      "note": "Partenza SL a 438 m (FIS)."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "wrong_order",
+      "note": "Le fonti indicano partenza → 'pumping house hill' → 'the steep one': il ripido non è all'inizio. Il nome è generico."
+    },
+    {
+      "archive_name": "Ritmo alto",
+      "status": "generic",
+      "note": "Nessun nome reale."
+    },
+    {
+      "archive_name": "Hairpin",
+      "status": "generic",
+      "note": "Elemento di tracciatura, non di pista."
+    },
+    {
+      "archive_name": "Verticale",
+      "status": "generic",
+      "note": "Elemento di tracciatura."
+    },
+    {
+      "archive_name": "Compressione",
+      "status": "not_found",
+      "note": "Nessuna compressione documentata; ci sono invece dossi ('rollers') sul ripido."
+    },
+    {
+      "archive_name": "Ritmo medio",
+      "status": "generic",
+      "note": "Nessun nome reale."
+    },
+    {
+      "archive_name": "Piatto",
+      "status": "generic",
+      "note": "Esiste un tratto più piatto con dosso (FIS 2019), posizione non nota."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "renamed",
+      "note": "Probabile corrispondenza con 'the steep one' / 'Lower Preston's Pitch' (nome incerto)."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "confirmed",
+      "note": "258 m."
+    },
+    {
+      "archive_name": "metrics.length '650 m circa'",
+      "status": "not_found",
+      "note": "Nessuna fonte per la lunghezza; non usare come dato reale."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.fis-ski.com/DB/pdf/2019/AL/0027/2019AL0027SLR1.pdf",
+      "title": "FIS results Levi M SL 18.11.2018 (run 1)",
+      "type": "fis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Levi_Black",
+      "title": "Levi Black – Wikipedia",
+      "type": "other"
+    },
+    {
+      "url": "https://www.levi.fi/en/ski/training-groups/",
+      "title": "Levi – Training groups (G.2 Levi Black)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.levi.fi/en/ski/slopes-and-lifts/",
+      "title": "Levi – Slopes and lifts",
+      "type": "official"
+    },
+    {
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2019-20/levi-black-is-ready-for-slalom-opening",
+      "title": "FIS – Levi Black is ready for slalom opening (2019)",
+      "type": "fis"
+    },
+    {
+      "url": "https://www.fis-ski.com/alpine-skiing/news/2018-19/green-light-for-the-world-cup-in-levi",
+      "title": "FIS – Green light for the World Cup in Levi (2018)",
+      "type": "fis"
+    },
+    {
+      "url": "https://yle.fi/a/74-20116277",
+      "title": "Yle – Palander, maailmancup Levillä",
+      "type": "media"
+    },
+    {
+      "url": "https://www.essentiallysports.com/us-sports-news-alpine-skiing-news-everything-about-fis-ski-world-cup-levi-slope-in-lapland-weather-conditions-and-more/",
+      "title": "EssentiallySports – Levi slope",
+      "type": "media"
+    },
+    {
+      "url": "https://www.aol.com/articles/santa-mikaela-shiffrin-american-star-135926781.html",
+      "title": "AP/AOL – Shiffrin ninth reindeer",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Lunghezza ufficiale del tracciato SL (non trovata; serve certificato di omologazione FIS 9324/11/09).",
+    "'Lower Preston's Pitch' compare solo su Wikipedia: verificare con organizzatori (leviworldcup) prima di usarlo come etichetta.",
+    "Nome finlandese del 'pumping house hill' e posizione esatta.",
+    "Posizione e capienza delle tribune nell'arena d'arrivo.",
+    "Se la gara 2026 sia serale con illuminazione LED."
+  ]
+}

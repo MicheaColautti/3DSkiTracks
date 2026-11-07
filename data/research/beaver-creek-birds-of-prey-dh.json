@@ -1,0 +1,542 @@
+{
+  "id": "beaver-creek-birds-of-prey-dh",
+  "course": "Birds of Prey",
+  "location": "Beaver Creek, Colorado (USA)",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 3483,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) ; https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    "finish_alt_m": {
+      "value": 2730,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) ; https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    "length_m": {
+      "value": 2752,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) (alpineskiworldcup.com: 2.623 m; 2003: 2.715 m)",
+      "confidence": "uncertain"
+    },
+    "vertical_m": {
+      "value": 753,
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) (altre cifre: 757 m nel 2003, 710 m)",
+      "confidence": "media"
+    },
+    "max_gradient": {
+      "value": "63% (32,3°)",
+      "where": "non localizzato con certezza; il testo Wikipedia indica 68% (34°) 'nella parte centrale' – in conflitto",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    "avg_gradient": {
+      "value": "31% (17°)",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course) ; https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    "other": [
+      {
+        "label": "Tempo record pista completa",
+        "value": "1:39.59 Daron Rahlves, dicembre 2003, media 98,2 km/h",
+        "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+        "confidence": "media"
+      },
+      {
+        "label": "Pista accorciata nov. 2018",
+        "value": "partenza 3.401 m, 2.070 m; Beat Feuz 1:13.59, media 101,2 km/h",
+        "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Velocità medie / porte",
+        "value": "circa 97 km/h (60 mph) di media, ~35 porte",
+        "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+        "confidence": "official"
+      },
+      {
+        "label": "Salto Red Tail",
+        "value": "fino a 70 m a ~113 km/h",
+        "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+        "confidence": "official"
+      },
+      {
+        "label": "Progettista",
+        "value": "Bernhard Russi",
+        "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+        "confidence": "official"
+      },
+      {
+        "label": "Dicembre 2025",
+        "value": "DH maschile anticipata a gio 4/12, partenza tradizionale, arrivo al salto Harrier (poca neve); vincitore Marco Odermatt",
+        "source": "https://bcworldcup.com/2025-spectators-guide/ ; https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+        "confidence": "official"
+      },
+      {
+        "label": "Femminile",
+        "value": "Discese/SG femminili sulla Birds of Prey dal 2024 (Hütter DH, Goggia SG); in calendario 11–13/12/2026",
+        "source": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+        "confidence": "uncertain"
+      },
+      {
+        "label": "Pista femminile Raptor",
+        "value": "costruita accanto alla Birds of Prey per i Mondiali 2015, test con gare WC femminili nov. 2013",
+        "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+        "confidence": "uncertain"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 3483,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza a 3.483 m, a ovest della Chair 8.",
+      "source": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "The Flyway",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.05
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto piatto iniziale dove contano scorrevolezza e sciolinatura; il nome ufficiale è 'Flyway' (Wikipedia scrive 'Flyaway').",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "The Brink",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Ripidissimo salto nel vuoto cieco, ghiacciato e mosso, seguito da una curva secca: per Bernhard Russi il punto più duro, dopo il quale bisogna 'cambiare completamente tecnica'. In cima c'è la partenza ribassata per maltempo.",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "The Talon",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.17
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Curva affrontata subito dopo il Brink, in piena pendenza; direzione non documentata.",
+      "source": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Pete's Arena",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.22
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Sezione citata nell'elenco Wikipedia tra Talon e Peregrine; nessuna descrizione o dedica verificata.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Peregrine",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.28
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Primo dei salti intitolati ai rapaci.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Rahlves' Roll",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.33
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto tra il salto Peregrine e Russi's Ride, 'parte critica della discesa', dedicato a Daron Rahlves (record 1:39.59 nel 2003).",
+      "source": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "confidence": "media"
+    },
+    {
+      "order": 8,
+      "name": "Russi's Ride",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.38
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Sezione dedicata al progettista Bernhard Russi, che 'spesso scuote' i concorrenti.",
+      "source": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "confidence": "media"
+    },
+    {
+      "order": 9,
+      "name": "Goshawk",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'astore'.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 10,
+      "name": "Screech Owl",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.52
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'assiolo'; nell'archivio era descritto come zona di compressioni.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 11,
+      "name": "Ligety's Legacy",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Sezione intitolata a Ted Ligety (oro GS Mondiali 2015 su questa pista) dal 2021; posizione esatta non documentata dalla fonte.",
+      "source": "https://skiracing.com/ligetys-legacy-cemented-into-the-fabric-of-birds-of-prey/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 12,
+      "name": "Golden Eagle",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.7
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'aquila reale'; nel 2025 (prima versione del programma) l'arrivo era previsto subito dopo questo salto.",
+      "source": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "confidence": "media"
+    },
+    {
+      "order": 13,
+      "name": "The Abyss",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Citata nell'elenco Wikipedia dopo Golden Eagle; tipo di terreno non documentato (nome suggerisce ripido).",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 14,
+      "name": "Miller's Revenge",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.82
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Area tra i salti Golden Eagle e Harrier, dedicata a Bode Miller; parte anche del suo 'wild ride' nella vittoria GS 2005.",
+      "source": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "confidence": "media"
+    },
+    {
+      "order": 15,
+      "name": "Harrier",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.9
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Salto 'albanella'; nel dicembre 2025 per mancanza di neve è stato il traguardo di gara di tutte le prove maschili.",
+      "source": "https://bcworldcup.com/2025-spectators-guide/",
+      "confidence": "official"
+    },
+    {
+      "order": 16,
+      "name": "Red Tail",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.96
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": 70,
+        "speed_kmh": 113
+      },
+      "description_it": "Ultimo salto davanti al traguardo e allo stadio: fino a 70 m di volo a circa 113 km/h (70 mph).",
+      "source": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "confidence": "official"
+    },
+    {
+      "order": 17,
+      "name": "Arrivo – Red Tail Stadium",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 2730,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a 2.730 m nello stadio John & Karen Arnold Red Tail Stadium.",
+      "source": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "confidence": "uncertain"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza discesa (a ovest della sommità della Chair 8)",
+    "description_it": "Partenza della discesa a 3.483 m, a ovest della cima della Chair 8; subito il tratto piatto della Flyway che richiede scorrevolezza e sciolinatura perfetta. Esiste una partenza ribassata 'foul-weather' in cima al Brink, usata nel 2025 per il super-G.",
+    "source": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse"
+  },
+  "finish_area": {
+    "name": "John & Karen Arnold Red Tail Stadium (Red Tail Camp)",
+    "type": "stadium",
+    "description_it": "Stadio d'arrivo alla base del salto Red Tail, alla confluenza delle Chair 10 e 11, circa 240 m di dislivello sopra il villaggio di Beaver Creek. Ribattezzato nell'ottobre 2024 in onore della donazione di John e Karen Arnold; tribune gratuite, area pubblica 'Public Perch' accanto all'arrivo, accesso con navette dal Covered Bridge e breve camminata sulla neve.",
+    "grandstands": true,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Tribune gratuite per il pubblico",
+      "Nel 2025 (poca neve) arrivo di gara spostato al salto Harrier, gli atleti proseguono poi fino all'arrivo tradizionale",
+      "Nessun accesso ski-in/ski-out nel 2025"
+    ],
+    "source": "https://bcworldcup.com/vail-valley-foundation-dedicates-stifel-birds-of-prey-world-cup-race-finish-venue-at-beaver-creek-to-honor-an-extraordinary-gift-from-john-and-karen-arnold/"
+  },
+  "environment": {
+    "forest": "Pista tagliata nel bosco sul versante di Beaver Creek (conifere/abeti e pioppi tremuli tipici della zona: NON verificato da fonte specifica).",
+    "above_treeline": "No: start a 3.483 m ma ancora in zona boscata/limite del bosco (non verificato).",
+    "rocks": "Nessuna fonte su affioramenti rocciosi rilevanti.",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "partenza",
+        "description_it": "La partenza della discesa è a ovest della sommità della Chair 8 (fonte alpineskiworldcup.com)."
+      },
+      {
+        "kind": "lift",
+        "where": "arrivo",
+        "description_it": "L'arrivo è alla base di Red Tail, alla confluenza delle Chair 10 e 11 (fonte alpineskiworldcup.com)."
+      }
+    ],
+    "landmarks": [
+      "Red Tail Camp (zona arrivo, ~240 m sopra il villaggio)",
+      "Beaver Creek Village",
+      "Public Perch (area pubblica accanto all'arrivo)"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "OK come etichetta generica di partenza (3.483 m)."
+    },
+    {
+      "archive_name": "Golden Eagle",
+      "status": "wrong_order",
+      "note": "Esiste ed è un SALTO nella parte bassa (dopo Ligety's Legacy, prima di Miller's Revenge/Harrier), non il 'primo muro ripidissimo': il muro iniziale è The Brink."
+    },
+    {
+      "archive_name": "Harrier Jump",
+      "status": "wrong_order",
+      "note": "Salto reale ma nella parte FINALE (penultimo salto prima di Red Tail, traguardo provvisorio 2025), non nella prima parte."
+    },
+    {
+      "archive_name": "Talon turn",
+      "status": "wrong_order",
+      "note": "Curva reale ('The Talon') ma subito dopo The Brink, nel primo terzo – va spostata prima di Golden Eagle/Harrier."
+    },
+    {
+      "archive_name": "Screech Owl",
+      "status": "confirmed",
+      "note": "Esiste; è un salto (Wikipedia), a metà pista dopo Goshawk. Tipo 'Passaggio' da cambiare in salto (incertezza)."
+    },
+    {
+      "archive_name": "Red Tail",
+      "status": "renamed",
+      "note": "È l'ULTIMO salto (fino a 70 m) prima dell'arrivo, non una 'fase di scorrimento'."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Rinominare 'Red Tail Stadium (John & Karen Arnold)'."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://bcworldcup.com/fis-alpine-ski-racing-101/",
+      "title": "Birds of Prey – FIS Alpine Ski Racing 101 (bcworldcup.com)",
+      "type": "official"
+    },
+    {
+      "url": "https://bcworldcup.com/2025-spectators-guide/",
+      "title": "2025 Spectator's Guide (bcworldcup.com)",
+      "type": "official"
+    },
+    {
+      "url": "https://bcworldcup.com/vail-valley-foundation-dedicates-stifel-birds-of-prey-world-cup-race-finish-venue-at-beaver-creek-to-honor-an-extraordinary-gift-from-john-and-karen-arnold/",
+      "title": "John and Karen Arnold Red Tail Stadium dedication (bcworldcup.com, 30/10/2024)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.vaildaily.com/sports-and-outdoors/birds-of-prey-names-new-course-areas-for-miller-rahlves-2/",
+      "title": "Birds of Prey names new course areas (Vail Daily)",
+      "type": "media"
+    },
+    {
+      "url": "https://skiracing.com/ligetys-legacy-cemented-into-the-fabric-of-birds-of-prey/",
+      "title": "Ligety's legacy cemented into the fabric of Birds of Prey (Ski Racing, 4/12/2021)",
+      "type": "media"
+    },
+    {
+      "url": "https://www.alpineskiworldcup.com/post/birds-of-prey-beaver-creek-racecourse",
+      "title": "Birds of Prey Beaver Creek racecourse (alpineskiworldcup.com)",
+      "type": "media"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Birds_of_Prey_(ski_course)",
+      "title": "Birds of Prey (ski course) – Wikipedia (solo puntatore)",
+      "type": "other"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIS_Alpine_Ski_World_Cup",
+      "title": "2026–27 FIS Alpine Ski World Cup – Wikipedia (calendario)",
+      "type": "other"
+    }
+  ],
+  "open_questions": [
+    "Ordine esatto di Pete's Arena, Goshawk, Screech Owl, Ligety's Legacy e The Abyss: unica fonte è l'elenco Wikipedia (fonti primarie non trovate; programma ufficiale BOP 2021 su issuu non letto).",
+    "Direzione (sinistra/destra) delle curve, inclusa The Talon: nessuna fonte.",
+    "Origine del nome 'Pete's Arena' non verificata.",
+    "Pendenza massima 63% vs 68% e sua posizione esatta (Brink?).",
+    "Lunghezza 2.752 m (Wikipedia) vs 2.623 m (alpineskiworldcup)."
+  ]
+}

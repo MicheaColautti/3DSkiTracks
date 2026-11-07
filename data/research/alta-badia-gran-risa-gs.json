@@ -1,0 +1,299 @@
+{
+  "id": "alta-badia-gran-risa-gs",
+  "course": "Gran Risa",
+  "location": "Alta Badia (La Villa / La Ila)",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 1868,
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1420,
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 1255,
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 448,
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "69%",
+      "where": "non indicato (probabilmente il muro/canalone centrale)",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "avg_gradient": {
+      "value": "36%",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    "other": [
+      {
+        "label": "Pendenza massima (fonte giornalistica, in conflitto)",
+        "value": "53%",
+        "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+        "confidence": "media"
+      },
+      {
+        "label": "Quote alternative",
+        "value": "partenza 1871 m, arrivo 1423 m",
+        "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+        "confidence": "media"
+      },
+      {
+        "label": "Esposizione",
+        "value": "prevalentemente a nord, in ombra tutto il giorno, neve veloce e talvolta ghiacciata",
+        "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+        "confidence": "official"
+      },
+      {
+        "label": "Etimologia",
+        "value": "Gran Risa = 'grande spaccatura' in ladino, canale usato per far scendere il legname",
+        "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+        "confidence": "media"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Piz La Ila",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": 0,
+        "alt_m": 1868,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Partenza appena sotto l'incrocio delle piste nera e rossa del Piz La Ila, seguita subito da una curva a destra in pendenza.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope ; https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Prima curva a destra e primo tratto",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Tratto iniziale ripido ma meno selettivo del resto della pista (etichetta generica).",
+      "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Seconda curva a destra",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.25
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Apre un altro breve settore (etichetta generica).",
+      "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 4,
+      "name": "Terza curva a destra – primo muro",
+      "kind": "wall/steep",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.38
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Dopo la curva verso destra inizia il primo muro, con pendenze importanti per diversi secondi (etichetta generica).",
+      "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Curva a sinistra e canalone ripido (lungo muro)",
+      "kind": "gorge/narrow",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.55
+      },
+      "details": {
+        "gradient": "fino a 69% (da confermare il punto)",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Una curva marcata immette in un canalone ripido e stretto: lungo muro dove linea e ritmo non ammettono errori. È il cuore della 'grande spaccatura' che dà il nome alla pista.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope ; https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Gobes dl giat (gobbe del gatto)",
+      "kind": "humps",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.85
+      },
+      "details": {
+        "gradient": ">40%",
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Due gobbe enormi su circa 150 m con pendenza oltre il 40%: l'ultimo ostacolo prima del traguardo, dopo il secondo cambio di direzione.",
+      "source": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "confidence": "media"
+    },
+    {
+      "order": 7,
+      "name": "Arrivo La Villa",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": 1420,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null,
+        "jump_length_m": null,
+        "speed_kmh": null
+      },
+      "description_it": "Traguardo a La Villa, nel bosco ai piedi del Piz La Ila.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Piz La Ila",
+    "description_it": "Partenza appena sotto la confluenza delle piste nera e rossa del Piz La Ila; raggiungibile da La Villa con la cabinovia Piz La Ila o dall'altopiano Piz La Ila – Piz Sorega.",
+    "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope"
+  },
+  "finish_area": {
+    "name": "Arrivo Gran Risa – La Villa",
+    "type": "village",
+    "description_it": "Arrivo a 1420 m a La Villa, vicino al paese; nessun dettaglio ufficiale su tribune e capienza trovato.",
+    "grandstands": null,
+    "capacity": null,
+    "night_race": false,
+    "notable": [
+      "Cabinovia Piz La Ila da La Villa"
+    ],
+    "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope"
+  },
+  "environment": {
+    "forest": "Pista nel bosco vicino a La Villa",
+    "above_treeline": "No (partenza a ~1870 m nel bosco/margine)",
+    "rocks": "Non documentato nelle fonti consultate",
+    "glacier": false,
+    "crossings": [
+      {
+        "kind": "lift",
+        "where": "Partenza/arrivo",
+        "description_it": "Cabinovia Piz La Ila collega La Villa all'area di partenza (tracciato preciso rispetto alla pista non documentato)."
+      }
+    ],
+    "landmarks": [
+      "Piz La Ila",
+      "La Villa"
+    ]
+  },
+  "archive_check": [
+    {
+      "archive_name": "Partenza",
+      "status": "generic",
+      "note": "Rinominare 'Partenza Piz La Ila'."
+    },
+    {
+      "archive_name": "Muro iniziale",
+      "status": "wrong_order",
+      "note": "Inizio ripido ma il primo vero muro arriva dopo la terza curva a destra."
+    },
+    {
+      "archive_name": "Curvone alto",
+      "status": "generic",
+      "note": "Ci sono tre curve a destra nella parte alta."
+    },
+    {
+      "archive_name": "Gobbe centrali",
+      "status": "wrong_order",
+      "note": "Le gobbe documentate (Gobes dl giat) sono nel finale, non al centro."
+    },
+    {
+      "archive_name": "Sezione cieca",
+      "status": "not_found",
+      "note": "Non trovata nelle fonti."
+    },
+    {
+      "archive_name": "Tratto tecnico",
+      "status": "generic",
+      "note": "Sostituire con 'Canalone ripido (lungo muro)'."
+    },
+    {
+      "archive_name": "Piatto corto",
+      "status": "not_found",
+      "note": "Non documentato."
+    },
+    {
+      "archive_name": "Muro finale",
+      "status": "renamed",
+      "note": "Il finale è caratterizzato dalle 'Gobes dl giat' (due gobbe, 150 m, >40%)."
+    },
+    {
+      "archive_name": "Arrivo",
+      "status": "generic",
+      "note": "Arrivo La Villa, 1420 m."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "title": "The Gran Risa slope – Alta Badia",
+      "type": "official"
+    },
+    {
+      "url": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "title": "OA Sport – La mitica Gran Risa ai raggi X (2018)",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Pendenza max: 69% (ufficiale) vs 53% (OA Sport) e posizione esatta non indicata.",
+    "Nomi ladini ufficiali di tratti diversi da 'Gobes dl giat' non trovati.",
+    "Tribune/capienza area arrivo non trovate.",
+    "s_approx stimati dall'ordine narrativo."
+  ]
+}
