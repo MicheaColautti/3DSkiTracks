@@ -24,17 +24,4 @@ Sul Canalone Miramonti la scala cambia. Lo slalom di Madonna di Campiglio concen
 
 Dalla pagina iniziale puoi scegliere una località oppure filtrare per specialità. Per visitare l’atlante offline, scarica il progetto e apri `index.html` nel browser.
 
-I diorami si basano su sei archetipi di terreno. Le geometrie sono illustrative (non rilievi GPS). I criteri di ricostruzione e le fonti dei dati sono raccolti in [Limiti e fonti](docs/LIMITI_E_FONTI.md).
-
-<details>
-<summary><strong>Aggiornare le mappe e pubblicare su GitHub Pages</strong></summary>
-
-Le schede delle piste si trovano in `data/research/`. Le configurazioni dei diorami sono in `data/course-configs.json` e l’interfaccia condivisa in `src/`. Dopo una modifica, rigenera le pagine dalla radice del progetto con Python 3.8 o successivo.
-
-```sh
-python3 build.py
-```
-
-Includi nel commit anche `index.html` e le pagine generate in `maps/`. Per la prima pubblicazione, apri **Settings → Pages**, scegli **Deploy from a branch**, seleziona il ramo che contiene il sito e la cartella **/(root)**, quindi premi **Save**. Mantieni `.nojekyll` alla radice. GitHub mostrerà l’indirizzo pubblico nella stessa schermata.
-
-</details>
+I diorami si basano su sei archetipi di terreno. Le geometrie sono illustrative (non rilievi GPS). I criteri di ricostruzione e le fonti dei dati sono 
