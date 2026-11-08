@@ -1,0 +1,127 @@
+{
+  "id": "copper-mountain-copper-cup-gs",
+  "course": "Copper Cup",
+  "location": "Copper Mountain",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza gigante",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Non indicata nella descrizione della gara.",
+      "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Pendio tecnico",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Andy's Encore e Ore Deal sono piste di allenamento: non provato che ospitino la gara.",
+      "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Rosi's Run",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Finale del venue Copper Cup.",
+      "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "East Village",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area d'arrivo e tribune dell'evento.",
+      "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza gigante",
+    "description_it": "Non indicata nella descrizione della gara.",
+    "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/"
+  },
+  "finish_area": {
+    "name": "East Village",
+    "type": "stadium",
+    "description_it": "Area d'arrivo e tribune dell'evento.",
+    "source": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.coppercolorado.com/copper-cup/athletes-mountain/alpine-ski-racing/",
+      "title": "Copper Mountain – Alpine ski racing",
+      "type": "official"
+    },
+    {
+      "url": "https://www.townoffrisco.com/event/copper-mountain-events/copper-cup/",
+      "title": "Copper Cup – evento",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

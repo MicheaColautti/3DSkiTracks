@@ -1,0 +1,148 @@
+{
+  "id": "lenzerheide-silvano-beltrametti-sg",
+  "course": "Silvano Beltrametti",
+  "location": "Lenzerheide",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 2160,
+      "confidence": "historic"
+    },
+    "finish_alt_m": {
+      "value": 1560,
+      "confidence": "historic"
+    },
+    "length_m": {
+      "value": 1867,
+      "confidence": "historic"
+    },
+    "vertical_m": {
+      "value": 600,
+      "confidence": "historic"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Hemmi-Kuppe",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Ciglio della partenza Super-G: l'imbocco non va preso troppo largo.",
+      "source": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Heimbergkante",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.25
+      },
+      "details": {
+        "gradient": "70%"
+      },
+      "description_it": "Ciglio ripido fino al 70% descritto dal comitato.",
+      "source": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Älpli-S",
+      "kind": "s-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Pendio che cade a destra, terreno irregolare e cambi di luce.",
+      "source": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Micken-Querfahrt",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traverso intitolato a Michelle Gisin nel 2022.",
+      "source": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Ziel Heimberg",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area d'arrivo al margine di Parpan (1.560 m nel SG FIS 2022).",
+      "source": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Hemmi-Kuppe",
+    "description_it": "Ciglio della partenza Super-G: l'imbocco non va preso troppo largo.",
+    "source": "https://www.weltcup-lenzerheide.ch/en/Race-track"
+  },
+  "finish_area": {
+    "name": "Ziel Heimberg",
+    "type": "stadium",
+    "description_it": "Area d'arrivo al margine di Parpan (1.560 m nel SG FIS 2022).",
+    "source": "https://www.weltcup-lenzerheide.ch/en/Race-track"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.weltcup-lenzerheide.ch/en/Race-track",
+      "title": "Weltcup Lenzerheide – Race track",
+      "type": "official"
+    },
+    {
+      "url": "https://www.fis-ski.com/DB/general/results.html?raceid=109001&sectorcode=AL",
+      "title": "FIS – Super-G 05/03/2022",
+      "type": "fis"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

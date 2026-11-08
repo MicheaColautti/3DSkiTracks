@@ -1,0 +1,161 @@
+{
+  "id": "bormio-stelvio-sg",
+  "course": "Stelvio",
+  "location": "Bormio",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Più bassa della discesa; posizione esatta non pubblicata.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Fontana Lunga – Ermellini",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto e curve della discesa; inclusione nel SG non dimostrata.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Carcentina",
+      "kind": "traverse",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Diagonale classica della Stelvio, attribuzione al SG da verificare.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Prati del Ciuk",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Pianoro a circa 1.638 m.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "San Pietro – Konta",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settori di velocità della parte bassa.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Stelvio Ski Stadium",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo ai margini del paese di Bormio.",
+      "source": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Super-G",
+    "description_it": "Più bassa della discesa; posizione esatta non pubblicata.",
+    "source": "https://www.bormioski.eu/coppa-del-mondo-bormio"
+  },
+  "finish_area": {
+    "name": "Stelvio Ski Stadium",
+    "type": "village",
+    "description_it": "Arrivo ai margini del paese di Bormio.",
+    "source": "https://www.bormioski.eu/coppa-del-mondo-bormio"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.bormioski.eu/pista-stelvio/",
+      "title": "Bormio Ski – Pista Stelvio",
+      "type": "official"
+    },
+    {
+      "url": "https://www.bormioski.eu/coppa-del-mondo-bormio",
+      "title": "Bormio – Coppa del Mondo",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

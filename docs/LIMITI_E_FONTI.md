@@ -56,3 +56,10 @@
 Tutte le 34 pagine aperte da `file://` in Chrome (headless, Linux) senza errori JavaScript; controllo visivo degli screenshot di: vista d'insieme per archetipo, traguardi dei 4 modelli (Streif, Stelvio, Lauberhorn, Sölden, Planai in notturna), Salto della Rocca, Gobbe del Cammello, Tunnel Jump.
 
 **Non verificato** (manca un Mac): interazione reale con mouse/trackpad/touch in Safari e Chrome, fluidità su Mac, iPhone/iPad.
+
+## Aggiornamento 8 novembre 2026: 34 nuove schede (38 gare)
+- Fonte: `docs/LiveSportArena_Ricerca_Piste_3D_2026-27.md`. Nuove località: Kvitfjell, St. Moritz, Lenzerheide, Saalbach, Dachstein West, Val di Fassa, Chamonix (slalom), Courchevel, Soldeu, Åre, Copper Mountain, Tremblant; nuove varianti a Adelboden, Alta Badia, Bormio, Flachau, Garmisch (Kandahar 2 SG e Kandahar 1 femminile), Jasná, Kitzbühel (Streifalm, Ganslern), Val Gardena, Wengen.
+- **Ogni variante è una scheda propria** (sede + genere + specialità): partenze, misure e passaggi della pista madre non vengono copiati su varianti diverse (es. la Streif non viene riusata per Streifalm/Ganslern, il Freier Fall non viene attribuito alla Kandahar 1 femminile).
+- **Dati tecnici in scheda** solo se dell'organizzatore o FIS per la gara attuale; valori storici (FIS 2022 Lenzerheide, Mondiali 2025 Saalbach, FIS 2024 Jasná) restano nei file di ricerca con affidabilità "historic" e non vengono mostrati.
+- **Posizioni lungo la pista**: a Kvitfjell (discesa maschile) ricavate dalle quote ufficiali dei settori; altrove stimate dall'ordine delle sezioni, perché non esistono progressive pubblicate. Sezioni la cui appartenenza alla variante non è provata sono marcate "incerte" nei file di ricerca.
+- **Bandiere aggiunte**: Norvegia, Svezia, Andorra, Canada.

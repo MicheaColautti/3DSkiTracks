@@ -1,0 +1,105 @@
+{
+  "id": "are-national-arena-sl",
+  "course": "National Arena",
+  "location": "Åre",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza SL",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Distinta dalla partenza del gigante.",
+      "source": "https://worldcupare.com/en/info-programme/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Parte ripida",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "L'organizzatore non nomina sezioni del pendio.",
+      "source": "https://worldcupare.com/en/info-programme/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Arrivo National Arena",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Zona dell'arena; quota non pubblicata.",
+      "source": "https://worldcupare.com/en/info-programme/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza SL",
+    "description_it": "Distinta dalla partenza del gigante.",
+    "source": "https://worldcupare.com/en/info-programme/"
+  },
+  "finish_area": {
+    "name": "Arrivo National Arena",
+    "type": "meadow",
+    "description_it": "Zona dell'arena; quota non pubblicata.",
+    "source": "https://worldcupare.com/en/info-programme/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://worldcupare.com/en/info-programme/",
+      "title": "World Cup Åre – Info",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

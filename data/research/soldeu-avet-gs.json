@@ -1,0 +1,149 @@
+{
+  "id": "soldeu-avet-gs",
+  "course": "Avet",
+  "location": "Soldeu",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": 2265,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1837,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 1242,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 428,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "65%",
+      "confidence": "official",
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza GS Avet",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "2.265 m, sopra il tratto dello slalom.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Parte alta ripida",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.22
+      },
+      "details": {
+        "gradient": "65%"
+      },
+      "description_it": "Tracciato tecnico ad alta pendenza (massimo 65% sull'intera pista).",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Parte centrale",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Passaggio con esposizione nord-est.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Settore basso",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.78
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settore condiviso con lo slalom.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Arrivo Soldeu",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo a 1.837 m nel settore Soldeu.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza GS Avet",
+    "description_it": "2.265 m, sopra il tratto dello slalom.",
+    "source": "https://www.grandvalira.com/en/resort/slopes/avet"
+  },
+  "finish_area": {
+    "name": "Arrivo Soldeu",
+    "type": "village",
+    "description_it": "Arrivo a 1.837 m nel settore Soldeu.",
+    "source": "https://www.grandvalira.com/en/resort/slopes/avet"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "title": "Grandvalira – Avet",
+      "type": "official"
+    },
+    {
+      "url": "https://events.grandvalira.com/en/noticia/soldeu-will-host-womens-alpine-skiing-world-cup-march-2027",
+      "title": "Soldeu ospita la Coppa del Mondo 2027",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

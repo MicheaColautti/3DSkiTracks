@@ -1,0 +1,127 @@
+{
+  "id": "chamonix-verte-des-houches-sl",
+  "course": "La Verte des Houches",
+  "location": "Chamonix",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 1169,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 985,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 624,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 184,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "45%",
+      "confidence": "official",
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza slalom",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Segmento basso della Verte, 1.169 m (non la cima del Prarion).",
+      "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Settore vallonato",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Parte bassa ondulata; i singoli dossi non sono nominati.",
+      "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Schuss final",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Passaggio conclusivo della zona bassa.",
+      "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Arrivée slalom",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traguardo a 985 m, quasi interamente visibile dalle tribune.",
+      "source": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza slalom",
+    "description_it": "Segmento basso della Verte, 1.169 m (non la cima del Prarion).",
+    "source": "https://chamonixworldcup.com/fr/la-course/la-piste"
+  },
+  "finish_area": {
+    "name": "Arrivée slalom",
+    "type": "meadow",
+    "description_it": "Traguardo a 985 m, quasi interamente visibile dalle tribune.",
+    "source": "https://chamonixworldcup.com/fr/la-course/la-piste"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://chamonixworldcup.com/fr/la-course/la-piste",
+      "title": "Chamonix World Cup – La piste",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

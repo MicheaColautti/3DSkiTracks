@@ -1,0 +1,115 @@
+{
+  "id": "soldeu-avet-sl",
+  "course": "Avet",
+  "location": "Soldeu",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 2047,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1837,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 609,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 210,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "65%",
+      "confidence": "official",
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza SL Avet",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "2.047 m, sotto il cancelletto del gigante.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Settore ripido inferiore",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": "65%"
+      },
+      "description_it": "Massima pendenza 65% indicata per la pista.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Arrivo Soldeu",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo a 1.837 m.",
+      "source": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza SL Avet",
+    "description_it": "2.047 m, sotto il cancelletto del gigante.",
+    "source": "https://www.grandvalira.com/en/resort/slopes/avet"
+  },
+  "finish_area": {
+    "name": "Arrivo Soldeu",
+    "type": "village",
+    "description_it": "Arrivo a 1.837 m.",
+    "source": "https://www.grandvalira.com/en/resort/slopes/avet"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.grandvalira.com/en/resort/slopes/avet",
+      "title": "Grandvalira – Avet",
+      "type": "official"
+    },
+    {
+      "url": "https://events.grandvalira.com/en/noticia/soldeu-will-host-womens-alpine-skiing-world-cup-march-2027",
+      "title": "Soldeu ospita la Coppa del Mondo 2027",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

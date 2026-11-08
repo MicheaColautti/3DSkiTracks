@@ -1,0 +1,105 @@
+{
+  "id": "wengen-lauberhorn-sl",
+  "course": "Lauberhorn",
+  "location": "Wengen",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza slalom",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settore tecnico diverso dalla partenza della discesa.",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Pendio tecnico",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Pendio dello slalom; i passaggi della discesa non si applicano.",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Zielarena Innerwengen",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area d'arrivo e pubblico del Lauberhorn.",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza slalom",
+    "description_it": "Settore tecnico diverso dalla partenza della discesa.",
+    "source": "https://www.lauberhorn.ch/rennen/"
+  },
+  "finish_area": {
+    "name": "Zielarena Innerwengen",
+    "type": "meadow",
+    "description_it": "Area d'arrivo e pubblico del Lauberhorn.",
+    "source": "https://www.lauberhorn.ch/rennen/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.lauberhorn.ch/rennen/",
+      "title": "Lauberhorn – Rennen",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

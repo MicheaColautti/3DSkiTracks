@@ -1,0 +1,235 @@
+{
+  "id": "garmisch-partenkirchen-kandahar-1-dh-w",
+  "course": "Kandahar 1",
+  "location": "Garmisch-Partenkirchen",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": 2920,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Kandahar 1 – Tröglhang",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza storica delle donne al Tröglhang, circa 1.490 m (fonte secondaria).",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "Schußanger",
+      "kind": "s-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.111
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Due curve nella prima parte del tracciato femminile.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Himmelreich",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.222
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Cambio di terreno dopo lo Schußanger, zona della partenza SG storica.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 4,
+      "name": "Waldeck",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.333
+      },
+      "details": {
+        "gradient": "55%"
+      },
+      "description_it": "Traverso ripido, storicamente il tratto più pendente della variante femminile.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 5,
+      "name": "Ramwiesen",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.444
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Deviazione che aggira l'Eishang (variante dal 2008).",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 6,
+      "name": "Höllentor",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.556
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Strettoia che riporta sul tracciato originario.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 7,
+      "name": "Hölle",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.667
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto buio e molto mosso, confermato anche dal gestore.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "FIS-Schneise",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.778
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Diagonale successiva alla Hölle.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 9,
+      "name": "Tauber-Schuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.889
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Innesto sul percorso maschile prima dell'arrivo.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "media"
+    },
+    {
+      "order": 10,
+      "name": "Arrivo Kandahar",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Kandahar-Arena accanto alla Kreuzeckbahn (770 m).",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Kandahar 1 – Tröglhang",
+    "description_it": "Partenza storica delle donne al Tröglhang, circa 1.490 m (fonte secondaria).",
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt"
+  },
+  "finish_area": {
+    "name": "Arrivo Kandahar",
+    "type": "stadium",
+    "description_it": "Kandahar-Arena accanto alla Kreuzeckbahn (770 m).",
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "title": "Zugspitze – Kandahar-Abfahrt (varianti 5a/5b)",
+      "type": "official"
+    },
+    {
+      "url": "https://www.skiweltcup-garmisch.com/kandahar-race-women/",
+      "title": "Skiweltcup Garmisch – Kandahar Race Women",
+      "type": "official"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Kandahar-Abfahrt_Garmisch",
+      "title": "Wikipedia – Kandahar-Abfahrt",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

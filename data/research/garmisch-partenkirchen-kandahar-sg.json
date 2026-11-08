@@ -1,0 +1,161 @@
+{
+  "id": "garmisch-partenkirchen-kandahar-sg",
+  "course": "Kandahar",
+  "location": "Garmisch-Partenkirchen",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Cancelletto SG 2027 non localizzato: più basso dello Starthang della discesa.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Eishang – Himmelreich",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settori della Kandahar descritti dal gestore; inclusione nel SG da dimostrare.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Seilbahnsprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto fino a 60 m secondo il gestore della Kandahar.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Freier Fall",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": "92%"
+      },
+      "description_it": "Muro del 92% della discesa; appartenenza al SG non verificata.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Tauber-Schuss",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto terminale della Kandahar.",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Arrivo Kreuzeckbahn",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Fondo pista presso la stazione a valle della Kreuzeckbahn (770 m).",
+      "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Super-G",
+    "description_it": "Cancelletto SG 2027 non localizzato: più basso dello Starthang della discesa.",
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt"
+  },
+  "finish_area": {
+    "name": "Arrivo Kreuzeckbahn",
+    "type": "stadium",
+    "description_it": "Fondo pista presso la stazione a valle della Kreuzeckbahn (770 m).",
+    "source": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://zugspitze.de/de/Unsere-Bergwelten/Highlights/Kandahar-Abfahrt",
+      "title": "Zugspitze – Kandahar-Abfahrt",
+      "type": "official"
+    },
+    {
+      "url": "https://www.skiweltcup-garmisch.com/kandahar-race-women/",
+      "title": "Skiweltcup Garmisch",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

@@ -1,0 +1,200 @@
+{
+  "id": "val-di-fassa-la-volata-dh",
+  "course": "La VolatA",
+  "location": "Val di Fassa",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 2510,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1880,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 2500,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 630,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "47%",
+      "confidence": "official",
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Col Margherita – partenza",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza presso la stazione a monte del Col Margherita, 2.510 m.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Muro Alberto",
+      "kind": "wall/steep",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Muro di 190 m con lieve curva a destra.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Pian del Fabion",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.22
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Circa 200 m di scorrimento subito dopo il Muro Alberto.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Muro Manfroi",
+      "kind": "wall/steep",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.32
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Cambio di pendenza di 280 m con svolta a sinistra.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "La Piana",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Circa 410 m di scorrimento con lieve curva verso i Muri del Poeta.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Muri del Poeta",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.62
+      },
+      "details": {
+        "gradient": "47%"
+      },
+      "description_it": "Il settore più tecnico, circa 1.000 m di muri e traversi.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Dosso del Camoscio",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.8
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Dossi e avvallamenti che introducono il finale.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Schuss finale – Passo San Pellegrino",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo a 1.880 m al Passo San Pellegrino.",
+      "source": "https://skiworldcup.fassa.com/la-volata",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Col Margherita – partenza",
+    "description_it": "Partenza presso la stazione a monte del Col Margherita, 2.510 m.",
+    "source": "https://skiworldcup.fassa.com/la-volata"
+  },
+  "finish_area": {
+    "name": "Schuss finale – Passo San Pellegrino",
+    "type": "meadow",
+    "description_it": "Arrivo a 1.880 m al Passo San Pellegrino.",
+    "source": "https://skiworldcup.fassa.com/la-volata"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://skiworldcup.fassa.com/la-volata",
+      "title": "Val di Fassa – La VolatA",
+      "type": "official"
+    },
+    {
+      "url": "https://skiworldcup.fassa.com/it/ski-world-cup/news/la-coppa-del-mondo-di-sci-torna-in-val-di-fassa",
+      "title": "La Coppa del Mondo torna in Val di Fassa",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

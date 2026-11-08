@@ -1,0 +1,122 @@
+{
+  "id": "flachau-hermann-maier-weltcupstrecke-gs",
+  "course": "Hermann Maier Weltcupstrecke",
+  "location": "Flachau",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza gigante",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Nuova partenza GS 2027, non ancora documentata.",
+      "source": "https://skiweltcup-flachau.at/en/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Pendio Grießenkar",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Pendio della pista madre Hermann Maier; nessun toponimo per i passaggi GS.",
+      "source": "https://skiweltcup-flachau.at/en/",
+      "confidence": "media"
+    },
+    {
+      "order": 3,
+      "name": "Settore basso – Star Jet 1",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Parte bassa presso l'impianto Star Jet 1.",
+      "source": "https://skiweltcup-flachau.at/en/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Zielbereich",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arena di paese in notturna.",
+      "source": "https://skiweltcup-flachau.at/en/",
+      "confidence": "media"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza gigante",
+    "description_it": "Nuova partenza GS 2027, non ancora documentata.",
+    "source": "https://skiweltcup-flachau.at/en/"
+  },
+  "finish_area": {
+    "name": "Zielbereich",
+    "type": "village",
+    "description_it": "Arena di paese in notturna.",
+    "source": "https://skiweltcup-flachau.at/en/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://skiweltcup-flachau.at/en/",
+      "title": "Skiweltcup Flachau",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

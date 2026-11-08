@@ -1,6 +1,6 @@
 # 3DSkiTracks
 
-**3DSkiTracks è il componente di LiveSportArena dedicato alle piste della Coppa del Mondo di sci alpino.** Raccoglie 34 diorami interattivi per 23 piste di discesa libera, super-G, gigante e slalom. Puoi seguire una gara curva per curva, individuare un salto di cui hai sentito parlare in telecronaca o guardare dall’alto il tratto che precede l’arrivo.
+**3DSkiTracks è il componente di LiveSportArena dedicato alle piste della Coppa del Mondo di sci alpino.** Raccoglie 68 diorami interattivi per 38 piste di discesa libera, super-G, gigante e slalom: tutte le gare della stagione 2026/27. Puoi seguire una gara curva per curva, individuare un salto di cui hai sentito parlare in telecronaca o guardare dall’alto il tratto che precede l’arrivo.
 
 ![Il diorama del Lauberhorn a Wengen, con i punti selezionabili lungo la discesa e la scheda tecnica della pista](docs/images/wengen-lauberhorn-dh.png)
 
@@ -24,7 +24,7 @@ Sul Canalone Miramonti la scala cambia. Lo slalom di Madonna di Campiglio concen
 
 Dalla pagina iniziale puoi scegliere una località oppure filtrare per specialità. Per visitare l’atlante offline, scarica il progetto e apri `index.html` nel browser.
 
-I diorami si basano su sei archetipi di terreno. Le geometrie sono illustrative (non rilievi GPS). I criteri di ricostruzione e le fonti dei dati sono raccolti in [Limiti e fonti](LIMITI_E_FONTI.md).
+I diorami si basano su sei archetipi di terreno. Le geometrie sono illustrative (non rilievi GPS). I criteri di ricostruzione e le fonti dei dati sono raccolti in [Limiti e fonti](docs/LIMITI_E_FONTI.md).
 
 <details>
 <summary><strong>Aggiornare le mappe e pubblicare su GitHub Pages</strong></summary>

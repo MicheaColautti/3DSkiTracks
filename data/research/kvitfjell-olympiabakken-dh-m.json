@@ -1,0 +1,368 @@
+{
+  "id": "kvitfjell-olympiabakken-dh-m",
+  "course": "Olympiabakken",
+  "location": "Kvitfjell",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": 1020,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": "64%",
+      "confidence": "official",
+      "where": "Wintherhogget"
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": [
+      {
+        "label": "Quota cresta Kvitfjelleggen",
+        "value": "1.027 m",
+        "confidence": "official"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Kvitfjelleggen",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza della discesa maschile sulla cresta: starthouse a 1.020 m, la cresta è a 1.027 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Gaupereksla",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.072
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Primo tratto tra 1.020 e 900 m, con la prima curva a destra.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Orresvingen",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.144
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curva a circa 900 m, vicina alla partenza della discesa femminile.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Wintherhogget",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.215
+      },
+      "details": {
+        "gradient": "64%"
+      },
+      "description_it": "Muro tra 870 e 810 m, fino al 64% di pendenza: taglia il bosco.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Sletten",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.281
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settore più distensivo tra due punti tecnici (870–700 m).",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Russispranget",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.416
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto tra 700 e 645 m: in condizioni favorevoli si vola per 70–80 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Jansrudhoppet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto a circa 644 m, subito dopo il Russispranget.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Elgtraversen",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.49
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traverso tra 640 e 580 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "S-Svingen",
+      "kind": "s-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.574
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curve a S tra 580 e 500 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Bukkerittet",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.658
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traverso irregolare tra 500 e 440 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 11,
+      "name": "Bøygen",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.724
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curva con restringimento tra 440 e 390 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 12,
+      "name": "Tommy Moe-kanalen",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.801
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Canale tecnico tra 390 e 310 m, dedicato al campione olimpico 1994.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 13,
+      "name": "Løftet",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.849
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Ciglio a circa 310 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 14,
+      "name": "Klemma",
+      "kind": "compression",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.897
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Compressione e strettoia a circa 270 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 15,
+      "name": "Tunnelhoppet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.945
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto a circa 230 m, presso l'attraversamento della strada pubblica.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 16,
+      "name": "Mæhlumsgeilen",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.972
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto finale tra 230 e 184 m.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 17,
+      "name": "Målhoppet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.987
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto finale a circa 190 m, vicino alla ferrovia e al traguardo.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 18,
+      "name": "Arrivo Kvitfjell",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo del corso olimpico a fondo valle (184 m).",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Kvitfjelleggen",
+    "description_it": "Partenza della discesa maschile sulla cresta: starthouse a 1.020 m, la cresta è a 1.027 m.",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "finish_area": {
+    "name": "Arrivo Kvitfjell",
+    "type": "meadow",
+    "description_it": "Arrivo del corso olimpico a fondo valle (184 m).",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://worldcupkvitfjell.no/en/courses",
+      "title": "Kvitfjell World Cup – Courses",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

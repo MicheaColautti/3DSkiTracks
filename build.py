@@ -15,7 +15,8 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 P = lambda *a: os.path.join(ROOT, *a)
 
 ISO = {"Svizzera": "CH", "Austria": "AT", "Italia": "IT", "Francia": "FR", "Germania": "DE",
-       "USA": "US", "Finlandia": "FI", "Slovenia": "SI", "Slovacchia": "SK"}
+       "USA": "US", "Finlandia": "FI", "Slovenia": "SI", "Slovacchia": "SK",
+       "Norvegia": "NO", "Svezia": "SE", "Andorra": "AD", "Canada": "CA"}
 GENDER = {"M": "Maschile", "W": "Femminile", "ALL": "Maschile e femminile"}
 
 DEFAULTS = {
@@ -236,6 +237,9 @@ def resolve(track, cfg, research, arch_all, disc_all):
 
     def find(prefix):
         for p in poi:
+            if p["name"] == prefix:
+                return p
+        for p in poi:
             if p["name"].startswith(prefix):
                 return p
         raise KeyError(f'{track["id"]}: sezione "{prefix}" non trovata')
@@ -317,7 +321,7 @@ def main():
     flags = open(P("src", "flags.json"), encoding="utf-8").read().strip()
     js = "\n".join(open(P("src", f), encoding="utf-8").read() for f in ("engine.js", "features.js", "ui.js"))
     os.makedirs(P("maps"), exist_ok=True)
-    assert len(tracks) == len(cfgs) == 34, (len(tracks), len(cfgs))
+    assert len(tracks) == len(cfgs), (len(tracks), len(cfgs))
     entries = []
     for t in tracks:
         research = json.load(open(P("data", "research", t["id"] + ".json"), encoding="utf-8"))
@@ -349,11 +353,14 @@ def write_index(entries, css):
     order = {"DH": 0, "SG": 1, "GS": 2, "SL": 3}
     cards = []
     for (loc, course, iso, country), items in groups.items():
+        mixed = len({c["gender"] for c in items}) > 1
+        glab = {"Maschile": "uomini", "Femminile": "donne"}
         links = "".join(
             f'<a class="disc d-{c["discipline"]}" data-disc="{c["discipline"]}" href="maps/{c["id"]}.html">'
-            f'<b>{c["discipline"]}</b><span>{html.escape(c["disciplineLabel"])}</span>'
+            f'<b>{c["discipline"]}</b><span>{html.escape(c["disciplineLabel"])}'
+            + (f' · {glab.get(c["gender"], "")}' if mixed and c["gender"] in glab else "") + '</span>'
             f'<em>{html.escape(c["archetypeLabel"])}</em></a>'
-            for c in sorted(items, key=lambda c: order[c["discipline"]]))
+            for c in sorted(items, key=lambda c: (order[c["discipline"]], c["gender"])))
         discs = " ".join(c["discipline"] for c in items)
         cards.append(f'<article class="card" data-discs="{discs}"><div class="cardHead"><span class="flag" data-iso="{iso}"></span>'
                      f'<div><h2>{html.escape(loc)}</h2><p>{html.escape(course)} · {html.escape(country)}</p></div></div>'

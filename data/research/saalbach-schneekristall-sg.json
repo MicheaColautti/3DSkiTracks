@@ -1,0 +1,130 @@
+{
+  "id": "saalbach-schneekristall-sg",
+  "course": "Schneekristall",
+  "location": "Saalbach",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 1780,
+      "confidence": "historic"
+    },
+    "finish_alt_m": {
+      "value": 1060,
+      "confidence": "historic"
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": 720,
+      "confidence": "historic"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start Super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza più bassa della discesa (1.780 m nel profilo 2025).",
+      "source": "https://www.saalbach.com/skiworldcup",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Sezioni alte",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.3
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tracciato separato nella grafica 2025, senza nomi per le curve.",
+      "source": "https://www.saalbach.com/skiworldcup",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Scorrimento e muri",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.6
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Ordine preciso e toponimi non trovati.",
+      "source": "https://www.saalbach.com/skiworldcup",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Arrivo Zwölferkogel",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area d'arrivo comune, storicamente circa 1.060 m.",
+      "source": "https://www.saalbach.com/skiworldcup",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Super-G",
+    "description_it": "Partenza più bassa della discesa (1.780 m nel profilo 2025).",
+    "source": "https://www.saalbach.com/skiworldcup"
+  },
+  "finish_area": {
+    "name": "Arrivo Zwölferkogel",
+    "type": "stadium",
+    "description_it": "Area d'arrivo comune, storicamente circa 1.060 m.",
+    "source": "https://www.saalbach.com/skiworldcup"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://press.austria.info/fileadmin/user_upload/Imported/uk/Winter_2024_25/Saalbach/Media_Kit_FIS_Alpine_World_Ski_Championships_Saalbach_2025.pdf",
+      "title": "Media kit Mondiali Saalbach 2025",
+      "type": "official"
+    },
+    {
+      "url": "https://www.saalbach.com/skiworldcup",
+      "title": "Saalbach Ski World Cup",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

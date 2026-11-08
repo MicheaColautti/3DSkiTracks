@@ -1,0 +1,183 @@
+{
+  "id": "val-gardena-saslong-sg",
+  "course": "Saslong",
+  "location": "Val Gardena",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 2000,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1410,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 2365,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 590,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "55,9%",
+      "confidence": "official",
+      "where": "Sochers"
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "2.000 m nel media kit ufficiale, circa dopo il Saut dl Moro.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Muri di Sochers",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.18
+      },
+      "details": {
+        "gradient": "55,9%"
+      },
+      "description_it": "Complesso di muri e cambi di direzione a 1.900 m, fino al 55,9%.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Gobbe del Cammello",
+      "kind": "humps",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.33
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto a 1.813 m; transito del SG da verificare nell'edizione.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Ciaslat",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto ondulato con 17 dossi documentati.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Nucia",
+      "kind": "turn",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curva verso sinistra che lancia lo schuss finale.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Tunnel Jump",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.88
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto sopra la galleria stradale di Santa Cristina.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Arrivo Ruacia",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Stadio d'arrivo a Santa Cristina, 1.410 m.",
+      "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Super-G",
+    "description_it": "2.000 m nel media kit ufficiale, circa dopo il Saut dl Moro.",
+    "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf"
+  },
+  "finish_area": {
+    "name": "Arrivo Ruacia",
+    "type": "village",
+    "description_it": "Stadio d'arrivo a Santa Cristina, 1.410 m.",
+    "source": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.saslong.org/fileadmin/template/files/pdf/news/2024/it-media-kit-audi-fis-skiweltcup-groeden-2024.pdf",
+      "title": "Media kit Saslong 2024",
+      "type": "official"
+    },
+    {
+      "url": "https://www.saslong.org/en/races/",
+      "title": "Saslong – Races",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

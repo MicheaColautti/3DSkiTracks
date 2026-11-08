@@ -1,0 +1,123 @@
+{
+  "id": "kvitfjell-olympiabakken-sg-w",
+  "course": "Olympiabakken",
+  "location": "Kvitfjell",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": 2170,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Super-G femminile",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza propria rappresentata nel profilo femminile ufficiale.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Muri e traversi intermedi",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.45
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settori del corso olimpico; non è dimostrato che coincidano con quelli maschili.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Pendio finale",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.85
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Zona finale del profilo ufficiale.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Arrivo Kvitfjell",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo del Super-G femminile; lunghezza ufficiale 2.170 m (rettifica dell'organizzatore).",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Super-G femminile",
+    "description_it": "Partenza propria rappresentata nel profilo femminile ufficiale.",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "finish_area": {
+    "name": "Arrivo Kvitfjell",
+    "type": "meadow",
+    "description_it": "Arrivo del Super-G femminile; lunghezza ufficiale 2.170 m (rettifica dell'organizzatore).",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://worldcupkvitfjell.no/en/courses",
+      "title": "Kvitfjell World Cup – Courses",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "kvitfjell-olympiabakken-dh-w",
+  "course": "Olympiabakken",
+  "location": "Kvitfjell",
+  "discipline": "DH",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza discesa femminile",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza propria, distinta da quella maschile (profilo ufficiale dedicato).",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Orresvingen",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.12
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curva vicina alla partenza della discesa femminile secondo l'organizzatore.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Wintherhogget",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.25
+      },
+      "details": {
+        "gradient": "64%"
+      },
+      "description_it": "Muro del corso olimpico; appartenenza al tracciato femminile da verificare sul profilo.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 4,
+      "name": "Sletten",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.38
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Scorrimento del corso olimpico, da verificare per la gara femminile.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 5,
+      "name": "Settore inferiore",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.82
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Parte bassa del corso olimpico verso il traguardo.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Arrivo Kvitfjell",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo del profilo femminile ufficiale; quota non trascritta.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza discesa femminile",
+    "description_it": "Partenza propria, distinta da quella maschile (profilo ufficiale dedicato).",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "finish_area": {
+    "name": "Arrivo Kvitfjell",
+    "type": "meadow",
+    "description_it": "Arrivo del profilo femminile ufficiale; quota non trascritta.",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://worldcupkvitfjell.no/en/courses",
+      "title": "Kvitfjell World Cup – Courses",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

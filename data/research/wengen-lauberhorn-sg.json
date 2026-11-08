@@ -1,0 +1,110 @@
+{
+  "id": "wengen-lauberhorn-sg",
+  "course": "Lauberhorn",
+  "location": "Wengen",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Super-G",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza sul Lauberhorn più bassa della discesa (circa 2.025 m secondo fonte secondaria).",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "media"
+    },
+    {
+      "order": 2,
+      "name": "Settori intermedi",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Non è verificato quali passaggi della discesa (Hundschopf, Canadian Corner…) siano inclusi.",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Innerwengen",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Zielarena di Innerwengen con tribune temporanee.",
+      "source": "https://www.lauberhorn.ch/rennen/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Super-G",
+    "description_it": "Partenza sul Lauberhorn più bassa della discesa (circa 2.025 m secondo fonte secondaria).",
+    "source": "https://www.lauberhorn.ch/rennen/"
+  },
+  "finish_area": {
+    "name": "Innerwengen",
+    "type": "meadow",
+    "description_it": "Zielarena di Innerwengen con tribune temporanee.",
+    "source": "https://www.lauberhorn.ch/rennen/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.lauberhorn.ch/rennen/",
+      "title": "Lauberhorn – Rennen",
+      "type": "official"
+    },
+    {
+      "url": "https://www.lauberhorn.ch/tickets/uebersicht/kategorien/",
+      "title": "Lauberhorn – Arena",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

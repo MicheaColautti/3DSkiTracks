@@ -1,0 +1,191 @@
+{
+  "id": "kvitfjell-olympiabakken-sg-m",
+  "course": "Olympiabakken",
+  "location": "Kvitfjell",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": "64%",
+      "confidence": "official",
+      "where": "Wintherhogget"
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza SG – Wintherhogget",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": "64%"
+      },
+      "description_it": "Partenza a circa 860 m direttamente sul muro del Wintherhogget (fino al 64%).",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Sletten",
+      "kind": "gliding",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.143
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settore di alleggerimento verso il salto.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Russispranget",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.286
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto sotto Sletten; presenza nel SG da ricontrollare sul profilo.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Jansrudhoppet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.429
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto a circa 644 m; transito preciso del SG da verificare.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Elgtraversen – S-Svingen",
+      "kind": "s-turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.571
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traverso e curve a S del corso olimpico inferiore, da verificare sul profilo SG.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 6,
+      "name": "Tommy Moe-kanalen – Klemma",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.714
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Canale tecnico e compressione dei settori bassi, da verificare sul profilo SG.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 7,
+      "name": "Tunnelhoppet – Målhoppet",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.857
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salti presso strada e ferrovia nel corso generale, da verificare per il SG.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 8,
+      "name": "Arrivo Kvitfjell",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo nel settore comune inferiore del corso olimpico.",
+      "source": "https://worldcupkvitfjell.no/en/courses",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza SG – Wintherhogget",
+    "description_it": "Partenza a circa 860 m direttamente sul muro del Wintherhogget (fino al 64%).",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "finish_area": {
+    "name": "Arrivo Kvitfjell",
+    "type": "meadow",
+    "description_it": "Arrivo nel settore comune inferiore del corso olimpico.",
+    "source": "https://worldcupkvitfjell.no/en/courses"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://worldcupkvitfjell.no/en/courses",
+      "title": "Kvitfjell World Cup – Courses",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "jasna-lukova-sl",
+  "course": "Luková – Koliesko",
+  "location": "Jasná",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 1450,
+      "confidence": "historic"
+    },
+    "finish_alt_m": {
+      "value": 1250,
+      "confidence": "historic"
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": 200,
+      "confidence": "historic"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start Luková 2",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "1.450 m nei documenti FIS 2024, non certa per il 2027.",
+      "source": "https://www.worldcupjasna.sk/en/schedule",
+      "confidence": "fis"
+    },
+    {
+      "order": 2,
+      "name": "Pendio Luková 2",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Le fonti non nominano sezioni intermedie.",
+      "source": "https://www.worldcupjasna.sk/en/schedule",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Koliesko",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arena d'arrivo a 1.250 m (FIS 2024).",
+      "source": "https://www.worldcupjasna.sk/en/schedule",
+      "confidence": "fis"
+    }
+  ],
+  "start_area": {
+    "name": "Start Luková 2",
+    "description_it": "1.450 m nei documenti FIS 2024, non certa per il 2027.",
+    "source": "https://www.worldcupjasna.sk/en/schedule"
+  },
+  "finish_area": {
+    "name": "Koliesko",
+    "type": "stadium",
+    "description_it": "Arena d'arrivo a 1.250 m (FIS 2024).",
+    "source": "https://www.worldcupjasna.sk/en/schedule"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.worldcupjasna.sk/en/schedule",
+      "title": "World Cup Jasná – Programma",
+      "type": "official"
+    },
+    {
+      "url": "https://www.worldcupjasna.sk/fileadmin/resort_upload/wcj/pdf/Startovacie_listiny/Startovacia_listina_2.kolo_slalom.pdf",
+      "title": "Start list FIS 2024",
+      "type": "fis"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

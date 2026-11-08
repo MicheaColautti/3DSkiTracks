@@ -1,0 +1,139 @@
+{
+  "id": "tremblant-flying-mile-gs",
+  "course": "Flying Mile",
+  "location": "Tremblant",
+  "discipline": "GS",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza Flying Mile",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Settore alto ripido con angoli mutevoli.",
+      "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Ripidi alti",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.2
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Sequenza alta tecnicamente severa.",
+      "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Tratto centrale con rollers",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Sezione più piatta con dossi e cambi di terreno.",
+      "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Johansson Pitch",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.82
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Ultimo ripido prima della linea d'arrivo.",
+      "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Arrivo nel villaggio",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo nel centro pedonale di Mont-Tremblant.",
+      "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza Flying Mile",
+    "description_it": "Settore alto ripido con angoli mutevoli.",
+    "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/"
+  },
+  "finish_area": {
+    "name": "Arrivo nel villaggio",
+    "type": "village",
+    "description_it": "Arrivo nel centro pedonale di Mont-Tremblant.",
+    "source": "https://coupedumonde.tremblant.ca/en/why-flying-mile/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://coupedumonde.tremblant.ca/en/why-flying-mile/",
+      "title": "Tremblant – Why Flying Mile",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "st-moritz-engiadina-sg",
+  "course": "Engiadina",
+  "location": "St. Moritz",
+  "discipline": "SG",
+  "facts": {
+    "start_alt_m": {
+      "value": 2590,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": 1950,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": "28%",
+      "confidence": "official"
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Berthod-Kante",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza del Super-G sulla cresta a 2.590 m.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Lanigiro",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.143
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Passaggio alto dopo la Berthod-Kante.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Mauritius-Hang",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.286
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Muro che segue il Lanigiro.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Panoramakurve – Mauer",
+      "kind": "turn",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.429
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "La curva panoramica aggira la Mauer.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Weisses Band",
+      "kind": "schuss/straight",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.571
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Schuss in direzione del Reinaltersprung.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Reinaltersprung",
+      "kind": "jump",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.714
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Salto del tratto inferiore.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Engnis – Lärchenweg",
+      "kind": "gorge/narrow",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.857
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Strettoia e settore dei larici prima dell'arrivo.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Salastrains",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area d'arrivo sui pendii di Corviglia.",
+      "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Berthod-Kante",
+    "description_it": "Partenza del Super-G sulla cresta a 2.590 m.",
+    "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke"
+  },
+  "finish_area": {
+    "name": "Salastrains",
+    "type": "meadow",
+    "description_it": "Area d'arrivo sui pendii di Corviglia.",
+    "source": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.skiweltcup-stmoritz.ch/de/race-info/rennstrecke",
+      "title": "Ski Weltcup St. Moritz – Rennstrecke",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

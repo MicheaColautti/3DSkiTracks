@@ -1,0 +1,109 @@
+{
+  "id": "courchevel-emile-allais-sl",
+  "course": "Stade Émile-Allais",
+  "location": "Courchevel",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 2015,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 1795,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 614,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 220,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Départ Émile-Allais",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza a 2.015 m nel settore La Loze.",
+      "source": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Pendio dello stadio",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Il sito non nomina curve e ripidi intermedi.",
+      "source": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 3,
+      "name": "Arrivée Émile-Allais",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traguardo a 1.795 m vicino al centro di Courchevel 1850; illuminazione dal 2020.",
+      "source": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Départ Émile-Allais",
+    "description_it": "Partenza a 2.015 m nel settore La Loze.",
+    "source": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/"
+  },
+  "finish_area": {
+    "name": "Arrivée Émile-Allais",
+    "type": "stadium",
+    "description_it": "Traguardo a 1.795 m vicino al centro di Courchevel 1850; illuminazione dal 2020.",
+    "source": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://ski.worldcupcourchevel.com/en/stade-emile-allais/",
+      "title": "Courchevel World Cup – Stade Émile-Allais",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

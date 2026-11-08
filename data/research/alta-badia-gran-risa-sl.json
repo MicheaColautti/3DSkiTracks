@@ -1,0 +1,127 @@
+{
+  "id": "alta-badia-gran-risa-sl",
+  "course": "Gran Risa",
+  "location": "Alta Badia",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza slalom",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Nel settore inferiore della Gran Risa, non alla partenza del gigante.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Settore nel bosco",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.4
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Pendio ripido nel bosco; sequenza delle porte non pubblicata.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Gobes dl giat",
+      "kind": "humps",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.75
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Due gobbe del finale del gigante; inclusione nello slalom da confermare.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "media"
+    },
+    {
+      "order": 4,
+      "name": "Arrivo La Villa",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo tradizionale della Gran Risa a 1.420 m.",
+      "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza slalom",
+    "description_it": "Nel settore inferiore della Gran Risa, non alla partenza del gigante.",
+    "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope"
+  },
+  "finish_area": {
+    "name": "Arrivo La Villa",
+    "type": "village",
+    "description_it": "Arrivo tradizionale della Gran Risa a 1.420 m.",
+    "source": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.altabadia.org/en/poi/what-to-do-in-alta-badia/detail/poi/the-gran-risa-slope",
+      "title": "Alta Badia – Gran Risa",
+      "type": "official"
+    },
+    {
+      "url": "https://www.oasport.it/2018/12/sci-alpino-gigante-alta-badia-2018-la-mitica-gran-risa-ai-raggi-x-un-pendio-tra-i-piu-difficili-al-mondo/amp/",
+      "title": "OA Sport – Gran Risa ai raggi X",
+      "type": "media"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

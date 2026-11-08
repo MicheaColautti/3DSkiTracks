@@ -1,0 +1,110 @@
+{
+  "id": "dachstein-west-hornspitz-sl",
+  "course": "Hornspitz",
+  "location": "Dachstein West",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": null
+    },
+    "finish_alt_m": {
+      "value": null
+    },
+    "length_m": {
+      "value": null
+    },
+    "vertical_m": {
+      "value": null
+    },
+    "max_gradient": {
+      "value": null,
+      "where": ""
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Partenza SL Hornspitz",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Partenza distinta da quella del gigante.",
+      "source": "https://www.dachstein.at/en/skiweltcup",
+      "confidence": "uncertain"
+    },
+    {
+      "order": 2,
+      "name": "Pendio SL",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.5
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Area di gara rappresentata nella mappa ufficiale per le squadre.",
+      "source": "https://www.dachstein.at/en/skiweltcup",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Zielbereich Hornspitz",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Zona d'arrivo con accesso spettatori.",
+      "source": "https://www.dachstein.at/en/skiweltcup",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Partenza SL Hornspitz",
+    "description_it": "Partenza distinta da quella del gigante.",
+    "source": "https://www.dachstein.at/en/skiweltcup"
+  },
+  "finish_area": {
+    "name": "Zielbereich Hornspitz",
+    "type": "stadium",
+    "description_it": "Zona d'arrivo con accesso spettatori.",
+    "source": "https://www.dachstein.at/en/skiweltcup"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://www.dachstein.at/en/skiweltcup",
+      "title": "Dachstein West – Skiweltcup",
+      "type": "official"
+    },
+    {
+      "url": "https://www.dachstein.at/en/skiweltcup/team-info-ski-world-cup",
+      "title": "Team info",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}

@@ -1,0 +1,229 @@
+{
+  "id": "kitzbuhel-ganslern-sl",
+  "course": "Ganslern",
+  "location": "Kitzbühel",
+  "discipline": "SL",
+  "facts": {
+    "start_alt_m": {
+      "value": 1004,
+      "confidence": "official"
+    },
+    "finish_alt_m": {
+      "value": 811,
+      "confidence": "official"
+    },
+    "length_m": {
+      "value": 590,
+      "confidence": "official"
+    },
+    "vertical_m": {
+      "value": 193,
+      "confidence": "official"
+    },
+    "max_gradient": {
+      "value": "70%",
+      "confidence": "official",
+      "where": "Steilhang"
+    },
+    "avg_gradient": {
+      "value": null
+    },
+    "other": []
+  },
+  "sections": [
+    {
+      "order": 1,
+      "name": "Start Ganslern",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "La pista sembra poco ripida ma cambia continuamente terreno.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 2,
+      "name": "Goasweg",
+      "kind": "roll",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.111
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Ciglio sul sentiero dopo le prime porte.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 3,
+      "name": "Hinterganslern",
+      "kind": "turn",
+      "direction": "right",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.222
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curve lunghe verso destra prima di un brusco calo di pendenza.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 4,
+      "name": "Steilhang",
+      "kind": "wall/steep",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.333
+      },
+      "details": {
+        "gradient": "70%"
+      },
+      "description_it": "Settore fino al 70%.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 5,
+      "name": "Höhenweg",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.444
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Passaggio dopo lo Steilhang.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 6,
+      "name": "Doppelwelle",
+      "kind": "humps",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.556
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Doppio dosso caratteristico.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 7,
+      "name": "Querfahrt Hohenegg",
+      "kind": "traverse",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.667
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Traverso inclinato.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 8,
+      "name": "Stadl-Kurve",
+      "kind": "turn",
+      "direction": "left",
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.778
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Curva a 90° marcata verso sinistra.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 9,
+      "name": "Talei",
+      "kind": "finish slope",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 0.889
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Tratto finale più dolce (minimo 20%).",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    },
+    {
+      "order": 10,
+      "name": "Ziel Ganslern",
+      "kind": "other",
+      "direction": null,
+      "position": {
+        "from_start_m": null,
+        "alt_m": null,
+        "s_approx": 1.0
+      },
+      "details": {
+        "gradient": null
+      },
+      "description_it": "Arrivo a 811 m vicino allo Zielgelände della Streif.",
+      "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "confidence": "official"
+    }
+  ],
+  "start_area": {
+    "name": "Start Ganslern",
+    "description_it": "La pista sembra poco ripida ma cambia continuamente terreno.",
+    "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/"
+  },
+  "finish_area": {
+    "name": "Ziel Ganslern",
+    "type": "stadium",
+    "description_it": "Arrivo a 811 m vicino allo Zielgelände della Streif.",
+    "source": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/"
+  },
+  "environment": {},
+  "archive_check": [],
+  "sources": [
+    {
+      "url": "https://hahnenkamm.com/rennstrecken/der-ganslern-slalom/",
+      "title": "Hahnenkamm – Der Ganslern Slalom",
+      "type": "official"
+    }
+  ],
+  "open_questions": [
+    "Posizioni lungo la pista stimate dall'ordine delle sezioni (nessuna progressiva pubblicata)."
+  ],
+  "_origin": "LiveSportArena_Ricerca_Piste_3D_2026-27.md (8/11/2026)"
+}
