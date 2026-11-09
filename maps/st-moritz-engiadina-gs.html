@@ -143,12 +143,33 @@ button{font:inherit;color:inherit}
   .app.detail-open .listBtn{bottom:calc(var(--sheet-off,0px) + 8px)}
 }
 @media (max-width:420px){.switch span{display:none}.switch{padding:0 10px}.switch svg{display:block}}
+
+/* Avviso discreto, sulla riga dei pulsanti: leggibile di giorno e di notte, non blocca la mappa. */
+.map-note {
+  position: absolute; top: 34px; left: 50%; transform: translate(-50%, -50%); z-index: 4;
+  display: flex; align-items: center; justify-content: center; gap: 5px; width: max-content; max-width: calc(100vw - 1032px); margin: 0; text-wrap: balance;
+  font-size: 11px; line-height: 1.25; color: #3f514f; pointer-events: none;
+  text-shadow: 0 0 4px rgba(255, 255, 255, .9), 0 0 1px rgba(255, 255, 255, .9);
+}
+.map-note svg { flex: none; width: 13px; height: 13px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; }
+.app.night .map-note { color: #dbe8f5; text-shadow: 0 0 4px rgba(15, 30, 50, .9); }
+/* Sotto i 1280 px tra titolo e pulsanti non c'è più spazio: scende appena sotto la riga. */
+@media (max-width: 1279px) { .map-note { top: 76px; transform: translateX(-50%); max-width: 34vw; } }
+/* Qui i pulsanti vanno su una seconda riga: l'avviso resta accanto al titolo, a destra. */
+@media (max-width: 1100px) {
+  .map-note { top: 42px; left: auto; right: 16px; transform: translateY(-50%); max-width: calc(100vw - 556px); justify-content: flex-end; }
+}
+@media (max-width: 760px) {
+  .map-note { top: 103px; left: 50%; right: auto; transform: translateX(-50%); max-width: calc(100vw - 16px); font-size: min(9.5px, 2.5vw); white-space: nowrap; }
+  .stats, .pathPanel, .profilePanel { top: 122px; }
+}
 </style>
 </head>
 <body>
 <div id="app" class="app">
   <canvas id="world" aria-label="Diorama 3D illustrativo: Engiadina, Slalom gigante"></canvas>
   <div id="pins" class="pins"></div>
+  <p class="map-note" role="note"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="7.5"/><path d="M10 9.2v4.3M10 6.4v.1"/></svg>Modello puramente rappresentativo, per vedere i punti cardine della pista</p>
 
   <header class="header panel" id="header">
     <a class="back" href="../index.html" aria-label="Tutte le mappe" title="Tutte le mappe"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>

@@ -143,12 +143,33 @@ button{font:inherit;color:inherit}
   .app.detail-open .listBtn{bottom:calc(var(--sheet-off,0px) + 8px)}
 }
 @media (max-width:420px){.switch span{display:none}.switch{padding:0 10px}.switch svg{display:block}}
+
+/* Avviso discreto, sulla riga dei pulsanti: leggibile di giorno e di notte, non blocca la mappa. */
+.map-note {
+  position: absolute; top: 34px; left: 50%; transform: translate(-50%, -50%); z-index: 4;
+  display: flex; align-items: center; justify-content: center; gap: 5px; width: max-content; max-width: calc(100vw - 1032px); margin: 0; text-wrap: balance;
+  font-size: 11px; line-height: 1.25; color: #3f514f; pointer-events: none;
+  text-shadow: 0 0 4px rgba(255, 255, 255, .9), 0 0 1px rgba(255, 255, 255, .9);
+}
+.map-note svg { flex: none; width: 13px; height: 13px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; }
+.app.night .map-note { color: #dbe8f5; text-shadow: 0 0 4px rgba(15, 30, 50, .9); }
+/* Sotto i 1280 px tra titolo e pulsanti non c'è più spazio: scende appena sotto la riga. */
+@media (max-width: 1279px) { .map-note { top: 76px; transform: translateX(-50%); max-width: 34vw; } }
+/* Qui i pulsanti vanno su una seconda riga: l'avviso resta accanto al titolo, a destra. */
+@media (max-width: 1100px) {
+  .map-note { top: 42px; left: auto; right: 16px; transform: translateY(-50%); max-width: calc(100vw - 556px); justify-content: flex-end; }
+}
+@media (max-width: 760px) {
+  .map-note { top: 103px; left: 50%; right: auto; transform: translateX(-50%); max-width: calc(100vw - 16px); font-size: min(9.5px, 2.5vw); white-space: nowrap; }
+  .stats, .pathPanel, .profilePanel { top: 122px; }
+}
 </style>
 </head>
 <body>
 <div id="app" class="app">
   <canvas id="world" aria-label="Diorama 3D illustrativo: Olympiabakken, Super-G"></canvas>
   <div id="pins" class="pins"></div>
+  <p class="map-note" role="note"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="7.5"/><path d="M10 9.2v4.3M10 6.4v.1"/></svg>Modello puramente rappresentativo, per vedere i punti cardine della pista</p>
 
   <header class="header panel" id="header">
     <a class="back" href="../index.html" aria-label="Tutte le mappe" title="Tutte le mappe"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M12.5 4.5 7 10l5.5 5.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
@@ -214,7 +235,7 @@ button{font:inherit;color:inherit}
 "SE": "<svg viewBox='0 0 16 10' role='img' aria-label='Svezia'><rect width='16' height='10' fill='#006aa7'/><rect x='5' width='2' height='10' fill='#fecc00'/><rect y='4' width='16' height='2' fill='#fecc00'/><\/svg>",
 "AD": "<svg viewBox='0 0 30 20' role='img' aria-label='Andorra'><rect width='10' height='20' fill='#10069f'/><rect x='10' width='10' height='20' fill='#fedd00'/><rect x='20' width='10' height='20' fill='#d50032'/><path d='M12.6 7h4.8v4.6c0 1.6-1.1 2.5-2.4 3-1.3-.5-2.4-1.4-2.4-3z' fill='#c7a136' stroke='#8a6d1c' stroke-width='.35'/><rect x='13.2' y='7.6' width='1.6' height='2.6' fill='#d50032'/><rect x='15.2' y='7.6' width='1.6' height='2.6' fill='#fedd00'/><\/svg>",
 "CA": "<svg viewBox='0 0 40 20' role='img' aria-label='Canada'><rect width='40' height='20' fill='#fff'/><rect width='10' height='20' fill='#d52b1e'/><rect x='30' width='10' height='20' fill='#d52b1e'/><path d='M20 3.2l1.3 2.5 1.4-.7-.5 3.7 2-2.2.5 1.2 2.2-.4-.8 2.6 1 .5-3.6 2.9.4 1.4-3.3-.5.1 3.3h-1.4l.1-3.3-3.3.5.4-1.4-3.6-2.9 1-.5-.8-2.6 2.2.4.5-1.2 2 2.2-.5-3.7 1.4.7z' fill='#d52b1e'/><\/svg>"
-};window.LSA_COURSE={"id":"kvitfjell-olympiabakken-sg-w","course":"Olympiabakken","location":"Kvitfjell","country":"Norvegia","iso":"NO","gender":"Femminile","discipline":"SG","disciplineLabel":"Super-G","subtitle":"Olympiabakken · Super-G femminile","source":"https://worldcupkvitfjell.no/en/courses","nSources":1,"archetype":"curvy_speed","archetypeLabel":"Curvy / Technical Speed","metrics":{"length":"2’170 m"},"poi":[{"name":"Partenza Super-G femminile","type":"Partenza","desc":"Partenza propria rappresentata nel profilo femminile ufficiale.","s":0.0,"conf":"official"},{"name":"Muri e traversi intermedi","type":"Traverso","desc":"Settori del corso olimpico; non è dimostrato che coincidano con quelli maschili.","s":0.45,"conf":"uncertain"},{"name":"Pendio finale","type":"Pendio d'arrivo","desc":"Zona finale del profilo ufficiale.","s":0.85,"conf":"uncertain"},{"name":"Arrivo Kvitfjell","type":"Arrivo","desc":"Arrivo del Super-G femminile; lunghezza ufficiale 2.170 m (rettifica dell'organizzatore).","s":1.0,"conf":"official"}],"model":{"L":2500,"W":1450,"H":950,"cell":32,"marginTop":125,"marginBottom":300,"pisteW":102,"gate":"speed","spacing":100,"lineAmp":20,"route":[-0.0041,0.1533,-0.1499,0.1613,-0.1748,0.1389,-0.1598,0.1455,-0.164,0.0774,0.0],"slope":[[0,1.1],[0.18,0.8],[0.34,1.2],[0.5,0.7],[0.66,1.15],[0.82,0.85],[0.94,0.95],[1,0.3]],"shoulder":85,"crest":85,"noise":34,"valleyW":0.26,"bowl":0,"peak":1.1,"trees":840,"rocks":28,"huts":3,"treeline":0.1,"lake":null,"glacier":false,"seed":7312,"features":[{"type":"turn","amp":-0.09,"len":125.0,"s":0.45,"poi":"Muri e traversi intermedi"},{"type":"flat","mult":0.8,"len":125.0,"s":0.45,"poi":"Muri e traversi intermedi"}],"finishModel":{"model":"meadow","stands":"temporary","screen":true,"zielhaus":true},"night":false},"finishName":"Arrivo Kvitfjell"};</script>
+};window.LSA_COURSE={"id":"kvitfjell-olympiabakken-sg-w","course":"Olympiabakken","location":"Kvitfjell","country":"Norvegia","iso":"NO","gender":"Femminile","discipline":"SG","disciplineLabel":"Super-G","subtitle":"Olympiabakken · Super-G femminile","source":"https://worldcupkvitfjell.no/en/courses","nSources":1,"archetype":"curvy_speed","archetypeLabel":"Curvy / Technical Speed","metrics":{"length":"2’170 m"},"poi":[{"name":"Partenza Super-G femminile","type":"Partenza","desc":"Cancelletto del super-G femminile sull’Olympiabakken.","s":0.0,"conf":"official"},{"name":"Muri e traversi intermedi","type":"Traverso","desc":"Muri e traversi del settore intermedio dell’Olympiabakken.","s":0.45,"conf":"uncertain"},{"name":"Pendio finale","type":"Pendio d'arrivo","desc":"Pendio conclusivo verso il traguardo di Kvitfjell.","s":0.85,"conf":"uncertain"},{"name":"Arrivo Kvitfjell","type":"Arrivo","desc":"Il super-G femminile si conclude dopo 2.170 m di percorso.","s":1.0,"conf":"official"}],"model":{"L":2500,"W":1450,"H":950,"cell":32,"marginTop":125,"marginBottom":300,"pisteW":102,"gate":"speed","spacing":100,"lineAmp":20,"route":[-0.0041,0.1533,-0.1499,0.1613,-0.1748,0.1389,-0.1598,0.1455,-0.164,0.0774,0.0],"slope":[[0,1.1],[0.18,0.8],[0.34,1.2],[0.5,0.7],[0.66,1.15],[0.82,0.85],[0.94,0.95],[1,0.3]],"shoulder":85,"crest":85,"noise":34,"valleyW":0.26,"bowl":0,"peak":1.1,"trees":840,"rocks":28,"huts":3,"treeline":0.1,"lake":null,"glacier":false,"seed":7312,"features":[{"type":"turn","amp":-0.09,"len":125.0,"s":0.45,"poi":"Muri e traversi intermedi"},{"type":"flat","mult":0.8,"len":125.0,"s":0.45,"poi":"Muri e traversi intermedi"}],"finishModel":{"model":"meadow","stands":"temporary","screen":true,"zielhaus":true},"night":false},"finishName":"Arrivo Kvitfjell"};</script>
 <script>/* LiveSportArena 3D · engine.js
  * Motore unico: terreno parametrico, mesh nel mondo, camera orbitale, renderer Canvas 2D.
  * Canvas 2D è il percorso principale: funziona da file:// e in ogni browser, senza GPU/WebGL.

@@ -1,0 +1,644 @@
+{
+  "adelboden-chuenisbargli-gs": {
+    "Kanonenrohr": {
+      "desc": "È il punto più ripido del tracciato. Subito dopo il via, sul muro ghiacciato e in ombra, occorre trovare il ritmo tra le porte."
+    },
+    "Zielhang Giisbrunni": {
+      "desc": "Muro finale con pendenze fino al 60%. Ai suoi piedi si apre l’arena dell’Hexenkessel."
+    }
+  },
+  "adelboden-chuenisbargli-sl": {
+    "Partenza slalom": {
+      "desc": "Lo slalom parte a 1.513 m, a metà del Chuenisbärgli."
+    },
+    "Zielhang Giisbrunni": {
+      "desc": "Il muro finale, condiviso con il gigante, raggiunge il 60% di pendenza."
+    }
+  },
+  "alta-badia-gran-risa-sl": {
+    "Partenza slalom": {
+      "desc": "Lo slalom parte nel settore inferiore della Gran Risa."
+    },
+    "Settore nel bosco": {
+      "desc": "La pista scende su un pendio ripido nel bosco."
+    },
+    "Gobes dl giat": {
+      "desc": "Nel finale della Gran Risa, il gigante attraversa due gobbe consecutive."
+    }
+  },
+  "are-national-arena-gs": {
+    "Partenza GS": {
+      "desc": "Partenza del gigante nella National Arena di Åre."
+    },
+    "Pendio GS": {
+      "desc": "Le porte del gigante disegnano ampie curve sul muro."
+    }
+  },
+  "are-national-arena-sl": {
+    "Parte ripida": {
+      "desc": "Tratto ripido dello slalom nella National Arena."
+    },
+    "Arrivo National Arena": {
+      "desc": "Lo slalom si conclude davanti al pubblico della National Arena."
+    }
+  },
+  "beaver-creek-birds-of-prey-dh": {
+    "The Flyway": {
+      "desc": "Sul pianoro iniziale contano la scorrevolezza degli sci e la sciolinatura."
+    },
+    "Pete's Arena": {
+      "desc": "Passaggio tra la curva di The Talon e il salto del Peregrine."
+    },
+    "Screech Owl": {
+      "desc": "Il salto prende il nome dall’assiolo, uno dei rapaci a cui sono dedicati i salti della Birds of Prey."
+    },
+    "Golden Eagle": {
+      "desc": "Salto dell’aquila reale nella parte bassa della Birds of Prey."
+    },
+    "The Abyss": {
+      "desc": "Passaggio della parte bassa, dopo il Golden Eagle."
+    }
+  },
+  "beaver-creek-birds-of-prey-gs": {
+    "Partenza GS – Pick 5": {
+      "desc": "Il gigante parte a Pick 5, a circa 3.124 m, poco sotto il cancelletto tradizionale del super-G maschile."
+    },
+    "Golden Eagle": {
+      "desc": "Il gigante attraversa il settore del Golden Eagle, il salto dell’aquila reale della Birds of Prey."
+    },
+    "The Abyss": {
+      "desc": "Passaggio della parte bassa, dopo il Golden Eagle."
+    },
+    "Harrier": {
+      "desc": "Nel dicembre 2025, per la scarsità di neve, le gare maschili si sono concluse all’altezza del salto Harrier."
+    },
+    "Red Tail": {
+      "desc": "Il settore Red Tail precede lo stadio d’arrivo. In discesa libera il salto può raggiungere i 70 m."
+    }
+  },
+  "beaver-creek-birds-of-prey-sg": {
+    "Partenza super-G": {
+      "desc": "Il super-G parte tradizionalmente a circa 3.400 m. Nel dicembre 2025 il cancelletto era in cima al Brink."
+    },
+    "The Brink": {
+      "desc": "Sul ripido del Brink il super-G segue la linea della discesa con porte più ravvicinate."
+    },
+    "Pete's Arena": {
+      "desc": "Passaggio tra la curva di The Talon e il salto del Peregrine."
+    },
+    "Screech Owl": {
+      "desc": "Il salto prende il nome dall’assiolo, uno dei rapaci a cui sono dedicati i salti della Birds of Prey."
+    },
+    "Golden Eagle": {
+      "desc": "Salto dell’aquila reale nella parte bassa della Birds of Prey."
+    },
+    "The Abyss": {
+      "desc": "Passaggio della parte bassa, dopo il Golden Eagle."
+    }
+  },
+  "bormio-stelvio-dh": {
+    "Salto della Rocca (Salto La Rocca)": {
+      "desc": "Primo salto della Stelvio. Dopo le curve iniziali si vola per circa 30 m. Accanto al Rifugio La Rocca comincia il bosco di pini, cembri e abeti."
+    },
+    "Attraversamento Valdisotto": {
+      "desc": "Passaggio tra il Canalino Sertorelli e la Fontana Lunga."
+    },
+    "Pian dell'Orso (Piano dell'Orso)": {
+      "desc": "Curve e controcurve veloci si susseguono per circa 400 m, con 100 m di dislivello."
+    },
+    "Doppia curva": {
+      "desc": "Dopo la Carcentina, due curve portano ai Prati del Ciuk."
+    },
+    "Prati del Ciuk": {
+      "desc": "Pianoro lungo circa 100 m a quota 1.638 m. Segue un breve muro prima del salto di San Pietro."
+    },
+    "Coston e Feleit (curve finali)": {
+      "desc": "Nella parte bassa della Stelvio si affrontano due curve veloci in contropendenza."
+    },
+    "Salto finale (Salto del Feleit)": {
+      "desc": "Ultimo salto prima del traguardo, affrontato a oltre 100 km/h."
+    }
+  },
+  "bormio-stelvio-sg": {
+    "Fontana Lunga – Ermellini": {
+      "desc": "Alla Fontana Lunga la Stelvio alterna un salto a una sequenza di curve."
+    },
+    "Carcentina": {
+      "desc": "La Carcentina è una diagonale in contropendenza sulla Stelvio."
+    }
+  },
+  "chamonix-verte-des-houches-sl": {
+    "Partenza slalom": {
+      "desc": "Lo slalom parte a 1.169 m sulla parte bassa della Verte."
+    },
+    "Settore vallonato": {
+      "desc": "Una successione di dossi movimenta la parte bassa della pista."
+    }
+  },
+  "copper-mountain-copper-cup-gs": {
+    "Partenza gigante": {
+      "desc": "Partenza del gigante di Copper Mountain."
+    },
+    "Pendio tecnico": {
+      "desc": "Settore delle curve del gigante, prima del finale su Rosi’s Run."
+    },
+    "Rosi's Run": {
+      "desc": "Rosi’s Run ospita il finale della Copper Cup."
+    }
+  },
+  "copper-mountain-copper-cup-sg": {
+    "Partenza Super-G": {
+      "desc": "Il super-G si disputa nell’area dello Speed Center di Copper Mountain."
+    },
+    "Settore intermedio": {
+      "desc": "Settore intermedio del super-G di Copper Mountain."
+    },
+    "Rosi's Run": {
+      "desc": "Pista numero 8, dedicata a Rosi Mittermaier. Ospita il finale della Copper Cup."
+    },
+    "East Village": {
+      "desc": "All’East Village si trovano le tribune e l’area d’arrivo della Copper Cup."
+    }
+  },
+  "cortina-d-ampezzo-olympia-delle-tofane-dh": {
+    "Delta": {
+      "desc": "Sul Delta il terreno nasconde l’uscita del passaggio. In estate è un punto di decollo per i deltaplani."
+    },
+    "Traverso finale": {
+      "desc": "Ultimo traverso verso il traguardo di Rumerlo."
+    }
+  },
+  "cortina-d-ampezzo-olympia-delle-tofane-sg": {
+    "Partenza super-G (zona Duca d'Aosta)": {
+      "desc": "Nel 2019 il super-G partiva a 2.160 m, con arrivo a Rumerlo.",
+      "name": "Partenza super-G"
+    },
+    "Delta": {
+      "desc": "Sul Delta il terreno nasconde l’uscita del passaggio. In estate è un punto di decollo per i deltaplani."
+    },
+    "Traverso finale": {
+      "desc": "Ultimo traverso verso il traguardo di Rumerlo."
+    }
+  },
+  "courchevel-emile-allais-sl": {
+    "Pendio dello stadio": {
+      "desc": "Pendio dello Stade Émile-Allais, tra la partenza a La Loze e l’arrivo a Courchevel 1850."
+    }
+  },
+  "crans-montana-mont-lachaux-dh": {
+    "Mur de Marius": {
+      "desc": "Primo muro ripido del Mont Lachaux, dove occorre dosare velocità e controllo."
+    },
+    "Trou du Renard": {
+      "desc": "Nella «tana della volpe» la pista si restringe e piega bruscamente a sinistra."
+    },
+    "Bosse du Président": {
+      "desc": "Il dosso lancia le atlete sul piano della Traverse de Clavan."
+    },
+    "Toboggan": {
+      "desc": "Una stretta curva a destra apre il muro finale, la parte più ripida della pista. Qui parte anche lo slalom."
+    },
+    "Saut final (senza nome)": {
+      "desc": "Ultimo salto artificiale prima del traguardo.",
+      "name": "Saut final"
+    }
+  },
+  "crans-montana-mont-lachaux-sg": {
+    "Mur de Marius / La Face": {
+      "desc": "Dopo il via la pista si restringe e piega a sinistra sul ripido."
+    },
+    "Saut final (senza nome)": {
+      "name": "Saut final"
+    }
+  },
+  "dachstein-west-hornspitz-gs": {
+    "Partenza GS Hornspitz": {
+      "desc": "Il gigante parte sul versante dell’Hornspitz."
+    },
+    "Talabfahrt Hornspitz 1": {
+      "desc": "La Talabfahrt Hornspitz 1 scende lungo il versante di gara."
+    },
+    "Area d'arrivo": {
+      "desc": "Tribune nell’area d’arrivo dell’Hornspitz, a Gosau."
+    }
+  },
+  "dachstein-west-hornspitz-sl": {
+    "Pendio SL": {
+      "desc": "Pendio dello slalom sul versante dell’Hornspitz."
+    }
+  },
+  "flachau-hermann-maier-weltcupstrecke-gs": {
+    "Partenza gigante": {
+      "desc": "Partenza del gigante sulla Hermann Maier Weltcupstrecke."
+    },
+    "Pendio Grießenkar": {
+      "desc": "La pista scende sul versante del Grießenkar."
+    }
+  },
+  "flachau-hermann-maier-weltcupstrecke-sl": {
+    "Oberer Teil": {
+      "desc": "La parte alta del Grießenkar è illuminata per le gare in notturna."
+    },
+    "Mittelteil": {
+      "desc": "Settore centrale dello slalom, prima del pendio d’arrivo."
+    },
+    "Zielhang": {
+      "desc": "Il pendio finale scende verso la periferia di Flachau davanti a un pubblico di 10.000–15.000 spettatori."
+    }
+  },
+  "garmisch-partenkirchen-kandahar-1-dh-w": {
+    "Partenza Kandahar 1 – Tröglhang": {
+      "desc": "Partenza storica della discesa femminile al Tröglhang, a circa 1.490 m."
+    },
+    "Hölle": {
+      "desc": "Tratto in ombra con terreno molto mosso."
+    }
+  },
+  "garmisch-partenkirchen-kandahar-dh": {
+    "Himmelreich": {
+      "desc": "Sulla variante femminile, l’Himmelreich ospita un salto e la partenza storica del super-G."
+    },
+    "Alte Quelle": {
+      "desc": "Passaggio intermedio della Kandahar. Il nome significa «vecchia sorgente»."
+    },
+    "Bödele": {
+      "desc": "Settore comune alle due Kandahar, prima che i percorsi si separino verso Eishang e Waldeck."
+    },
+    "Eishang": {
+      "desc": "Pendio ghiacciato e in ombra. Dal 2009 la Kandahar 1 femminile aggira l’Eishang."
+    },
+    "Padöls": {
+      "desc": "Passaggio che precede il muro finale."
+    }
+  },
+  "garmisch-partenkirchen-kandahar-sg": {
+    "Partenza Super-G": {
+      "desc": "Il super-G parte più in basso rispetto allo Starthang della discesa."
+    },
+    "Eishang – Himmelreich": {
+      "desc": "L’Eishang è il pendio ghiacciato della Kandahar. L’Himmelreich è uno dei passaggi della parte alta."
+    },
+    "Seilbahnsprung": {
+      "desc": "Al salto della funivia si può volare fino a 60 m."
+    },
+    "Freier Fall": {
+      "desc": "Sulla pista di discesa il muro del Freier Fall raggiunge il 92% di pendenza."
+    }
+  },
+  "gurgl-kirchenkar-sl": {
+    "Tratto ripido": {
+      "desc": "Sul Kirchenkar la pendenza massima raggiunge il 62%, con una media del 38,3% sull’intera pista."
+    },
+    "Zielhang": {
+      "desc": "Pendio finale verso il traguardo del Kirchenkar."
+    }
+  },
+  "jasna-lukova-koliesko-gs": {
+    "Parte alta": {
+      "desc": "Tratto tra la prima onda di terreno e la partenza alternativa del gigante."
+    },
+    "Náhradný štart OS (partenza alternativa del gigante)": {
+      "desc": "Cancelletto di riserva per il gigante, tra la prima e la seconda onda di terreno."
+    },
+    "Štart slalomu": {
+      "desc": "Qui parte lo slalom, con circa metà del dislivello del gigante."
+    },
+    "Parte centrale": {
+      "desc": "Settore centrale della Luková, prima della discesa verso Koliesko."
+    }
+  },
+  "jasna-lukova-sl": {
+    "Start Luková 2": {
+      "desc": "Nell’edizione 2024 il cancelletto dello slalom si trovava a 1.450 m."
+    },
+    "Pendio Luková 2": {
+      "desc": "La Luková scende verso l’arena di Koliesko."
+    },
+    "Koliesko": {
+      "desc": "Nell’edizione 2024 il traguardo di Koliesko era a 1.250 m."
+    }
+  },
+  "killington-superstar-gs": {
+    "Top Headwall": {
+      "desc": "Muro ripido dalla cima di Superstar fino all’incrocio con la pista Launch Pad."
+    },
+    "Lower Headwall – Preston's Pitch": {
+      "desc": "L’ultimo muro di Superstar scende direttamente sulla linea d’arrivo, davanti alle tribune."
+    },
+    "Arrivo – Festival Village": {
+      "desc": "Traguardo a circa 788 m, ai piedi di Superstar e davanti al K-1 Lodge."
+    }
+  },
+  "killington-superstar-sl": {
+    "Partenza SL": {
+      "desc": "Lo slalom parte a circa 988 m, più in basso rispetto al gigante."
+    },
+    "Lower Headwall – Preston's Pitch": {
+      "desc": "L’ultimo muro di Superstar scende direttamente sulla linea d’arrivo, davanti alle tribune."
+    },
+    "Arrivo – Festival Village": {
+      "desc": "Traguardo a circa 788 m, ai piedi di Superstar e davanti al K-1 Lodge."
+    }
+  },
+  "kitzbuhel-streif-dh": {
+    "Starthaus": {
+      "desc": "Casetta di partenza a 1.665 m sull’Hahnenkamm, subito sopra lo Starthang."
+    },
+    "Mausefalle": {
+      "desc": "La Mausefalle raggiunge l’85% di pendenza. Gli atleti affrontano il salto a 110–120 km/h e possono volare fino a 80 m."
+    },
+    "Steilhang": {
+      "desc": "Lunga curva a destra su un muro spesso ghiacciato. La pendenza raggiunge il 62% e la velocità è di 90–100 km/h."
+    },
+    "Brückenschuss": {
+      "desc": "Il punto più stretto della Streif si percorre a oltre 110 km/h."
+    },
+    "Gleitstück / Gschöss": {
+      "desc": "Tratto di scorrimento lungo 650 m, con una pendenza del 14% circa e velocità sotto i 90 km/h."
+    },
+    "Seidlalmkurve": {
+      "desc": "Lunga curva attorno alla baita Seidlalm."
+    },
+    "Hausbergkante": {
+      "desc": "Dal ciglio del salto, su una pendenza del 69%, si vede l’arrivo. Subito dopo si entra nella Hausberg-Kompression."
+    },
+    "Hausberg-Kompression": {
+      "desc": "Compressione dopo la Hausbergkante. A circa 100 km/h il carico raggiunge i 3,5 g."
+    },
+    "Zielschuss": {
+      "desc": "Sul tratto più veloce della Streif si superano i 140 km/h. La pendenza raggiunge il 68%."
+    },
+    "Zielkompression": {
+      "desc": "Compressione a oltre 140 km/h prima del salto conclusivo."
+    }
+  },
+  "kranjska-gora-podkoren-gs": {
+    "Start veleslaloma – strmina 59%": {
+      "desc": "Subito dopo il cancelletto si affronta il punto più ripido della pista, con una pendenza del 59%."
+    },
+    "Parte alta – terreno sospeso e curve cieche": {
+      "desc": "Curve cieche e tratti in pendenza laterale caratterizzano la Podkoren. Lungo la pista si incontrano pendenze dal 41% al 56%, oltre al muro iniziale."
+    },
+    "Tratto intermedio": {
+      "desc": "Settore tra il ripido iniziale e la quota di partenza dello slalom."
+    },
+    "Parte centrale – curve cieche": {
+      "desc": "I cambi di pendenza nascondono l’uscita di alcune curve."
+    },
+    "Zadnja strmina (ultimo ripido)": {
+      "desc": "L’ultimo ripido scende accanto alla terrazza del pubblico, verso l’arena di Podkoren."
+    }
+  },
+  "kranjska-gora-podkoren-sl": {
+    "Parte centrale – curve cieche": {
+      "desc": "I cambi di pendenza nascondono l’uscita di alcune curve."
+    },
+    "Zadnja strmina (ultimo ripido)": {
+      "desc": "L’ultimo ripido scende accanto alla terrazza del pubblico, verso l’arena di Podkoren."
+    }
+  },
+  "kronplatz-erta-gs": {
+    "Tratto centrale": {
+      "desc": "Settore centrale del gigante sulla Erta, tra il ripido iniziale e l’arrivo a San Vigilio."
+    }
+  },
+  "kvitfjell-olympiabakken-dh-m": {
+    "Arrivo Kvitfjell": {
+      "desc": "Il tracciato olimpico si conclude a fondovalle, a 184 m."
+    }
+  },
+  "kvitfjell-olympiabakken-dh-w": {
+    "Partenza discesa femminile": {
+      "desc": "La discesa femminile parte vicino alla curva Orresvingen."
+    },
+    "Orresvingen": {
+      "desc": "Curva vicina alla partenza della discesa femminile."
+    },
+    "Wintherhogget": {
+      "desc": "Il Wintherhogget è il muro che attraversa il bosco sull’Olympiabakken."
+    },
+    "Sletten": {
+      "desc": "Lo Sletten è un tratto di scorrimento dell’Olympiabakken."
+    },
+    "Settore inferiore": {
+      "desc": "Parte bassa della pista olimpica, verso il traguardo di Kvitfjell."
+    },
+    "Arrivo Kvitfjell": {
+      "desc": "Arrivo della discesa femminile ai piedi dell’Olympiabakken."
+    }
+  },
+  "kvitfjell-olympiabakken-sg-m": {
+    "Russispranget": {
+      "desc": "Sull’Olympiabakken il salto del Russispranget si trova sotto lo Sletten."
+    },
+    "Jansrudhoppet": {
+      "desc": "Il salto Jansrudhoppet si trova a circa 644 m sull’Olympiabakken."
+    },
+    "Elgtraversen – S-Svingen": {
+      "desc": "Nella parte bassa dell’Olympiabakken, al traverso dell’Elgtraversen seguono le curve della S-Svingen."
+    },
+    "Tommy Moe-kanalen – Klemma": {
+      "desc": "Il Tommy Moe-kanalen è un canale tecnico della parte bassa. Più a valle, la pista si stringe nella compressione di Klemma."
+    },
+    "Tunnelhoppet – Målhoppet": {
+      "desc": "Nella parte bassa dell’Olympiabakken, il Tunnelhoppet è vicino alla strada e il Målhoppet alla ferrovia."
+    },
+    "Arrivo Kvitfjell": {
+      "desc": "Traguardo nella parte bassa della pista olimpica di Kvitfjell."
+    }
+  },
+  "kvitfjell-olympiabakken-sg-w": {
+    "Partenza Super-G femminile": {
+      "desc": "Cancelletto del super-G femminile sull’Olympiabakken."
+    },
+    "Muri e traversi intermedi": {
+      "desc": "Muri e traversi del settore intermedio dell’Olympiabakken."
+    },
+    "Pendio finale": {
+      "desc": "Pendio conclusivo verso il traguardo di Kvitfjell."
+    },
+    "Arrivo Kvitfjell": {
+      "desc": "Il super-G femminile si conclude dopo 2.170 m di percorso."
+    }
+  },
+  "lenzerheide-silvano-beltrametti-sg": {
+    "Heimbergkante": {
+      "desc": "Il ciglio dell’Heimbergkante raggiunge il 70% di pendenza."
+    },
+    "Ziel Heimberg": {
+      "desc": "L’arrivo si trova ai margini di Parpan. Nel super-G del 2022 era a 1.560 m."
+    }
+  },
+  "les-houches-la-verte-des-houches-dh": {
+    "La Cassure": {
+      "desc": "Dalla cresta verso il Col de Voza, la pista scende con un salto sul versante nord-est sopra Les Houches."
+    },
+    "Saut (secondo salto da 60 m, nome non trovato)": {
+      "desc": "Secondo dei due salti da 60 m nella parte alta della Verte.",
+      "name": "Secondo salto da 60 m"
+    },
+    "Le Goulet": {
+      "desc": "Salto nella strettoia del bosco, uno dei passaggi tecnici della Verte."
+    }
+  },
+  "levi-levi-black-sl": {
+    "Pumping house hill (dosso della stazione di pompaggio)": {
+      "desc": "Dosso della stazione di pompaggio, subito sotto la partenza dello slalom."
+    },
+    "Parte alta – ritmo": {
+      "desc": "Prime porte dello slalom prima dell’ingresso sul muro."
+    },
+    "Lower Preston's Pitch": {
+      "desc": "Settore ripido della Levi Black.",
+      "name": "Settore ripido"
+    }
+  },
+  "madonna-di-campiglio-canalone-miramonti-sl": {
+    "Cambio del Magazzino": {
+      "desc": "Ultimo cambio di pendenza prima del traguardo."
+    }
+  },
+  "saalbach-schneekristall-dh": {
+    "Start Schneekristall": {
+      "desc": "Ai Mondiali del 2025 la discesa partiva a 1.984 m sullo Zwölferkogel."
+    },
+    "Settore superiore": {
+      "desc": "Settore alto della Schneekristall, sotto la partenza sullo Zwölferkogel."
+    },
+    "Settore tecnico intermedio": {
+      "desc": "Tratto tecnico a metà della discesa sullo Zwölferkogel."
+    },
+    "Arrivo Zwölferkogel": {
+      "desc": "L’arena d’arrivo dei Mondiali 2025 si trova a circa 1.070 m."
+    }
+  },
+  "saalbach-schneekristall-sg": {
+    "Start Super-G": {
+      "desc": "Ai Mondiali del 2025 il super-G partiva a 1.780 m, più in basso della discesa."
+    },
+    "Sezioni alte": {
+      "desc": "Tratto alto del super-G sullo Zwölferkogel, sotto il cancelletto a 1.780 m dei Mondiali 2025."
+    },
+    "Scorrimento e muri": {
+      "desc": "Il super-G alterna tratti di scorrimento e muri verso l’arena d’arrivo."
+    }
+  },
+  "schladming-planai-gs": {
+    "Oberer Teil": {
+      "desc": "Sul gigante della Planai la pendenza media è del 41% e la massima raggiunge il 61%."
+    },
+    "Mittelteil": {
+      "desc": "Il settore centrale scende fino al cancelletto dello slalom, a 967 m. Sull’intera pista del gigante la pendenza minima è del 12%."
+    }
+  },
+  "schladming-planai-sl": {
+    "Oberer Teil": {
+      "desc": "Sul pendio dello slalom la pendenza media è del 36,8% e la massima raggiunge il 54%."
+    }
+  },
+  "solden-rettenbach-gs": {
+    "Gletschertisch": {
+      "desc": "A circa 232 m dalla partenza si incontra il «tavolo del ghiacciaio», un tratto relativamente piatto dove prendere il ritmo prima del muro."
+    },
+    "Eisfall": {
+      "desc": "La «cascata di ghiaccio» è un muro lungo circa 370 m sulla pista nera 31. Qui il tracciato raggiunge la pendenza massima."
+    }
+  },
+  "soldeu-avet-sl": {
+    "Settore ripido inferiore": {
+      "desc": "La pendenza massima dell’Avet è del 65%."
+    }
+  },
+  "sun-valley-bald-mountain-greyhawk-dh": {
+    "Carol's Wagon Wheel": {
+      "desc": "Seconda sequenza di curve sulle pareti del canalone di Warm Springs. Il tratto è dedicato a Carol Holding, proprietaria del resort dal 1977."
+    },
+    "Cowboy's Corner": {
+      "desc": "Curva stretta di 180° su Lower Hemingway, da affrontare caricando lo sci sinistro. È dedicata al progettista Tom «Cowboy» Johnston."
+    }
+  },
+  "sun-valley-bald-mountain-greyhawk-gs": {
+    "Cowboy's Corner": {
+      "desc": "Curva stretta di 180° su Lower Hemingway, da affrontare caricando lo sci sinistro. È dedicata al progettista Tom «Cowboy» Johnston."
+    }
+  },
+  "sun-valley-bald-mountain-greyhawk-sg": {
+    "Carol's Wagon Wheel": {
+      "desc": "Seconda sequenza di curve sulle pareti del canalone di Warm Springs. Il tratto è dedicato a Carol Holding, proprietaria del resort dal 1977."
+    },
+    "Cowboy's Corner": {
+      "desc": "Curva stretta di 180° su Lower Hemingway, da affrontare caricando lo sci sinistro. È dedicata al progettista Tom «Cowboy» Johnston."
+    }
+  },
+  "sun-valley-bald-mountain-greyhawk-sl": {
+    "Proctor Park": {
+      "desc": "Proctor Park è un ampio pendio aperto nel finale della Greyhawk."
+    }
+  },
+  "val-d-isere-face-de-bellevarde-gs": {
+    "Départ GS (nome non trovato)": {
+      "desc": "Partenza del gigante a circa 2.300 m sulla parte bassa della Face de Bellevarde.",
+      "name": "Départ GS"
+    }
+  },
+  "val-d-isere-face-de-bellevarde-sl": {
+    "Passage de l'Ancolie (sopra/accanto)": {
+      "name": "Passage de l’Ancolie"
+    },
+    "Le Mur": {
+      "desc": "Sul muro della Face de Bellevarde la pendenza raggiunge il 70%. Qui si affrontano alcune delle porte più impegnative."
+    }
+  },
+  "val-gardena-saslong-dh": {
+    "Looping": {
+      "desc": "Secondo salto dopo il Moro, ridimensionato negli anni per ridurre le cadute."
+    },
+    "Curva del Lago": {
+      "desc": "Curva tecnica all’ingresso dei Prati del Ciaslat."
+    },
+    "Nucia": {
+      "desc": "Curva marcata a sinistra verso lo schuss finale."
+    },
+    "Salto del Tunnel (Tunnel Jump) e schuss finale": {
+      "desc": "La pista passa sopra la galleria stradale di Santa Cristina, aperta nel 2009. Dopo il salto comincia lo schuss finale."
+    },
+    "Arrivo Ruacia (Santa Cristina)": {
+      "desc": "Traguardo a 1.410 m ai margini di Santa Cristina. Ruacia prende il nome dal maso che sorge nella zona d’arrivo."
+    }
+  },
+  "val-gardena-saslong-sg": {
+    "Partenza Super-G": {
+      "desc": "Il super-G parte a 2.000 m sul Ciampinoi, nella zona del Saut dl Moro."
+    },
+    "Gobbe del Cammello": {
+      "desc": "Le tre gobbe della Saslong si trovano a circa 1.813 m."
+    },
+    "Ciaslat": {
+      "desc": "I Prati del Ciaslat alternano 17 dossi e quattro curve."
+    }
+  },
+  "wengen-lauberhorn-dh": {
+    "Alpweg": {
+      "desc": "Stradina larga circa 3 m, percorsa a oltre 100 km/h. È uno dei passaggi più stretti della discesa."
+    },
+    "Ziel-S": {
+      "desc": "Dopo oltre due minuti di gara, tre curve strette e ghiacciate precedono lo schuss finale."
+    },
+    "Zielschuss": {
+      "desc": "Schuss conclusivo verso il traguardo di Innerwengen."
+    }
+  },
+  "wengen-lauberhorn-sg": {
+    "Partenza Super-G": {
+      "desc": "Il super-G parte a circa 2.025 m, più in basso del cancelletto della discesa."
+    },
+    "Settori intermedi": {
+      "desc": "Parte intermedia del super-G tra la partenza sul Lauberhorn e il finale di Innerwengen."
+    }
+  },
+  "wengen-lauberhorn-sl": {
+    "Pendio tecnico": {
+      "desc": "Pendio dello slalom sopra l’arena di Innerwengen."
+    }
+  }
+}

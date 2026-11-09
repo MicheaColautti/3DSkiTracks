@@ -204,7 +204,9 @@ def metrics_from(facts):
     mg = facts.get("max_gradient")
     if ok(mg):
         v = str(mg["value"]).replace(" %", "%")
-        out["maxgrad"] = v + (" · " + mg["where"] if mg.get("where") and len(mg["where"]) < 26 else "")
+        where = (mg.get("where") or "").strip()
+        known_location = where and len(where) < 26 and not where.casefold().startswith(("non indicat", "non specificat"))
+        out["maxgrad"] = f"{v} · {where}" if known_location else v
     return out
 
 
@@ -316,6 +318,8 @@ def main():
     arch = json.load(open(P("data", "archetypes.json"), encoding="utf-8"))
     cfgs = json.load(open(P("data", "course-configs.json"), encoding="utf-8"))["courses"]
     ovs = json.load(open(P("data", "research-overrides.json"), encoding="utf-8"))["courses"]
+    with open(P("data", "public-sections.json"), encoding="utf-8") as f:
+        public_sections = json.load(f)
     tpl = open(P("src", "template.html"), encoding="utf-8").read()
     css = open(P("src", "styles.css"), encoding="utf-8").read()
     flags = open(P("src", "flags.json"), encoding="utf-8").read().strip()
@@ -327,12 +331,15 @@ def main():
         research = json.load(open(P("data", "research", t["id"] + ".json"), encoding="utf-8"))
         research = apply_overrides(research, ovs.get(t["id"]))
         c = resolve(t, cfgs[t["id"]], research, arch["archetypes"], arch["disciplines"])
+        edits = public_sections.get(t["id"], {})
         for point in c["poi"]:
             point["name"] = public_text(point["name"])
             point["desc"] = public_text(point["desc"])
+            point.update(edits.get(point["name"], {}))
         for feature in c["model"]["features"]:
             if "poi" in feature:
-                feature["poi"] = public_text(feature["poi"])
+                name = public_text(feature["poi"])
+                feature["poi"] = edits.get(name, {}).get("name", name)
         title = f'{c["location"]} / {c["course"]} — {c["disciplineLabel"]} · LiveSportArena'
         page = (tpl.replace("{{TITLE}}", html.escape(title))
                    .replace("{{ARIA}}", html.escape(f'Diorama 3D illustrativo: {c["course"]}, {c["disciplineLabel"]}'))
